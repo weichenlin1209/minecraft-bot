@@ -81,4 +81,4 @@ async def chat_endpoint(
 if __name__ == "__main__":
     import uvicorn
     # 使用你指定的 port 4567
-    uvicorn.run(app, host="127.0.0.1", port=4567)
+    uvicorn.run(app, host="0.0.0.0", port=4567)
