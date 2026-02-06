@@ -50,15 +50,17 @@ def index():
 @app.post("/chat")
 async def chat_endpoint(request: PromptRequest):
     try:
-        # 設定 50 秒超時，避免 cloudflared 等太久斷線
+        # 設定 50 秒超時
         answer = await asyncio.wait_for(get_ollama_response(request.prompt), timeout=50)
         return {"answer": answer, "model": model_id}
     except asyncio.TimeoutError:
-        throw HTTPException(status_code=504, detail="Response timeout")
+        # 這裡改為 raise
+        raise HTTPException(status_code=504, detail="Response timeout")
     except Exception as e:
-        throw HTTPException(status_code=500, detail=str(e))
+        # 這裡也改為 raise
+        raise HTTPException(status_code=500, detail=str(e))
 
 if __name__ == "__main__":
     import uvicorn
     # 執行在 8000 port
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="127.0.0.1", port=4567)
