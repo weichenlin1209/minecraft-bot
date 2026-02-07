@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "aichatbot",
+  "version": "${version}",
+  "name": "AI ChatBot",
+  "description": "讓 AI 可以在 Minecraft 聊天室回覆訊息或執行指令",
+  "authors": ["You"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.aichatbot.AIChatBotMod"
+    ],
+    "client": [
+      "com.aichatbot.AIChatBotClientMod"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
