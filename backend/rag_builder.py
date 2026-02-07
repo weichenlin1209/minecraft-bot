@@ -11,17 +11,17 @@ from langchain_community.document_loaders import (
   UnstructuredWordDocumentLoader
 )
 
-from embeddings import EmbeddingsGemmaEmbeddings
+from embedding import EmbeddingsGemmaEmbeddings
 
 
-load_dotdev()
+load_dotenv()
 HUGGING_FACE_TOKEN = os.getenv('HUGGING_FACE_TOKEN')
 login(token=HUGGING_FACE_TOKEN)
 
 logging.basicConfig(level=logging.INFO,)
 logging.info("It has logged in to HuggingFace.")
 
-DATA_FOLDER = "./uploaded_docs"
+DATA_FOLDER = "./loaded_docs"
 OUTPUT_PATH = "faiss_db"
 
 documents = []
