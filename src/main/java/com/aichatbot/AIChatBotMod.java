@@ -4,6 +4,7 @@ import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.message.v1.ServerMessageEvents;
 import net.minecraft.server.MinecraftServer;
+import net.minecraft.server.command.ServerCommandSource;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.text.Text;
 import org.slf4j.Logger;
@@ -56,34 +57,50 @@ public class AIChatBotMod implements ModInitializer {
 
             // 在新線程中呼叫 API，避免阻塞伺服器主線程
             new Thread(() -> {
-                String response = bot.callAI(prompt);
+                String response = bot.callAI(prompt, playerName);
 
                 // 回到主線程處理回應
                 server.execute(() -> {
-                    if (response.startsWith("/")) {
-                        // AI 回應是一個指令 → 執行它
-                        String command = response.substring(1);
-                        try {
-                            server.getCommandManager().getDispatcher()
-                                    .execute(command, server.getCommandSource());
+                    // 逐行掃描回應，分離指令和文字
+                    String[] lines = response.split("\n");
+                    StringBuilder textReply = new StringBuilder();
 
-                            // 通知所有玩家 AI 執行了指令
-                            server.getPlayerManager().broadcast(
-                                    Text.literal("§b[AI] §f執行指令: §a/" + command),
-                                    false
-                            );
-                            LOGGER.info("AI 執行指令: /{}", command);
-                        } catch (CommandSyntaxException e) {
-                            server.getPlayerManager().broadcast(
-                                    Text.literal("§c[AI] §f指令執行失敗: " + e.getMessage()),
-                                    false
-                            );
-                            LOGGER.error("AI 指令執行失敗: {}", e.getMessage());
+                    for (String line : lines) {
+                        String trimmed = line.trim();
+                        if (trimmed.startsWith("/")) {
+                            // 這行是指令 → 執行它
+                            String command = trimmed.substring(1);
+                            try {
+                                ServerCommandSource src = sender.getCommandSource()
+                                        .withLevel(4);
+                                server.getCommandManager().getDispatcher()
+                                        .execute(command, src);
+
+                                server.getPlayerManager().broadcast(
+                                        Text.literal("§b[AI] §f執行指令: §a/" + command),
+                                        false
+                                );
+                                LOGGER.info("AI 執行指令: /{}", command);
+                            } catch (CommandSyntaxException e) {
+                                server.getPlayerManager().broadcast(
+                                        Text.literal("§c[AI] §f指令執行失敗: " + e.getMessage()),
+                                        false
+                                );
+                                LOGGER.error("AI 指令執行失敗: {}", e.getMessage());
+                            }
+                        } else if (!trimmed.isEmpty()) {
+                            // 非指令的文字行
+                            if (textReply.length() > 0) {
+                                textReply.append(" ");
+                            }
+                            textReply.append(trimmed);
                         }
-                    } else {
-                        // 一般聊天回覆 → 廣播給所有玩家
+                    }
+
+                    // 如果有文字回覆，廣播給所有玩家
+                    if (textReply.length() > 0) {
                         server.getPlayerManager().broadcast(
-                                Text.literal("§b[AI] §f" + response),
+                                Text.literal("§b[AI] §f" + textReply),
                                 false
                         );
                     }

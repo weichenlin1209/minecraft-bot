@@ -14,13 +14,17 @@ public class AIChatBot {
     }
 
     /**
-     * 呼叫 OpenAI API 取得 AI 回應
+     * 呼叫 AI API 取得回應
      *
-     * @param prompt 使用者的提問內容
+     * @param prompt     使用者的提問內容
+     * @param playerName 發問玩家的名稱（用於替換 {player}）
      * @return AI 的回應文字
      */
-    public String callAI(String prompt) {
+    public String callAI(String prompt, String playerName) {
         try {
+            // 將 system prompt 中的 {player} 替換成實際玩家名稱
+            String systemPrompt = config.systemPrompt.replace("{player}", playerName);
+
             URL url = new URL(config.apiUrl);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("POST");
@@ -33,7 +37,7 @@ public class AIChatBot {
             String jsonBody = "{"
                     + "\"model\": \"" + escapeJson(config.model) + "\","
                     + "\"messages\": ["
-                    + "  {\"role\": \"system\", \"content\": \"" + escapeJson(config.systemPrompt) + "\"},"
+                    + "  {\"role\": \"system\", \"content\": \"" + escapeJson(systemPrompt) + "\"},"
                     + "  {\"role\": \"user\", \"content\": \"" + escapeJson(prompt) + "\"}"
                     + "],"
                     + "\"temperature\": " + config.temperature

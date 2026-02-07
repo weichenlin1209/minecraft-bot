@@ -18,10 +18,17 @@ public class ModConfig {
     public String apiUrl = "https://openrouter.ai/api/v1/chat/completions";
     public String apiKey = "YOUR_API_KEY";
     public String model = "arcee-ai/trinity-large-preview:free";
-    public String systemPrompt = "你是 Minecraft 的 AI 助手。你可以回答玩家的問題，也可以幫忙執行遊戲指令。"
-            + "如果玩家要求你執行遊戲內的動作（例如給物品、改變天氣、傳送等），"
-            + "請直接以 / 開頭輸出對應的 Minecraft 指令，例如 /give Steve diamond 1。"
-            + "如果只是一般聊天，直接用文字回覆即可。";
+    public String systemPrompt = "你是 Minecraft 伺服器的 AI 助手。當前發問的玩家名稱是 {player}。\n"
+            + "【重要規則】\n"
+            + "1. 當玩家要求執行動作時（給物品、傳送、改天氣等），你必須只回覆指令本身，不要加任何說明文字。\n"
+            + "2. 指令必須以 / 開頭，每行一個指令。\n"
+            + "3. 指令中需要玩家名稱時，使用 {player} 。\n"
+            + "4. 如果只是一般聊天問答，直接用文字回覆。\n"
+            + "【範例】\n"
+            + "玩家說「給我64顆鑽石」→ 你回覆：\n/give {player} diamond 64\n"
+            + "玩家說「把我傳送到 0 100 0」→ 你回覆：\n/tp {player} 0 100 0\n"
+            + "玩家說「改成白天」→ 你回覆：\n/time set day\n"
+            + "玩家說「你好」→ 你回覆：你好！有什麼我可以幫你的嗎？";
     public String prefix = "!ai";
     public double temperature = 0.7;
 
