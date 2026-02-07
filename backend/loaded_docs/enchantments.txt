@@ -1,0 +1,1812 @@
+【Minecraft 資料庫 - 附魔列表】
+來源: https://minecraft.wiki/w/Enchanting
+==================================================
+
+### Enchanting Table
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Used to enchant items.
+----------------------------------------
+### Bookshelf
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Allows the enchanting table to apply higher-level enchantments. Each bookshelf increases the level requirement of enchantments given by the enchanting table by two, up to a maximum of 30 (or 15 bookshelves).
+----------------------------------------
+### Lapis Lazuli
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Required to power the enchanting table (up to three per item).
+----------------------------------------
+### Anvil
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Used to combine enchanted items (tools, armor, weapons, etc.), add enchantments from books, or repair an item while preserving enchantments. Each time an anvil is used on an item, the XP cost for future uses on that item increases exponentially
+----------------------------------------
+### Grindstone
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Used to remove all non-curse enchantments on an item, returning a small amount of experience, and optionally combine the durability of two items (plus an additional 5% durability) an item for no experience.
+----------------------------------------
+### Enchanted Book
+【類別】: 附魔列表
+【Icon】: 
+【描述/備註】: Can be combined with another item through an anvil to add certain enchantments to the item. This costs experience points based on the enchantment and its level.
+----------------------------------------
+### Aqua Affinity
+【類別】: 附魔列表
+【Summary】: Removes the mining speed reduction that occurs when underwater.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Bane of Arthropods
+【類別】: 附魔列表
+【Summary】: Increases damage against arthropod mobs (spiders, cave spiders, silverfish, endermites and bees) and applies Slowness IV to them.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Smite, Sharpness, Breach, Density
+【MaxLevel】: V
+【PrimaryItems】: ‌
+【SecondaryItems】: ‌
+【描述/備註】: 5
+----------------------------------------
+### Blast Protection
+【類別】: 附魔列表
+【Summary】: Reduces explosion damage and knockback.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Fire Protection, Protection, Projectile Protection
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Breach
+【類別】: 附魔列表
+【Summary】: Reduces the effectiveness of armor on the target, including innate armor points.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Density, Bane of Arthropods, Smite, Sharpness
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Channeling
+【類別】: 附魔列表
+【Summary】: During thunderstorms, a thrown trident summons a lightning bolt on the target upon hit.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Riptide
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Curse of Binding
+【類別】: 附魔列表
+【Summary】: Items cannot be removed from armor slots.
+【Treasure】: Yes
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Curse of Vanishing
+【類別】: 附魔列表
+【Summary】: Item disappears on death.
+【Treasure】: Yes
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: ‌
+【描述/備註】: 1
+----------------------------------------
+### Density
+【類別】: 附魔列表
+【Summary】: Increases the damage of a mace's smash attack.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Breach, Bane of Arthropods, Smite, Sharpness
+【MaxLevel】: V
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Depth Strider
+【類別】: 附魔列表
+【Summary】: Lessens the movement speed reduction that occurs when in water.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Frost Walker
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Efficiency
+【類別】: 附魔列表
+【Summary】: Increases mining efficiency.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: V
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 10
+----------------------------------------
+### Feather Falling
+【類別】: 附魔列表
+【Summary】: Reduces fall damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Fire Aspect
+【類別】: 附魔列表
+【Summary】: Sets targets on fire.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: II
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Fire Protection
+【類別】: 附魔列表
+【Summary】: Reduces fire damage and burning time.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Blast Protection, Protection, Projectile Protection
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Flame
+【類別】: 附魔列表
+【Summary】: Fired arrows are burning, setting targets on fire.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Fortune
+【類別】: 附魔列表
+【Summary】: Chance to receive more item drops from certain blocks.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Silk Touch
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Frost Walker
+【類別】: 附魔列表
+【Summary】: Turns water into frosted ice beneath the wearer's feet, and provides immunity to campfire and magma block damage.
+【Treasure】: Yes
+【Tradable】: Yes
+【IncompatibleWith】: Depth Strider
+【MaxLevel】: II
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Impaling
+【類別】: 附魔列表
+【Summary】: In Java Edition, increases damage against aquatic mobs. In Bedrock Edition, increases damage against mobs in water or rain.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: V
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Infinity
+【類別】: 附魔列表
+【Summary】: Prevents consumption of arrows, but not spectral arrows or tipped arrows.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Mending
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Knockback
+【類別】: 附魔列表
+【Summary】: Increases melee knockback.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: II
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Looting
+【類別】: 附魔列表
+【Summary】: Chance to receive more item drops from certain mobs.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Loyalty
+【類別】: 附魔列表
+【Summary】: Returns the trident to its owner upon landing after being thrown.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Riptide
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Luck of the Sea
+【類別】: 附魔列表
+【Summary】: Increases the rate of treasure items from fishing.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Lunge
+【類別】: 附魔列表
+【Summary】: Launches the player horizontally when using a spear's jab attack, at the cost of consuming saturation and hunger points as well as 1 durability.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Lure
+【類別】: 附魔列表
+【Summary】: Decreases time for bites when fishing.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Mending
+【類別】: 附魔列表
+【Summary】: Repairs the item using experience.
+【Treasure】: Yes
+【Tradable】: Yes
+【IncompatibleWith】: Infinity
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Multishot
+【類別】: 附魔列表
+【Summary】: Adds 2 arrows to the sides of the center arrow, at the cost of increasing incurred durability damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Piercing
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Piercing
+【類別】: 附魔列表
+【Summary】: Causes fired arrows to pierce entities, allowing for a single arrow to hit multiple mobs, and allows arrows to be picked up again after hitting a target.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Multishot
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 10
+----------------------------------------
+### Power
+【類別】: 附魔列表
+【Summary】: Increases arrow damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: V
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 10
+----------------------------------------
+### Projectile Protection
+【類別】: 附魔列表
+【Summary】: Reduces damage from projectiles.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Protection, Blast Protection, Fire Protection
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Protection
+【類別】: 附魔列表
+【Summary】: Reduces most forms of damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Blast Protection, Fire Protection, Projectile Protection
+【MaxLevel】: IV
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 10
+----------------------------------------
+### Punch
+【類別】: 附魔列表
+【Summary】: Increases arrow knockback.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: II
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Quick Charge
+【類別】: 附魔列表
+【Summary】: Increases crossbow charging speed.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Respiration
+【類別】: 附魔列表
+【Summary】: Extends underwater breathing time.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Riptide
+【類別】: 附魔列表
+【Summary】: Trident when used launches the wielder while in water or rain, replacing its ability to be thrown as a projectile.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Channeling, Loyalty
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Sharpness
+【類別】: 附魔列表
+【Summary】: Increases melee damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Bane of Arthropods, Smite, Breach, Density
+【MaxLevel】: V
+【PrimaryItems】: ‌
+【SecondaryItems】: ‌
+【描述/備註】: 10
+----------------------------------------
+### Silk Touch
+【類別】: 附魔列表
+【Summary】: Certain blocks that would otherwise drop different items or nothing will drop themselves instead.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Fortune
+【MaxLevel】: I
+【PrimaryItems】: 
+【SecondaryItems】: ‌
+【描述/備註】: 1
+----------------------------------------
+### Smite
+【類別】: 附魔列表
+【Summary】: Increases damage dealt against undead mobs.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Bane of Arthropods, Sharpness, Breach, Density
+【MaxLevel】: V
+【PrimaryItems】: ‌
+【SecondaryItems】: ‌
+【描述/備註】: 5
+----------------------------------------
+### Soul Speed
+【類別】: 附魔列表
+【Summary】: Movement speed on soul sand is increased instead of decreased, and movement speed on soul soil is increased.
+【Treasure】: Yes
+【Tradable】: No
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Sweeping Edge‌
+【類別】: 附魔列表
+【Summary】: Increases the damage of a sword sweep attack. This increase applies to nearby entities that are close to the attacked entity, but does not apply to the attacked entity itself.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Swift Sneak
+【類別】: 附魔列表
+【Summary】: Lessens the movement speed reduction that occurs when sneaking.
+【Treasure】: Yes
+【Tradable】: No
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 1
+----------------------------------------
+### Thorns
+【類別】: 附魔列表
+【Summary】: Random chance to damage entities that attack the user, at the cost of increasing incurred durability damage.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: ‌‌‌‌
+【SecondaryItems】: ‌‌‌‌
+【描述/備註】: 1
+----------------------------------------
+### Unbreaking
+【類別】: 附魔列表
+【Summary】: Gives a chance for items to ignore durability loss, effectively increasing their durability.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 5
+----------------------------------------
+### Wind Burst
+【類別】: 附魔列表
+【Summary】: Causes a burst of wind upon executing a mace smash attack that launches the attacker upward.
+【Treasure】: Yes
+【Tradable】: No
+【IncompatibleWith】: 
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Cleaving ‌
+【類別】: 附魔列表
+【Summary】: Increases the damage and shield stun time of an axe.
+【Treasure】: No
+【Tradable】: Yes
+【IncompatibleWith】: Sharpness, Bane of Arthropods, Smite
+【MaxLevel】: III
+【PrimaryItems】: 
+【SecondaryItems】: 
+【描述/備註】: 2
+----------------------------------------
+### Helmet
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Thorns III, Respiration III, Aqua Affinity, Curse of Binding, Curse of Vanishing
+【Only one from each column】: Protection IV, Projectile Protection IV, Fire Protection IV, Blast Protection IV
+【描述/備註】: 
+----------------------------------------
+### Chestplate
+【類別】: 附魔列表
+【描述/備註】: Mending, Unbreaking III, Thorns III, Curse of Binding, Curse of Vanishing
+----------------------------------------
+### Leggings
+【類別】: 附魔列表
+【描述/備註】: Mending, Unbreaking III, Thorns III, Swift Sneak III, Curse of Binding, Curse of Vanishing
+----------------------------------------
+### Boots
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Thorns III, Feather Falling IV, Soul Speed III, Curse of Binding, Curse of Vanishing
+【描述/備註】: Depth Strider III, Frost Walker II
+----------------------------------------
+### Sword
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Fire Aspect II, Looting III, Knockback II, Curse of Vanishing, Sweeping Edge III‌
+【Only one from each column】: Sharpness V, Smite V, Bane of Arthropods V
+【描述/備註】: 
+----------------------------------------
+### Spear
+【類別】: 附魔列表
+【Any combination of】: Unbreaking III, Fire Aspect II, Looting III, Knockback II, Curse of Vanishing, Lunge III, Mending
+【Only one from each column】: Sharpness V, Smite V, Bane of Arthropods V
+【描述/備註】: 
+----------------------------------------
+### Mace
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Fire Aspect II, Wind Burst III, Curse of Vanishing
+【Only one from each column】: Smite V, Bane of Arthropods V, Density V, Breach IV
+【描述/備註】: 
+----------------------------------------
+### Axe
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Efficiency V, Curse of Vanishing
+【Only one from each column】: Fortune III, Silk Touch
+【描述/備註】: Sharpness V, Smite V, Bane of Arthropods V, Cleaving III​
+----------------------------------------
+### Pickaxe
+【類別】: 附魔列表
+【描述/備註】: 
+----------------------------------------
+### Bow
+【類別】: 附魔列表
+【Any combination of】: Unbreaking III, Power V, Punch II, Flame, Curse of Vanishing
+【Only one from each column】: Infinity, Mending
+【描述/備註】: 
+----------------------------------------
+### Fishing Rod
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Lure III, Luck of the Sea III, Curse of Vanishing
+【Only one from each column】: 
+【描述/備註】: 
+----------------------------------------
+### Trident
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Impaling V, Curse of Vanishing
+【Only one from each column】: Channeling, Riptide III
+【描述/備註】: Loyalty III, Riptide III
+----------------------------------------
+### Crossbow
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Quick Charge III, Curse of Vanishing
+【Only one from each column】: Piercing IV, Multishot
+【描述/備註】: 
+----------------------------------------
+### Shears
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Efficiency V, Curse of Vanishing, Silk Touch‌
+【Only one from each column】: 
+【描述/備註】: 
+----------------------------------------
+### Elytra
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Curse of Binding, Curse of Vanishing
+【Only one from each column】: 
+【描述/備註】: 
+----------------------------------------
+### Shield
+【類別】: 附魔列表
+【Any combination of】: Mending, Unbreaking III, Curse of Vanishing
+【Only one from each column】: 
+【描述/備註】: 
+----------------------------------------
+### Compass
+【類別】: 附魔列表
+【Any combination of】: Curse of Vanishing
+【Only one from each column】: 
+【描述/備註】: 
+----------------------------------------
+### Bane of Arthropods (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Breach (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Channeling (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Cleaving (III) ​
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Curse of Vanishing (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Density (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Efficiency (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Fire Aspect (II)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Flame (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Fortune (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Impaling (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Infinity (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Knockback (II)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Looting (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Loyalty (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Luck of the Sea (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Lunge (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Lure (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Mending (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Multishot (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Piercing (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Power (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Punch (II)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Quick Charge (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Riptide (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Sharpness (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Silk Touch (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: ‌
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Smite (V)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Sweeping Edge (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Unbreaking (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Wind Burst (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【‌】: 
+【‌】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Aqua Affinity (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Blast Protection (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Curse of Binding (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Curse of Vanishing (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Depth Strider (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Feather Falling (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Fire Protection (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Frost Walker (II)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Mending (I)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Projectile Protection (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Protection (IV)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Respiration (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Soul Speed (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Swift Sneak (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Thorns (III)
+【類別】: 附魔列表
+【】: ‌
+【】: 
+【】: ‌
+【】: ‌
+【】: 
+【描述/備註】: 
+----------------------------------------
+### ‌
+【類別】: 附魔列表
+【】: ‌
+【描述/備註】: ‌
+----------------------------------------
+### Unbreaking (III)
+【類別】: 附魔列表
+【】: 
+【】: 
+【】: 
+【】: 
+【】: 
+【描述/備註】: 
+----------------------------------------
+### Aqua Affinity
+【類別】: 附魔列表
+【Stackable】: Largest on first in armor
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: 
+----------------------------------------
+### Bane of Arthropods
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: Single:-2147483648Stacked:-52241757371157708
+【Effective max】: Single:2147483647Stacked:52241757371157708
+【描述/備註】: Adds 2.5 * level damageAffects arthropods with slowness IV for 1 + random(0, level / 2) seconds
+----------------------------------------
+### Blast Protection
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 10
+【描述/備註】: Reduces damage by a factor of min(20, level * 2) / 25Reduces explosion knockback by a factor of level * 0.15Higher levels are treated as 10
+----------------------------------------
+### Breach
+【類別】: 附魔列表
+【Stackable】: Reduces
+【Effective min】: 0
+【Effective max】: Single:2147483647Stacked:36028799149670399
+【描述/備註】: Reduces armor effectiveness by 15%
+----------------------------------------
+### Channeling
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: Summons lightning on striking an entity or lightning rod on thunderstorms.
+----------------------------------------
+### Curse of Binding
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: Prevent players from removing tools or armor
+----------------------------------------
+### Curse of Vanishing
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: Item will vanish upon death
+----------------------------------------
+### Density
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 0
+【Effective max】: Single:2147483647Stacked:36028799149670399
+【描述/備註】: Adds 0.5 * max(0, level - 1) + 1 damage by fall height
+----------------------------------------
+### Depth Strider
+【類別】: 附魔列表
+【Stackable】: Largest on first in armor
+【Effective min】: 1
+【Effective max】: 3
+【描述/備註】: Higher levels are treated as 3
+----------------------------------------
+### Efficiency
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Increases mine speed by level² + 1Higher levels are treated as 255
+----------------------------------------
+### Feather Falling
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 7
+【描述/備註】: Reduces damage by a factor of min(20, level * 3) / 25
+----------------------------------------
+### Fire Aspect
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Sets mobs on fire for level * 4 secondsHigher levels are treated as 255
+----------------------------------------
+### Fire Protection
+【類別】: 附魔列表
+【Stackable】: Adds for damage reductionLargest of first in armor for duration reduction
+【Effective min】: 1
+【Effective max】: 10
+【描述/備註】: Reduces damage by a factor of min(20, level * 2) / 25Reduces fire duration by a factor of level * 0.15
+----------------------------------------
+### Flame
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: 
+----------------------------------------
+### Fortune
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Anything that uses the apply_bonus loot table function works like thisHigher levels are treated as 255
+----------------------------------------
+### Frost Walker
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 14
+【描述/備註】: Higher levels are treated as 14
+----------------------------------------
+### Impaling
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: Single:-2147483648Stacked:-52241757371157708
+【Effective max】: Single:2147483647Stacked:52241757371157708
+【描述/備註】: Adds 2.5 * level damage
+----------------------------------------
+### Infinity
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: 
+----------------------------------------
+### Knockback
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Adds level knockback strengthHigher levels are treated as 255
+----------------------------------------
+### Looting
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Higher levels are treated as 255
+----------------------------------------
+### Loyalty
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 127
+【描述/備註】: Increases return speed by 0.05 * levelHigher levels are treated as 0
+----------------------------------------
+### Luck of the Sea
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Adds level luckHigher levels are treated as 255
+----------------------------------------
+### Lure
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 5
+【描述/備註】: Reduces lure time by 5 * level secondsHigher levels prevent fish from appearing
+----------------------------------------
+### Mending
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: 
+----------------------------------------
+### Multishot
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Every levels add 2 to the amount of arrows fired to bows and crossbows. e.g. Multishot I = 1 Arrow + 2 Arrows = 3.
+----------------------------------------
+### Piercing
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 127
+【描述/備註】: Higher levels are treated as 0
+----------------------------------------
+### Power
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Increases damage by 0.5 * level + 0.5Higher levels are treated as 255
+----------------------------------------
+### Projectile Protection
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 10
+【描述/備註】: Reduces damage by a factor of min(20, level * 2) / 25
+----------------------------------------
+### Protection
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 20
+【描述/備註】: Reduces damage by a factor of min(20, level) / 25
+----------------------------------------
+### Punch
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Adds level * 0.6 knockback strengthHigher levels are treated as 255
+----------------------------------------
+### Quick Charge
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 5
+【描述/備註】: Reduces draw time by 0.25 * level secondsHigher levels prevent charging of crossbow
+----------------------------------------
+### Respiration
+【類別】: 附魔列表
+【Stackable】: Largest of first in armor
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Causes a level / (level + 1) chance not to decrease air levelHigher levels are treated as 255
+----------------------------------------
+### Riptide
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Throws the player (6 * level) + 3 blocks while in rain, or (4 * level) + 3 blocks while underwater
+----------------------------------------
+### Sharpness
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 0
+【Effective max】: Single:2147483647Stacked:36028799149670399
+【描述/備註】: Adds 0.5 * max(0, level - 1) + 1 damage
+----------------------------------------
+### Silk Touch
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 1
+【描述/備註】: 
+----------------------------------------
+### Smite
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: Single:-2147483648Stacked:-52241757371157708
+【Effective max】: Single:2147483647Stacked:52241757371157708
+【描述/備註】: Adds 2.5 * level damage
+----------------------------------------
+### Soul Speed
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Increases speed by 0.03 + (level * 0.0105)Higher levels are treated as 255
+----------------------------------------
+### Sweeping Edge
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Increases sweeping damage by a factor of level / (level + 1) times the hit's damageHigher levels are treated as 255
+----------------------------------------
+### Swift Sneak
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 5
+【描述/備註】: Increases walking speed while sneaking by level * 15%Higher levels are treated as 5
+----------------------------------------
+### Thorns
+【類別】: 附魔列表
+【Stackable】: Individual Procs
+【Effective min】: 1
+【Effective max】: 2147483647
+【描述/備註】: Chance of hitting is 0.15 * levelDeals level - 10 damage if level is 11 or greater, otherwise deals random(0, 3) + 1
+----------------------------------------
+### Unbreaking
+【類別】: 附魔列表
+【Stackable】: First
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Items have a 1 in level + 1 chance to take damage. Armor has a 0.6 chance to take damage even if it would otherwise skip it.Higher levels are treated as 255
+----------------------------------------
+### Wind Burst
+【類別】: 附魔列表
+【Stackable】: Adds
+【Effective min】: 1
+【Effective max】: 255
+【描述/備註】: Adds 1.15 + 0.35 * level by launching
+----------------------------------------
+### Sound
+【類別】: 附魔列表
+【描述/備註】: Attenuationdistance
+----------------------------------------
+### 無
+【類別】: 附魔列表
+【描述/備註】: 16
+----------------------------------------
+### Sound
+【類別】: 附魔列表
+【描述/備註】: Pitch
+----------------------------------------
+### 無
+【類別】: 附魔列表
+【描述/備註】: 1.0
+----------------------------------------
+### October 3, 2011
+【類別】: 附魔列表
+【描述/備註】: The first images of a player wearing enchanted armor are revealed.
+----------------------------------------
+### 1.0.0
+【類別】: 附魔列表
+【描述/備註】: Added enchanting.
+----------------------------------------
+### Beta 1.9 Prerelease 4
+【類別】: 附魔列表
+【描述/備註】: Added Aqua Affinity, Bane of Arthropods, Blast Protection, Efficiency, Feather Falling, Fire Aspect, Fire Protection, Fortune, Knockback, Looting, Projectile Protection, Protection, Respiration, Sharpness, Silk Touch, Smite and Unbreaking.
+----------------------------------------
+### 1.1
+【類別】: 附魔列表
+【描述/備註】: Added Flame, Infinity, Power and Punch.
+----------------------------------------
+### 1.2.1
+【類別】: 附魔列表
+【描述/備註】: Enchanting no longer requires experience in Creative mode.
+----------------------------------------
+### 12w06a
+【類別】: 附魔列表
+【描述/備註】: Bows and golden swords now have a small chance of being already enchanted when dropped by their respective mobs.
+----------------------------------------
+### 1.3.1
+【類別】: 附魔列表
+【描述/備註】: The maximum enchantment power has been lowered from 50 to 30; as a result, the amount of bookshelves required to reach the maximum enchantment power has lowered from 30 to 15.
+----------------------------------------
+### 1.4.2
+【類別】: 附魔列表
+【描述/備註】: Enchantments can be combined using anvils, allowing some high level enchantments to be applied where they were not previously possible.
+----------------------------------------
+### 1.4.4
+【類別】: 附魔列表
+【描述/備註】: Enchantments can be applied using /enchant. However, Protection is unavailable due to a bug.
+----------------------------------------
+### 1.4.6
+【類別】: 附魔列表
+【描述/備註】: /enchant now works with ID 0, meaning it can be used to apply Protection.
+----------------------------------------
+### 12w50a
+【類別】: 附魔列表
+【描述/備註】: Added Thorns.
+----------------------------------------
+### 1.7.2
+【類別】: 附魔列表
+【描述/備註】: The fishing rod can be enchanted without the use of books.
+----------------------------------------
+### 1.8
+【類別】: 附魔列表
+【描述/備註】: Enchanting has received a major overhaul where there is now a secondary cost, which is lapis lazuli.
+----------------------------------------
+### 14w25a
+【類別】: 附魔列表
+【描述/備註】: Added Depth Strider.
+----------------------------------------
+### 1.9
+【類別】: 附魔列表
+【描述/備註】: Enchantments with a max level of 1 no longer display the level, e.g. "Infinity" rather than "Infinity I".
+----------------------------------------
+### 15w47b
+【類別】: 附魔列表
+【描述/備註】: Shears can no longer be enchanted with Silk Touch.
+----------------------------------------
+### 15w47c
+【類別】: 附魔列表
+【描述/備註】: Shears now harvest cobweb without requiring Silk Touch.
+----------------------------------------
+### 1.11
+【類別】: 附魔列表
+【描述/備註】: Added Curse of Binding and Curse of Vanishing.
+----------------------------------------
+### 1.11.1
+【類別】: 附魔列表
+【描述/備註】: Added Sweeping Edge.
+----------------------------------------
+### release
+【類別】: 附魔列表
+【描述/備註】: Anvils no longer allow enchanted books to apply to items, if no change in enchantments would take effect. This can occur if all enchantments on the book are incompatible with existing enchantments on the item – or if the enchanted book has no enchantments.
+----------------------------------------
+### 1.13
+【類別】: 附魔列表
+【描述/備註】: Hoes can be enchanted.
+----------------------------------------
+### 18w07a
+【類別】: 附魔列表
+【描述/備註】: Added Channeling, Impaling, Loyalty and Riptide.
+----------------------------------------
+### 18w21a
+【類別】: 附魔列表
+【描述/備註】: When an item is enchanted, its rarity tier is now increased from its base rarity. "Common" and "uncommon" items become "rare", "rare" items become "epic", and "epic" items remain the same.
+----------------------------------------
+### 1.14
+【類別】: 附魔列表
+【描述/備註】: Added Multishot, Piercing and Quick Charge.
+----------------------------------------
+### 1.16
+【類別】: 附魔列表
+【描述/備註】: Hoes can be enchanted with Efficiency, Fortune and Silk Touch.
+----------------------------------------
+### 20w11a
+【類別】: 附魔列表
+【描述/備註】: Added Soul Speed.
+----------------------------------------
+### 1.17.1
+【類別】: 附魔列表
+【描述/備註】: The maximum enchantment level that can be read has been changed to 255.
+----------------------------------------
+### 1.19
+【類別】: 附魔列表
+【描述/備註】: Added Swift Sneak. It is currently applied to boots, and is not compatible with Frost Walker, Depth Strider, or Soul Speed.
+----------------------------------------
+### 22w11a
+【類別】: 附魔列表
+【描述/備註】: Removed Swift Sneak.
+----------------------------------------
+### 22w12a
+【類別】: 附魔列表
+【描述/備註】: Added Swift Sneak to the normal snapshot. It is now applied to leggings instead of boots.
+----------------------------------------
+### 1.20.5
+【類別】: 附魔列表
+【描述/備註】: Axes can now receive Sharpness, Smite and Bane of Arthropods through an enchanting table, rather than only through an anvil.
+----------------------------------------
+### 24w09a
+【類別】: 附魔列表
+【描述/備註】: The projectile weapon enchantments Infinity, Flame, Multishot, Piercing, Power, and Punch now work on both crossbows and bows, if placed onto the alternative weapon using data manipulation or a change to the enchantable/* tags.
+----------------------------------------
+### 24w12a
+【類別】: 附魔列表
+【描述/備註】: Axes can no longer receive Sharpness, Smite and Bane of Arthropods through an enchanting table.
+----------------------------------------
+### 1.20.5ExperimentUpdate 1.21
+【類別】: 附魔列表
+【描述/備註】: Added Breach, Density and Wind Burst.
+----------------------------------------
+### 1.21
+【類別】: 附魔列表
+【描述/備註】: Breach, Density and Wind Burst are now available without using the "Update 1.21" experimental data pack.
+----------------------------------------
+### 1.21.11
+【類別】: 附魔列表
+【描述/備註】: Added Lunge, which is incompatible with Mending.
+----------------------------------------
+### 25w42a
+【類別】: 附魔列表
+【描述/備註】: Lunge is no longer incompatible with Mending.
+----------------------------------------
+### v0.12.1
+【類別】: 附魔列表
+【描述/備註】: Added the enchanting system.
+----------------------------------------
+### 1.1.0
+【類別】: 附魔列表
+【描述/備註】: Added Frost Walker and Mending.
+----------------------------------------
+### 1.2.13ExperimentExperimental Gameplay
+【類別】: 附魔列表
+【描述/備註】: Added Channeling, Impaling, Loyalty and Riptide as part of Experimental Gameplay.
+----------------------------------------
+### beta 1.2.13.11
+【類別】: 附魔列表
+【描述/備註】: When Experimental Gameplay is enabled, tridents can be enchanted.
+----------------------------------------
+### 1.4.0
+【類別】: 附魔列表
+【描述/備註】: Channeling, Impaling, Loyalty and Riptide have been fully implemented and are no longer part of Experimental Gameplay.
+----------------------------------------
+### 1.8.0ExperimentExperimental Gameplay
+【類別】: 附魔列表
+【描述/備註】: Added Multishot, Piercing and Quick Charge.
+----------------------------------------
+### 1.10.0
+【類別】: 附魔列表
+【描述/備註】: Multishot, Piercing and Quick Charge are now available outside of Experimental Gameplay.
+----------------------------------------
+### 1.16.0
+【類別】: 附魔列表
+【描述/備註】: Added Soul Speed.
+----------------------------------------
+### 1.19.0
+【類別】: 附魔列表
+【描述/備註】: Added Swift Sneak.
+----------------------------------------
+### 1.21.0ExperimentUpdate 1.21
+【類別】: 附魔列表
+【描述/備註】: Added Breach, Density and Wind Burst.
+----------------------------------------
+### 1.21.0
+【類別】: 附魔列表
+【描述/備註】: Breach, Density and Wind Burst are now available without using the "Update 1.21" experimental toggle.
+----------------------------------------
+### 1.21.30
+【類別】: 附魔列表
+【描述/備註】: When an item is enchanted, its rarity tier is now increased from its base rarity. "Common" and "uncommon" items become "rare", "rare" items become "epic", and "epic" items remain the same.
+----------------------------------------
+### Preview 1.21.30.22
+【類別】: 附魔列表
+【描述/備註】: Enchantments with a max level of 1 no longer display the level, e.g. "Infinity" rather than "Infinity I".
+----------------------------------------
+### 1.21.130
+【類別】: 附魔列表
+【描述/備註】: Added Lunge.
+----------------------------------------
+### Xbox 360
+【類別】: 附魔列表
+【描述/備註】: 無
+----------------------------------------
+### TU7
+【類別】: 附魔列表
+【描述/備註】: Added the enchanting system.
+----------------------------------------
+### TU14
+【類別】: 附魔列表
+【描述/備註】: Added Thorns.
+----------------------------------------
+### TU31
+【類別】: 附魔列表
+【描述/備註】: The fishing rod can be enchanted without the use of books.
+----------------------------------------
+### TU36
+【類別】: 附魔列表
+【描述/備註】: Up to 3 enchantments of the held item are now shown when changing the selected hotbar slot.
+----------------------------------------
+### TU43
+【類別】: 附魔列表
+【描述/備註】: Added Frost Walker and Mending.
+----------------------------------------
+### TU54
+【類別】: 附魔列表
+【描述/備註】: Added Curse of Binding and Curse of Vanishing.
+----------------------------------------
+### TU69
+【類別】: 附魔列表
+【描述/備註】: Added Channeling, Impaling and Loyalty.
+----------------------------------------
+### 0.1.0
+【類別】: 附魔列表
+【描述/備註】: Added the enchanting system.
+----------------------------------------
+### 1.9.19
+【類別】: 附魔列表
+【描述/備註】: Added Frost Walker and Mending.
+----------------------------------------

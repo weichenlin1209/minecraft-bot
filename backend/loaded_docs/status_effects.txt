@@ -1,0 +1,628 @@
+【Minecraft 資料庫 - 狀態效果ID】
+來源: https://minecraft.wiki/w/Effect
+==================================================
+
+### Icon
+【類別】: 狀態效果ID
+【描述/備註】: BE Num. ID
+----------------------------------------
+### Speed
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Slowness
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Haste
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Mining Fatigue
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Strength
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Instant Health
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Instant Damage
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Jump Boost
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Nausea
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Regeneration
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Resistance
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Fire Resistance
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Water Breathing
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Invisibility
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Blindness
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Night Vision
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Hunger
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Weakness
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Poison
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Wither
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Health Boost
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Absorption
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Saturation
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Glowing‌
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Levitation
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Luck‌
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Bad Luck‌
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Fatal Poison‌
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Slow Falling
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Conduit Power
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Dolphin's Grace‌
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Bad Omen
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Hero of the Village
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Darkness
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Trial Omen
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Raid Omen
+【類別】: 狀態效果ID
+【描述/備註】: Yes
+----------------------------------------
+### Wind Charged
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Weaving
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Oozing
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Infested
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Breath of the Nautilus
+【類別】: 狀態效果ID
+【描述/備註】: No
+----------------------------------------
+### Icon
+【類別】: 狀態效果ID
+【描述/備註】: Trophy type (PS)
+----------------------------------------
+### PS4
+【類別】: 狀態效果ID
+【描述/備註】: Other
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Gold
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【Advancement】: A Furious Cocktail
+【In-game description】: Have every potion effect applied at the same time
+【描述/備註】: Have all of these 17 status effects applied to the player at the same time: Fire Resistance Infested Invisibility Jump Boost Night Vision Oozing Poison Regeneration Resistance Slow Falling Slowness Speed Strength Water Breathing Weakness Weaving Wind Charged The source of the effects is irrelevant for the purposes of this advancement. Other status effects may be applied to the player, but are ignored for this advancement.
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【Advancement】: How Did We Get Here?
+【In-game description】: Have every effect applied at the same time
+【描述/備註】: Have all of these 34 status effects applied to the player at the same time: Absorption Bad Omen Blindness Breath of the Nautilus Conduit Power Darkness Dolphin's Grace Fire Resistance Glowing Haste Hero of the Village Hunger Infested Invisibility Jump Boost Levitation Mining Fatigue Nausea Night Vision Oozing Poison Raid Omen Regeneration Resistance Slow Falling Slowness Speed Strength Trial Omen Water Breathing Weakness Weaving Wind Charged Wither The source of the effects is irrelevant for the purposes of this advancement. Other status effects may be applied to the player, but are ignored for this advancement. See also: Tutorial:Advancement guide/Nether tab § How Did We Get Here? This is a hidden advancement, meaning that it can be viewed by the player only after completing it, regardless of if its child advancement(s), if any, have been completed.
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【Advancement】: Great View From Up Here
+【In-game description】: Levitate up 50 blocks from the attacks of a Shulker
+【描述/備註】: Move a distance of 50 blocks vertically with the Levitation effect applied, regardless of direction or whether it is caused by the effect.
+----------------------------------------
+### 無
+【類別】: 狀態效果ID
+【Advancement】: Hero of the Village
+【In-game description】: Successfully defend a village from a raid
+【描述/備註】: Kill at least one raid mob during a raid and wait until it ends in victory. This is a hidden advancement, meaning that it can be viewed by the player only after completing it, regardless of if its child advancement(s), if any, have been completed.
+----------------------------------------
+### 1.8
+【類別】: 狀態效果ID
+【描述/備註】: Added the first 19 effects: Speed, Slowness, Haste, Mining Fatigue, Strength, Instant Health, Instant Damage, Jump Boost, Nausea, Regeneration, Resistance, Fire Resistance, Water Breathing, Invisibility, Blindness, Night Vision, Hunger, Weakness, and Poison. Instant Health and Instant Damage currently lack icons
+----------------------------------------
+### 1.4.2
+【類別】: 狀態效果ID
+【描述/備註】: Added the Wither effect.
+----------------------------------------
+### 1.6.1
+【類別】: 狀態效果ID
+【描述/備註】: Added the Health Boost effect, which is obtained by eating a golden apple, but not by eating an enchanted golden apple.
+----------------------------------------
+### 13w24b
+【類別】: 狀態效果ID
+【描述/備註】: Added the Absorption effect, which is obtained by eating a golden apple or an enchanted golden apple. Health Boost can no longer be obtained in Survival since it was replaced with the Absorption, but it can still be obtained by using commands or editing an entity's NBT data.
+----------------------------------------
+### pre
+【類別】: 狀態效果ID
+【描述/備註】: Added the Saturation effect, which is different from the mechanic. The Saturation effect instantly restores hunger points and saturation points, which is similar to how Instant Health restores health points. It lacks an icon.
+----------------------------------------
+### 1.9
+【類別】: 狀態效果ID
+【描述/備註】: Added the Levitation effect, received when player is hit by a shulker projectile.
+----------------------------------------
+### 15w44b
+【類別】: 狀態效果ID
+【描述/備註】: Added the Luck and Bad Luck effects.
+----------------------------------------
+### 15w49a
+【類別】: 狀態效果ID
+【描述/備註】: Changed the icon for the Health Boost effect. Previously, it used the icon of the Absorption effect.
+----------------------------------------
+### 1.13
+【類別】: 狀態效果ID
+【描述/備註】: Added the Slow Falling effect, which is obtained by drinking a potion of Slow Falling or being hit by an arrow of Slow Falling.
+----------------------------------------
+### 18w15a
+【類別】: 狀態效果ID
+【描述/備註】: Added the Conduit Power effect, which is obtained by activating a conduit.
+----------------------------------------
+### 18w19a
+【類別】: 狀態效果ID
+【描述/備註】: Added the Dolphin's Grace effect, which is obtained by swimming near dolphins.
+----------------------------------------
+### 1.14
+【類別】: 狀態效果ID
+【描述/備註】: Added the Bad Omen effect, which is obtained by killing a raid captain. Bad Omen triggers a raid when a player with the effect enters a village.
+----------------------------------------
+### 19w08a
+【類別】: 狀態效果ID
+【描述/備註】: Changed the texture of the Bad Omen effect.
+----------------------------------------
+### 19w13a
+【類別】: 狀態效果ID
+【描述/備註】: Added the Hero of the Village effect, which is obtained by defeating a raid.
+----------------------------------------
+### 1.15
+【類別】: 狀態效果ID
+【描述/備註】: Instant effects now have icons.
+----------------------------------------
+### 1.19
+【類別】: 狀態效果ID
+【描述/備註】: Added the Darkness effect.
+----------------------------------------
+### 1.20.5ExperimentUpdate 1.21
+【類別】: 狀態效果ID
+【描述/備註】: The Bad Omen icon texture has been changed.
+----------------------------------------
+### pre1
+【類別】: 狀態效果ID
+【描述/備註】: Changed texture of the Raid Omen effect.
+----------------------------------------
+### 1.21
+【類別】: 狀態效果ID
+【描述/備註】: All the effects mentioned above are now available without using the "Update 1.21" experimental data pack.
+----------------------------------------
+### 1.21.11
+【類別】: 狀態效果ID
+【描述/備註】: Added the Breath of the Nautilus effect.
+----------------------------------------
+### v0.11.0
+【類別】: 狀態效果ID
+【描述/備註】: Added status effects.​
+----------------------------------------
+### v0.12.1
+【類別】: 狀態效果ID
+【描述/備註】: Added a few new status effect.​
+----------------------------------------
+### 1.0.0
+【類別】: 狀態效果ID
+【描述/備註】: Added the Levitation effect, which is obtained by being hit by a shulker projectile.
+----------------------------------------
+### 1.5.0
+【類別】: 狀態效果ID
+【描述/備註】: Added the Conduit Power effect, which is given to any player within range of a conduit.
+----------------------------------------
+### 1.6.0
+【類別】: 狀態效果ID
+【描述/備註】: Added the Slow Falling effect, which is obtained by drinking a potion of Slow Falling or being hit by an arrow of Slow Falling.
+----------------------------------------
+### 1.8.0
+【類別】: 狀態效果ID
+【描述/備註】: Changed the icon for the Health Boost effect. Previously, it used the icon of the Absorption effect.
+----------------------------------------
+### 1.11.0
+【類別】: 狀態效果ID
+【描述/備註】: Added the Bad Omen and Hero of the Village effects.
+----------------------------------------
+### beta 1.11.0.3
+【類別】: 狀態效果ID
+【描述/備註】: The Bad Omen and Hero of the Village icon textures have now been changed.
+----------------------------------------
+### 1.18.0
+【類別】: 狀態效果ID
+【描述/備註】: Added the Darkness effect to the "Vanilla Experiments" experimental toggle.
+----------------------------------------
+### 1.21.0ExperimentUpdate 1.21
+【類別】: 狀態效果ID
+【描述/備註】: The Bad Omen icon texture has been changed.
+----------------------------------------
+### Preview 1.21.0.21
+【類別】: 狀態效果ID
+【描述/備註】: Added Raid Omen.
+----------------------------------------
+### 1.21.0
+【類別】: 狀態效果ID
+【描述/備註】: All the effects mentioned above are now available without using the "Update 1.21" experimental toggle.
+----------------------------------------
+### Xbox 360
+【類別】: 狀態效果ID
+【描述/備註】: 無
+----------------------------------------
+### TU5
+【類別】: 狀態效果ID
+【描述/備註】: Added status effects.​
+----------------------------------------
+### TU19
+【類別】: 狀態效果ID
+【描述/備註】: Added the Wither and Absorption effects.
+----------------------------------------
+### TU46
+【類別】: 狀態效果ID
+【描述/備註】: Added the Levitation effect, which is obtained by being hit by a shulker projectile.
+----------------------------------------
+### TU69
+【類別】: 狀態效果ID
+【描述/備註】: Added the Slow Falling effect, which is obtained by drinking a potion of Slow Falling or being hit by an arrow of Slow Falling.
+----------------------------------------
+### 0.1.0
+【類別】: 狀態效果ID
+【描述/備註】: Added an unknown number of effects.​
+----------------------------------------
+### 1.0.0
+【類別】: 狀態效果ID
+【描述/備註】: Potions have been added, but are unobtainable without inventory editing. All effects can appear on potions, but Invisibility and Night Vision still do not function.
+----------------------------------------
+### Beta 1.9 Prerelease 3
+【類別】: 狀態效果ID
+【描述/備註】: Revamped potions and added ways to obtain them. Removed the potions for 7 effects, which are now unobtainable: Haste, Mining Fatigue, Jump Boost, Nausea, Water Breathing, Invisibility, Night Vision.
+----------------------------------------
+### 1.3.1
+【類別】: 狀態效果ID
+【描述/備註】: An enchanted golden apple made from blocks of gold has been added, and induced, among others, the formerly unused Resistance effect.
+----------------------------------------
+### 12w26a
+【類別】: 狀態效果ID
+【描述/備註】: Monster spawners can now be customized using third-party world editors and set to spawn mobs with effects.
+----------------------------------------
+### 1.4.2
+【類別】: 狀態效果ID
+【描述/備註】: Beacons have been added (to Creative only) and can be used to give effects to players around them. Several effects without a potion can now be induced, including the formerly unused Haste and Jump Boost effects.
+----------------------------------------
+### 12w39a
+【類別】: 狀態效果ID
+【描述/備註】: Using external programs, potions can now be changed to give different or multiple effects for any length.
+----------------------------------------
+### 1.5
+【類別】: 狀態效果ID
+【描述/備註】: Using /effect the player can now apply potion effects to other players, with a maximum value of 4.
+----------------------------------------
+### 13w09c
+【類別】: 狀態效果ID
+【描述/備註】: /effect now has a level limit of 255.
+----------------------------------------
+### 1.6.1
+【類別】: 狀態效果ID
+【描述/備註】: Nerfed Regeneration and Instant Health. Regeneration heals half as fast and Instant Health heals 33% less health.
+----------------------------------------
+### 13w23b
+【類別】: 狀態效果ID
+【描述/備註】: Health Boost is activated after eating the 1st tier of the golden apple. The enchanted tier does not give the effect at all.
+----------------------------------------
+### 13w24a
+【類別】: 狀態效果ID
+【描述/備註】: Spiders now have a rare chance to spawn with effects on hard difficulty.
+----------------------------------------
+### 13w24b
+【類別】: 狀態效果ID
+【描述/備註】: Health Boost no longer activate after eating a golden apple. The Absorption effect is now triggered after eating either tier of the golden apple, and lasts for 2 minutes.
+----------------------------------------
+### 1.6.2
+【類別】: 狀態效果ID
+【描述/備註】: Extra health from Absorption effect no longer reappears every 30 seconds.
+----------------------------------------
+### 1.8
+【類別】: 狀態效果ID
+【描述/備註】: Added the ability to disable effect particles.
+----------------------------------------
+### 14w25a
+【類別】: 狀態效果ID
+【描述/備註】: Adjusted the mechanics of Mining Fatigue . There is no longer a 20 percentage point reduction per level.
+----------------------------------------
+### 14w27a
+【類別】: 狀態效果ID
+【描述/備註】: Potion of Leaping has been added.
+----------------------------------------
+### 14w28a
+【類別】: 狀態效果ID
+【描述/備註】: Effects now accept named IDs, as well as numerical IDs.
+----------------------------------------
+### 1.9
+【類別】: 狀態效果ID
+【描述/備註】: Effects are now displayed on the HUD, instead of just in the inventory.
+----------------------------------------
+### 15w33a
+【類別】: 狀態效果ID
+【描述/備註】: Strength was changed from +130% damage bonus per level to 3HP damage per level. Weakness was changed from 0.5HP × 0.25 damage reduction to 4HP.
+----------------------------------------
+### 15w34b
+【類別】: 狀態效果ID
+【描述/備註】: Haste and Mining Fatigue affect the new attackSpeed attribute.
+----------------------------------------
+### 15w44b
+【類別】: 狀態效果ID
+【描述/備註】: Tipped arrows now display the effect's time, same as potions.
+----------------------------------------
+### 15w49a
+【類別】: 狀態效果ID
+【描述/備註】: The ender dragon is now immune to all effects.
+----------------------------------------
+### 1.13
+【類別】: 狀態效果ID
+【描述/備註】: Conduit Power now gives off a different effect.
+----------------------------------------
+### 1.14
+【類別】: 狀態效果ID
+【描述/備註】: The Glowing icon texture has been changed.
+----------------------------------------
+### 19w08a
+【類別】: 狀態效果ID
+【描述/備註】: Each individual effect icon texture is now found in a separate texture file.
+----------------------------------------
+### 1.15
+【類別】: 狀態效果ID
+【描述/備註】: Saturation, Instant Health, and Instant Damage now have icons.
+----------------------------------------
+### 1.15.2
+【類別】: 狀態效果ID
+【描述/備註】: When a stronger effect overwrites a weaker effect, the weaker effect now returns after the stronger effect expires if the weaker effect duration has not yet expired.
+----------------------------------------
+### 1.18
+【類別】: 狀態效果ID
+【描述/備註】: Redesigned how effects look in the inventory screen: can display while recipe book is showing.
+----------------------------------------
+### 1.19.3
+【類別】: 狀態效果ID
+【描述/備註】: The inventory now correctly shows the remaining time on long-duration effects, instead of **:**.
+----------------------------------------
+### 1.19.4
+【類別】: 狀態效果ID
+【描述/備註】: Changed particle and potion colors of the following effects: Swiftness, Slowness, Strength, Harming, Leaping, Resistance, Fire Resistance, Water Breathing, Invisibility, Night Vision, Poison.
+----------------------------------------
+### 1.20
+【類別】: 狀態效果ID
+【描述/備註】: Wither and Slow Falling effect colors have been adjusted to make them more distinguishable.
+----------------------------------------
+### 1.20.2
+【類別】: 狀態效果ID
+【描述/備註】: The game no longer uses numeric values when storing mob effects to world. Prior to the removal of numeric IDs, the effects' numeral IDs were 1 (Speed) through 33 (Darkness).
+----------------------------------------
+### 1.20.5
+【類別】: 狀態效果ID
+【描述/備註】: The background texture for the small effect UI have been changed.
+----------------------------------------
+### 24w05b
+【類別】: 狀態效果ID
+【描述/備註】: Potion effect amplifiers are now restricted between 0 and 127.
+----------------------------------------
+### 24w06a
+【類別】: 狀態效果ID
+【描述/備註】: Potion effect amplifiers are now restricted between 0 and 255, with amplifiers for Mining Fatigue, Jump Boost, and Levitation being replaced with player attributes.
+----------------------------------------
+### 24w11a
+【類別】: 狀態效果ID
+【描述/備註】: Status effect particle colors are no longer blended into one particle color. All active visible status effect particles are now rendered separately.
+----------------------------------------
+### 1.20.5ExperimentUpdate 1.21
+【類別】: 狀態效果ID
+【描述/備註】: The Bad Omen icon texture has been changed.
+----------------------------------------
+### 1.21
+【類別】: 狀態效果ID
+【描述/備註】: Going through the exit portal no longer removes all effects.
+----------------------------------------
+### v0.11.0
+【類別】: 狀態效果ID
+【描述/備註】: Jeb tweets an image of effects in progress.
+----------------------------------------
+### December 4, 2014
+【類別】: 狀態效果ID
+【描述/備註】: Jeb tweets an image of the effect GUI, which appears when one of the "tabs" are selected.
+----------------------------------------
+### build 1
+【類別】: 狀態效果ID
+【描述/備註】: Currently, since potions have not been implemented, the only effects available are Poison from cave spiders, rotten flesh and pufferfish, Hunger from raw chicken and pufferfish (which doesn't function yet), and Nausea from pufferfish. Other effects can be applied using an inventory editor or modifier, though some do not work properly.
+----------------------------------------
+### build 4
+【類別】: 狀態效果ID
+【描述/備註】: Drinking milk now removes all mob effects.
+----------------------------------------
+### build 12
+【類別】: 狀態效果ID
+【描述/備註】: Armor no longer decreases damage from mob effects.
+----------------------------------------
+### v0.12.1
+【類別】: 狀態效果ID
+【描述/備註】: Most mob effects work properly now.
+----------------------------------------
+### v0.13.0
+【類別】: 狀態效果ID
+【描述/備註】: Jump Boost can now be obtained in Survival because of the addition of rabbits.
+----------------------------------------
+### v0.16.0
+【類別】: 狀態效果ID
+【描述/備註】: Added an exclusive potion, splash potion and arrow of Decay. It is unobtainable in Survival due to the lack of a brewing recipe for it.
+----------------------------------------
+### build 4
+【類別】: 狀態效果ID
+【描述/備註】: The Wither effect can now be inflicted with the addition of the wither.
+----------------------------------------
+### 1.2.0
+【類別】: 狀態效果ID
+【描述/備註】: Absorption effect amplifier has been increased for enchanted golden apples.
+----------------------------------------
+### 1.4.0
+【類別】: 狀態效果ID
+【描述/備註】: The Water Breathing mob effect no longer gives the player enhanced underwater vision.
+----------------------------------------
+### 1.21.0
+【類別】: 狀態效果ID
+【描述/備註】: Status effect particle colors are no longer blended into one particle color. Up to 8 active visible status effect particles are now rendered separately.
+----------------------------------------
+### Xbox 360
+【類別】: 狀態效果ID
+【描述/備註】: 無
+----------------------------------------
+### TU5
+【類別】: 狀態效果ID
+【描述/備註】: Effects have been introduced. Potions haven't been added yet, so the only things that cause them are golden apples, raw chicken, rotten flesh and cave spiders.
+----------------------------------------
+### TU7
+【類別】: 狀態效果ID
+【描述/備註】: Actual potions have been added and some effects got an alchemical ingredient that corresponds to them.
+----------------------------------------
+### TU14
+【類別】: 狀態效果ID
+【描述/備註】: Added the enchanted golden apple. When eaten, it gives the formerly unused Resistance effect as well as other effects.
+----------------------------------------
+### TU19
+【類別】: 狀態效果ID
+【描述/備註】: Night Vision now functions, and a potion and splash potion of Night Vision has been implemented and added to Creative mode.
+----------------------------------------
+### TU44
+【類別】: 狀態效果ID
+【描述/備註】: Going through the exit portal no longer removes all effects.
+----------------------------------------
+### TU54
+【類別】: 狀態效果ID
+【描述/備註】: Effects are now displayed on the HUD, instead of just in the inventory.
+----------------------------------------
+### 1.2.12
+【類別】: 狀態效果ID
+【描述/備註】: Effects are now displayed on the HUD, instead of just in the inventory.
+----------------------------------------
+### 15w14a
+【類別】: 狀態效果ID
+【描述/備註】: Added Caring, replacing Slowness and Poison.
+----------------------------------------
+### 23w13a or b
+【類別】: 狀態效果ID
+【描述/備註】: Added Big and Small.
+----------------------------------------
+### 24w14potato
+【類別】: 狀態效果ID
+【描述/備註】: Added Sticky and It's very slippery.
+----------------------------------------
+### 25w14craftmine
+【類別】: 狀態效果ID
+【描述/備註】: Added Shazboots!.
+----------------------------------------

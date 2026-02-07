@@ -1,0 +1,3462 @@
+【Minecraft 資料庫 - 指令大全】
+來源: https://minecraft.wiki/w/Commands
+==================================================
+
+### plain text
+【類別】: 指令大全
+【描述/備註】: Enter this literally, exactly as shown.
+----------------------------------------
+### <argumentName>
+【類別】: 指令大全
+【描述/備註】: An argument, which should be replaced with an appropriate value. Note: the angle brackets should be replaced too; they only indicate the purpose of the text.
+----------------------------------------
+### (entry|entry)(entry|entry|entry)etc.
+【類別】: 指令大全
+【描述/備註】: Required. Pick one of these entries.
+----------------------------------------
+### etc.
+【類別】: 指令大全
+【描述/備註】: Optional. Pick one of these entries.
+----------------------------------------
+### ellipsis ...
+【類別】: 指令大全
+【描述/備註】: In the game, another full command is required.In this wiki, some required parts are left out.
+----------------------------------------
+### plain text
+【類別】: 指令大全
+【描述/備註】: Enter this literally, exactly as shown.
+----------------------------------------
+### name: type
+【類別】: 指令大全
+【描述/備註】: An argument, which should be replaced with an appropriate value.
+----------------------------------------
+### command: command
+【類別】: 指令大全
+【描述/備註】: Another full command is required.
+----------------------------------------
+### <entry>
+【類別】: 指令大全
+【描述/備註】: This entry is required.
+----------------------------------------
+### ellipsis ...
+【類別】: 指令大全
+【描述/備註】: In this wiki, some required parts are left out.
+----------------------------------------
+### /advancement
+【類別】: 指令大全
+【Description】: Gives, removes, or checks player advancements.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /attribute
+【類別】: 指令大全
+【Description】: Queries, adds, removes or sets an entity attribute.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /ban
+【類別】: 指令大全
+【Description】: Adds player to banlist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /ban-ip
+【類別】: 指令大全
+【Description】: Adds IP address to banlist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /banlist
+【類別】: 指令大全
+【Description】: Displays banlist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /bossbar
+【類別】: 指令大全
+【Description】: Creates and modifies bossbars.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: 
+----------------------------------------
+### /clear
+【類別】: 指令大全
+【Description】: Clears items from player inventory.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /clone
+【類別】: 指令大全
+【Description】: Copies blocks from one place to another.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /damage
+【類別】: 指令大全
+【Description】: Applies damage to the specified entities.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /data
+【類別】: 指令大全
+【Description】: Gets, merges, modifies, and removes block entity, entity, and command storage NBT data.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /datapack
+【類別】: 指令大全
+【Description】: Controls loaded data packs.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /debug
+【類別】: 指令大全
+【Description】: Starts or stops a debugging session.
+【OP level required】: 3
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /defaultgamemode
+【類別】: 指令大全
+【Description】: Sets the default game mode.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /deop
+【類別】: 指令大全
+【Description】: Revokes operator status from a player.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /dialog
+【類別】: 指令大全
+【Description】: Shows dialog to clients.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /difficulty
+【類別】: 指令大全
+【Description】: Sets the difficulty level.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /effect
+【類別】: 指令大全
+【Description】: Adds or removes status effects.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /enchant
+【類別】: 指令大全
+【Description】: Adds an enchantment to a player's selected item.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /execute
+【類別】: 指令大全
+【Description】: Executes another command.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: 
+----------------------------------------
+### /experience
+【類別】: 指令大全
+【Description】: An alias of /xp. Adds or removes player experience.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /fetchprofile
+【類別】: 指令大全
+【Description】: Fetches a player profile
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /fill
+【類別】: 指令大全
+【Description】: Fills a region with a specific block.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /fillbiome
+【類別】: 指令大全
+【Description】: Fills a region with a specific biome.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /forceload
+【類別】: 指令大全
+【Description】: Forces chunks to constantly be loaded or not.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /function
+【類別】: 指令大全
+【Description】: Runs a function.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /gamemode
+【類別】: 指令大全
+【Description】: Sets a player's game mode.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /gamerule
+【類別】: 指令大全
+【Description】: Sets or queries a game rule value.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /give
+【類別】: 指令大全
+【Description】: Gives an item to a player.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /help
+【類別】: 指令大全
+【Description】: Provides help for commands.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /item
+【類別】: 指令大全
+【Description】: Manipulates items in inventories.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /jfr
+【類別】: 指令大全
+【Description】: Starts or stops a JFR profiling.
+【OP level required】: 4
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /kick
+【類別】: 指令大全
+【Description】: Kicks a player off a server.
+【OP level required】: 3
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /kill
+【類別】: 指令大全
+【Description】: Kills entities (players, mobs, items, etc.).
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /list
+【類別】: 指令大全
+【Description】: Lists players on the server.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /locate
+【類別】: 指令大全
+【Description】: Locates closest structure, biome, or point of interest.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /loot
+【類別】: 指令大全
+【Description】: Drops items from an inventory slot onto the ground.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /me
+【類別】: 指令大全
+【Description】: Displays a message about the sender.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /msg
+【類別】: 指令大全
+【Description】: An alias of /tell and /w. Displays a private message to other players.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /op
+【類別】: 指令大全
+【Description】: Grants operator status to a player.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /pardon
+【類別】: 指令大全
+【Description】: Removes entries from the banlist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /pardon-ip
+【類別】: 指令大全
+【Description】: Removes entries from the banlist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /particle
+【類別】: 指令大全
+【Description】: Creates particles.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /perf
+【類別】: 指令大全
+【Description】: Captures info and metrics about the game for 10 seconds.
+【OP level required】: 4
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /place
+【類別】: 指令大全
+【Description】: Used to place a configured feature, jigsaw, template, or structure at a given location.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /playsound
+【類別】: 指令大全
+【Description】: Plays a sound.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /publish
+【類別】: 指令大全
+【Description】: Opens single-player world to local network.
+【OP level required】: 4
+【Multiplayer only】: SP only
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /random
+【類別】: 指令大全
+【Description】: Draw a random value or control the random number sequence.
+【OP level required】: 0 (without sequence)2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /recipe
+【類別】: 指令大全
+【Description】: Gives or takes player recipes.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /reload
+【類別】: 指令大全
+【Description】: Reloads loot tables, advancements, and functions from disk.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /return
+【類別】: 指令大全
+【Description】: Control execution flow inside functions and change their return value.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /ride
+【類別】: 指令大全
+【Description】: Used to make entities ride other entities, or stop entities from riding.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /rotate
+【類別】: 指令大全
+【Description】: Changes the rotation of an entity.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /save-all
+【類別】: 指令大全
+【Description】: Saves the server to disk.
+【OP level required】: 4
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /save-off
+【類別】: 指令大全
+【Description】: Disables automatic server saves.
+【OP level required】: 4
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /save-on
+【類別】: 指令大全
+【Description】: Enables automatic server saves.
+【OP level required】: 4
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /say
+【類別】: 指令大全
+【Description】: Displays a message to multiple players.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /schedule
+【類別】: 指令大全
+【Description】: Delays the execution of a function.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /scoreboard
+【類別】: 指令大全
+【Description】: Manages scoreboard objectives and players.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /seed
+【類別】: 指令大全
+【Description】: Displays the world seed.
+【OP level required】: 0 in singleplayer2 in multiplayer
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /setblock
+【類別】: 指令大全
+【Description】: Changes a block to another block.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /setidletimeout
+【類別】: 指令大全
+【Description】: Sets the time before idle players are kicked.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /setworldspawn
+【類別】: 指令大全
+【Description】: Sets the world spawn.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /spawnpoint
+【類別】: 指令大全
+【Description】: Sets the spawn point for a player.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /spectate
+【類別】: 指令大全
+【Description】: Make one player in spectator mode spectate an entity.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /spreadplayers
+【類別】: 指令大全
+【Description】: Teleports entities to random locations.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /stop
+【類別】: 指令大全
+【Description】: Stops a server.
+【OP level required】: 4
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /stopsound
+【類別】: 指令大全
+【Description】: Stops a sound.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /summon
+【類別】: 指令大全
+【Description】: Summons an entity.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /swing ​
+【類別】: 指令大全
+【Description】: Swings the hands of an entity.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /tag
+【類別】: 指令大全
+【Description】: Controls entity tags.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /team
+【類別】: 指令大全
+【Description】: Controls teams.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /teammsg
+【類別】: 指令大全
+【Description】: An alias of /tm. Specifies the message to send to team.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /teleport
+【類別】: 指令大全
+【Description】: An alias of /tp. Teleports entities.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tell
+【類別】: 指令大全
+【Description】: An alias of /msg and /w. Displays a private message to other players.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tellraw
+【類別】: 指令大全
+【Description】: Displays a JSON message to players.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /test
+【類別】: 指令大全
+【Description】: Manage and execute GameTests.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /tick
+【類別】: 指令大全
+【Description】: Controls the tick rate of the game.
+【OP level required】: 3
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /time
+【類別】: 指令大全
+【Description】: Changes or queries the world's game time.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /title
+【類別】: 指令大全
+【Description】: Manages screen titles.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tm
+【類別】: 指令大全
+【Description】: An alias of /teammsg. Specifies the message to send to team.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tp
+【類別】: 指令大全
+【Description】: An alias of /teleport. Teleports entities.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /transfer
+【類別】: 指令大全
+【Description】: Triggers a transfer of a player to another server.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /trigger
+【類別】: 指令大全
+【Description】: Sets a trigger to be activated.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /version
+【類別】: 指令大全
+【Description】: Presents the server's game version.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /w
+【類別】: 指令大全
+【Description】: An alias of /tell and /msg. Displays a private message to other players.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /waypoint
+【類別】: 指令大全
+【Description】: Manages waypoints displayed on the locator bar.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /weather
+【類別】: 指令大全
+【Description】: Sets the weather.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /whitelist
+【類別】: 指令大全
+【Description】: Manages server whitelist.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /worldborder
+【類別】: 指令大全
+【Description】: Manages the world border.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /xp
+【類別】: 指令大全
+【Description】: An alias of /experience. Adds or removes player experience.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /warden_spawn_tracker
+【類別】: 指令大全
+【Description】: Shows how many warnings a sculk shrieker has before spawning a warden.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: DEV_COMMANDS
+----------------------------------------
+### /debugpath
+【類別】: 指令大全
+【Description】: Shows the calculated path for entities.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /debugmobspawning
+【類別】: 指令大全
+【Description】: Displays mob spawning information.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /raid
+【類別】: 指令大全
+【Description】: Starts a raid
+【OP level required】: 3
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /serverpack
+【類別】: 指令大全
+【Description】: Configures a server resource pack.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /spawn_armor_trims
+【類別】: 指令大全
+【Description】: Spawns all possible combinations of designs, materials, and armor types of armor trims.
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /debugconfig
+【類別】: 指令大全
+【Description】: Configuration options for debugging.
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /chase
+【類別】: 指令大全
+【Description】: Sync the movement of two or more clients.
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: CHASE_COMMAND
+----------------------------------------
+### /?
+【類別】: 指令大全
+【Description】: An alias of /help. Provides help for commands.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /ability
+【類別】: 指令大全
+【Description】: Grants or revokes a player ability.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /allowlist
+【類別】: 指令大全
+【Description】: An alias of /whitelist. Manages server allowlist.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /aimassist
+【類別】: 指令大全
+【Description】: Modifies player's aim assist.
+【BE】: Yes
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /alwaysday
+【類別】: 指令大全
+【Description】: An alias of /daylock. Locks and unlocks the day-night cycle.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /camera
+【類別】: 指令大全
+【Description】: Switch to custom camera perspectives and fade the screen.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /camerashake
+【類別】: 指令大全
+【Description】: Used to enable a camera shaking effect.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /changesetting
+【類別】: 指令大全
+【Description】: Changes a setting on the dedicated server while it's running.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /clear
+【類別】: 指令大全
+【Description】: Clears items from player inventory.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /clearspawnpoint
+【類別】: 指令大全
+【Description】: Removes the spawn point for a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /clone
+【類別】: 指令大全
+【Description】: Copies blocks from one place to another.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /connect
+【類別】: 指令大全
+【Description】: An alias of /wsserver. Attempts to connect to the websocket server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0‌2‌
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /controlscheme
+【類別】: 指令大全
+【Description】: Switching control schemes when the Experimental Creator Camera toggle is enabled.
+【BE】: Yes
+【edu】: —
+【OP level required】: ?
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /damage
+【類別】: 指令大全
+【Description】: Applies damage to the specified entities.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /daylock
+【類別】: 指令大全
+【Description】: An alias of /alwaysday. Locks and unlocks the day-night cycle.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /dedicatedwsserver
+【類別】: 指令大全
+【Description】: Attempts to connect to a websocket server.
+【BE】: Yes
+【edu】: —
+【OP level required】: 0
+【Server only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /deop
+【類別】: 指令大全
+【Description】: Revokes operator status from a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /dialogue
+【類別】: 指令大全
+【Description】: Opens NPC dialogue for a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /difficulty
+【類別】: 指令大全
+【Description】: Sets the difficulty level.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /effect
+【類別】: 指令大全
+【Description】: Adds or removes status effects.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /enchant
+【類別】: 指令大全
+【Description】: Adds an enchantment to a player's selected item.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /event
+【類別】: 指令大全
+【Description】: Used to trigger an event on an entity.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /execute
+【類別】: 指令大全
+【Description】: Executes another command.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: 
+----------------------------------------
+### /fill
+【類別】: 指令大全
+【Description】: Fills a region with a specific block.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /fog
+【類別】: 指令大全
+【Description】: Used for managing active fog settings for players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /function
+【類別】: 指令大全
+【Description】: Runs a function.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /gamemode
+【類別】: 指令大全
+【Description】: Sets a player's game mode.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /gamerule
+【類別】: 指令大全
+【Description】: Sets or queries a game rule value.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /gametest
+【類別】: 指令大全
+【Description】: To test the GameTest features.
+【BE】: Yes
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /gametips
+【類別】: 指令大全
+【Description】: Enable or disable the game tips on this device.
+【BE】: Yes
+【edu】: —
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /give
+【類別】: 指令大全
+【Description】: Gives an item to a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /help
+【類別】: 指令大全
+【Description】: An alias of /?. Provides help for commands.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /hud
+【類別】: 指令大全
+【Description】: Changes the visibility of a HUD element.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /immutableworld
+【類別】: 指令大全
+【Description】: Allows setting immutable state of a world.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /inputpermission
+【類別】: 指令大全
+【Description】: Specify the operation for the player's permission status.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /kick
+【類別】: 指令大全
+【Description】: Kicks a player off a server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /kill
+【類別】: 指令大全
+【Description】: Kills entities (players, mobs, items, etc.).
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /list
+【類別】: 指令大全
+【Description】: Lists players on the server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /locate
+【類別】: 指令大全
+【Description】: Locates closest structure or biome.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: 無
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /loot
+【類別】: 指令大全
+【Description】: Drops items from an inventory slot onto the ground.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 2
+【Server only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /me
+【類別】: 指令大全
+【Description】: Displays a message about the sender.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /mobevent
+【類別】: 指令大全
+【Description】: Enables/disables a specified mob event.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /msg
+【類別】: 指令大全
+【Description】: An alias of /tell and /w. Displays a private message to other players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /music
+【類別】: 指令大全
+【Description】: Allows the player to control playing music tracks.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /op
+【類別】: 指令大全
+【Description】: Grants operator status to a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /ops
+【類別】: 指令大全
+【Description】: An alias of /permission. Reloads and applies permissions.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /particle
+【類別】: 指令大全
+【Description】: Creates particles.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /permission
+【類別】: 指令大全
+【Description】: An alias of /ops. Reloads and applies permissions.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /place
+【類別】: 指令大全
+【Description】: Used to place a configured feature, jigsaw, template, or structure at a given location.
+【BE】: Yes
+【edu】: —
+【OP level required】: 2
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /playanimation
+【類別】: 指令大全
+【Description】: Used to run a one-off animation.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /playsound
+【類別】: 指令大全
+【Description】: Plays a sound.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /project
+【類別】: 指令大全
+【Description】: Contains tools for managing Editor projects.
+【BE】: Yes
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /recipe
+【類別】: 指令大全
+【Description】: Gives or takes player recipes.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: —
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /reload
+【類別】: 指令大全
+【Description】: Reloads loot tables, advancements, and functions from disk.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /reloadconfig
+【類別】: 指令大全
+【Description】: Reloads configuration files relating to variables, permissions, etc.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /reloadpacketlimitconfig
+【類別】: 指令大全
+【Description】: Reloads packetlimitconfig.json configuration file.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /remove
+【類別】: 指令大全
+【Description】: Removing agent.
+【BE】: —
+【edu】: ?
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /replaceitem
+【類別】: 指令大全
+【Description】: Replaces items in inventories.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /ride
+【類別】: 指令大全
+【Description】: Used to make entities ride other entities, stop entities from riding, make rides evict their riders, or summon rides or riders.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /save
+【類別】: 指令大全
+【Description】: Prepares a backup, queries its status, or resumes.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /say
+【類別】: 指令大全
+【Description】: Displays a message to multiple players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /schedule
+【類別】: 指令大全
+【Description】: Delays the execution of a function.
+【BE】: Yes
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /scoreboard
+【類別】: 指令大全
+【Description】: Manages scoreboard objectives and players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /script
+【類別】: 指令大全
+【Description】: Debugging options for GameTest Framework.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: ?
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /scriptevent
+【類別】: 指令大全
+【Description】: Triggers a script event with an ID and message.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: ?
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /sendshowstoreoffer
+【類別】: 指令大全
+【Description】: Send a request to show players the store offer.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /set_movement_authority
+【類別】: 指令大全
+【Description】: Control the client or server to check a player movement.
+【BE】: Yes
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /setblock
+【類別】: 指令大全
+【Description】: Changes a block to another block.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /setmaxplayers
+【類別】: 指令大全
+【Description】: Sets the maximum number of players allowed to join.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /setworldspawn
+【類別】: 指令大全
+【Description】: Sets the world spawn.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /spawnpoint
+【類別】: 指令大全
+【Description】: Sets the spawn point for a player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /spreadplayers
+【類別】: 指令大全
+【Description】: Teleports entities to random locations.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /stop
+【類別】: 指令大全
+【Description】: Stops a server.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /stopsound
+【類別】: 指令大全
+【Description】: Stops a sound.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /structure
+【類別】: 指令大全
+【Description】: Used to save and load structures without having to use structure blocks items in inventories.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: 無
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /summon
+【類別】: 指令大全
+【Description】: Summons an entity.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /tag
+【類別】: 指令大全
+【Description】: Controls entity tags.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /teleport
+【類別】: 指令大全
+【Description】: An alias of /tp. Teleports entities.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tell
+【類別】: 指令大全
+【Description】: An alias of /msg and /w. Displays a private message to other players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /tellraw
+【類別】: 指令大全
+【Description】: Displays a JSON message to players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /testfor
+【類別】: 指令大全
+【Description】: Counts entities matching specified conditions.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /testforblock
+【類別】: 指令大全
+【Description】: Tests whether a block is in a location.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /testforblocks
+【類別】: 指令大全
+【Description】: Tests whether the blocks in two regions match.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /tickingarea
+【類別】: 指令大全
+【Description】: Add, remove, or list ticking areas.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /time
+【類別】: 指令大全
+【Description】: Changes or queries the world's game time.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /title
+【類別】: 指令大全
+【Description】: Manages screen titles.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /titleraw
+【類別】: 指令大全
+【Description】: Controls screen titles with JSON messages.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /toggledownfall
+【類別】: 指令大全
+【Description】: Toggles the weather.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /tp
+【類別】: 指令大全
+【Description】: An alias of /teleport. Teleports entities.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /transfer
+【類別】: 指令大全
+【Description】: Triggers a transfer of a player to another server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /w
+【類別】: 指令大全
+【Description】: An alias of /tell and /msg. Displays a private message to other players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /wb
+【類別】: 指令大全
+【Description】: An alias of /worldbuilder. Ability to edit restricted blocks.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /weather
+【類別】: 指令大全
+【Description】: Sets the weather.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /whitelist
+【類別】: 指令大全
+【Description】: An alias of /allowlist. Manages server allowlist.
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /worldbuilder
+【類別】: 指令大全
+【Description】: An alias of /wb. Ability to edit restricted blocks.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /wsserver
+【類別】: 指令大全
+【Description】: An alias of /connect. Attempts to connect to the websocket server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0‌2‌
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /xp
+【類別】: 指令大全
+【Description】: Adds or removes player experience.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /agent
+【類別】: 指令大全
+【Description】: Controls the agent.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0‌1‌
+【Server only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /codebuilder
+【類別】: 指令大全
+【Description】: Sets Code Builder state for a player.
+【BE】: —
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /codebuilder_actorinfo
+【類別】: 指令大全
+【Description】: Unknown​
+【BE】: Yes
+【edu】: —
+【OP level required】: ?
+【Server only】: ?
+【】: ?
+【】: ?
+【】: ?
+【描述/備註】: ?
+----------------------------------------
+### /clearrealmevents
+【類別】: 指令大全
+【Description】: Unknown​
+【BE】: Yes
+【edu】: ?
+【OP level required】: ?
+【Server only】: ?
+【】: ?
+【】: ?
+【】: ?
+【描述/備註】: ?
+----------------------------------------
+### /classroommode
+【類別】: 指令大全
+【Description】: Ability to edit restricted blocks.
+【BE】: —
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /closechat
+【類別】: 指令大全
+【Description】: Closes the chat window of the local player if it is open.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /closewebsocket
+【類別】: 指令大全
+【Description】: Closes websocket connection if there is one.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /code
+【類別】: 指令大全
+【Description】: Launches Code Builder.
+【BE】: —
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /enableencryption
+【類別】: 指令大全
+【Description】: Enable encryption for the current websocket connection.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /getchunkdata
+【類別】: 指令大全
+【Description】: Gets pixels for a specific chunk.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /getchunks
+【類別】: 指令大全
+【Description】: Gets list of chunks that are loaded.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /geteduclientinfo
+【類別】: 指令大全
+【Description】: Shows the information about the client.
+【BE】: —
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /geteduserverinfo
+【類別】: 指令大全
+【Description】: Shows the information about the server.
+【BE】: Yes
+【edu】: —
+【OP level required】: 0
+【Server only】: Yes
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /getlocalplayername
+【類別】: 指令大全
+【Description】: Shows the name of the local player.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /getspawnpoint
+【類別】: 指令大全
+【Description】: Gets the spawn position of the specified player(s).
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /gettopsolidblock
+【類別】: 指令大全
+【Description】: Gets the position of the top non-air block below the specified position.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0‌1‌
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /globalpause
+【類別】: 指令大全
+【Description】: Sets or gets the paused state of the game for all players.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /lesson
+【類別】: 指令大全
+【Description】: Handle Educational Lesson reporting.
+【BE】: —
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /listd
+【類別】: 指令大全
+【Description】: Lists the information about players on the server.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 3
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /querytarget
+【類別】: 指令大全
+【Description】: Gets transform, name, and id information about the given target entity or entities.
+【BE】: Yes
+【edu】: Yes
+【OP level required】: 0‌2‌
+【Server only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /sendshowstoreoffer
+【類別】: 指令大全
+【Description】: Send a request to show players the store offer.​
+【BE】: Yes
+【edu】: —
+【OP level required】: 4
+【Server only】: ?
+【】: ?
+【】: ?
+【】: ?
+【描述/備註】: ?
+----------------------------------------
+### /spawnitem
+【類別】: 指令大全
+【Description】: Spawns an item entity at position.
+【BE】: —
+【edu】: Yes
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /takepicture
+【類別】: 指令大全
+【Description】: Takes a photo of a player or from a player's point of view.
+【BE】: Removed
+【edu】: Yes
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /?
+【類別】: 指令大全
+【Description】: An alias of /help. Provides help for commands.
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: ?
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /achievement
+【類別】: 指令大全
+【Description】: Gives or takes an achievement from a player
+【Version removed】: Java Edition 1.12(17w13a)
+【Reason for deletion】: Achievements were superseded by advancements
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /banip
+【類別】: 指令大全
+【Description】: Bans a player by IP number
+【Version removed】: Java Edition Indev 0.31
+【Reason for deletion】: Superseded by /ban-ip
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /blockdata
+【類別】: 指令大全
+【Description】: Modifies the data tag of a block
+【Version removed】: Java Edition 1.13(17w47a)
+【Reason for deletion】: Superseded by /data
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /broadcast
+【類別】: 指令大全
+【Description】: Broadcasts a message across the entire server
+【Version removed】: Java Edition Classic 0.0.16a_01
+【Reason for deletion】: Superseded by /say
+【OP level required】: 1
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /chunk
+【類別】: 指令大全
+【Description】: Force chunks to load constantly or not
+【Version removed】: Java Edition 1.13.1(pre1)
+【Reason for deletion】: Superseded by /forceload
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /entitydata
+【類別】: 指令大全
+【Description】: Modifies the data tag of an entity
+【Version removed】: Java Edition 1.13(17w45b)
+【Reason for deletion】: Superseded by /data
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /home
+【類別】: 指令大全
+【Description】: Teleports player to the world spawn
+【Version removed】: Java Edition Alpha v1.2.5
+【Reason for deletion】: Superseded by /kill
+【OP level required】: 0
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /locatebiome
+【類別】: 指令大全
+【Description】: Locates biomes
+【Version removed】: Java Edition 1.19(22w19a)
+【Reason for deletion】: Superseded by /locate
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /placefeature
+【類別】: 指令大全
+【Description】: Used to place a configured feature at a given location
+【Version removed】: Java Edition 1.19(22w18a)
+【Reason for deletion】: Superseded by /place
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /replaceitem
+【類別】: 指令大全
+【Description】: Replaces items in inventories
+【Version removed】: Java Edition 1.17(20w46a)
+【Reason for deletion】: Superseded by /item
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /setspawn
+【類別】: 指令大全
+【Description】: Sets the current location as the default spawn location for new players
+【Version removed】: Java Edition Indev 0.31
+【Reason for deletion】: Superseded by /setworldspawn
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /solid
+【類別】: 指令大全
+【Description】: Toggles between placing stone or bedrock
+【Version removed】: Java Edition Indev 0.31
+【Reason for deletion】: Bedrock was added to the Creative inventory as a separate item
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /stats
+【類別】: 指令大全
+【Description】: Update objectives from command results
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: Merged with /execute
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /testfor
+【類別】: 指令大全
+【Description】: Counts entities matching specified conditions.
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: Merged with /execute
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: 無
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /testforblock
+【類別】: 指令大全
+【Description】: Tests whether a block is in a location.
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: Merged with /execute
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /testforblocks
+【類別】: 指令大全
+【Description】: Tests whether the blocks in two regions match.
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: Merged with /execute
+【OP level required】: 2
+【Multiplayer only】: —
+【】: 無
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /toggledownfall
+【類別】: 指令大全
+【Description】: Toggles the weather
+【Version removed】: Java Edition 1.13(17w45a)
+【Reason for deletion】: Redundancy with /weather
+【OP level required】: 2
+【Multiplayer only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### /unban
+【類別】: 指令大全
+【Description】: Pardons a banned player
+【Version removed】: Java Edition Alpha v1.0.16
+【Reason for deletion】: Superseded by /pardon
+【OP level required】: 3
+【Multiplayer only】: Yes
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /clearfixedinv
+【類別】: 指令大全
+【Description】: Clears fixed inventory slots
+【Version removed】: Pocket Edition v0.16.0 alpha(build 2)
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: Removed
+【OP level required】: 2
+【Server only】: ?
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /detect
+【類別】: 指令大全
+【Description】: Execute a command when condition is met
+【Version removed】: Bedrock Edition 1.2.0
+【Reason for deletion】: Superseded by /execute
+【BE】: Removed
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /executeasself
+【類別】: 指令大全
+【Description】: Execute a command
+【Version removed】: ?
+【Reason for deletion】: Superseded by /execute
+【BE】: Removed
+【edu】: Removed
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /mixer
+【類別】: 指令大全
+【Description】: Mixer interactivity control
+【Version removed】: Bedrock Edition 1.16.210
+【Reason for deletion】: Mixer was discontinued
+【BE】: Removed
+【edu】: —
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /position
+【類別】: 指令大全
+【Description】: Toggles player coordinates to be displayed on the HUD
+【Version removed】: Education Edition 1.0.21
+【Reason for deletion】: Superseded by /gamerule
+【BE】: —
+【edu】: Removed
+【OP level required】: 0
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /resupply
+【類別】: 指令大全
+【Description】: Update the villagers' supply for economic trade
+【Version removed】: ?
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: —
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: 無
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /setfixedinvslot
+【類別】: 指令大全
+【Description】: Sets fixed inventory slot with a specific item
+【Version removed】: Pocket Edition v0.16.0 alpha(build 2)
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: Removed
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /setfixedinvslots
+【類別】: 指令大全
+【Description】: Sets the amount of fixed inventory slots
+【Version removed】: Pocket Edition v0.16.0 alpha(build 2)
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: Removed
+【OP level required】: 2
+【Server only】: —
+【】: —
+【】: —
+【】: 無
+【描述/備註】: —
+----------------------------------------
+### /transferserver
+【類別】: 指令大全
+【Description】: Transfer player to a server
+【Version removed】: Bedrock Edition 1.2.3
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: Removed
+【OP level required】: —
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /videostream
+【類別】: 指令大全
+【Description】: Attempts to connect to the websocket server to send a video stream
+【Version removed】: ?
+【Reason for deletion】: Superseded by /connect.
+【BE】: Removed
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: -
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /videostreamaction
+【類別】: 指令大全
+【Description】: Attempts to run a action on video stream
+【Version removed】: ?
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: -
+【】: —
+【描述/備註】: —
+----------------------------------------
+### /volumearea
+【類別】: 指令大全
+【Description】: Add, remove, or list volume areas
+【Version removed】: Bedrock Edition 1.21.20
+【Reason for deletion】: ?
+【BE】: Removed
+【edu】: —
+【OP level required】: 1
+【Server only】: —
+【】: —
+【】: —
+【】: —
+【描述/備註】: 
+----------------------------------------
+### 0.0.16a
+【類別】: 指令大全
+【描述/備註】: Added commands /broadcast, /ban, /banip, and /kick.
+----------------------------------------
+### 0.0.16a_01
+【類別】: 指令大全
+【描述/備註】: Replaced /broadcast with /say.
+----------------------------------------
+### 0.0.17a
+【類別】: 指令大全
+【描述/備註】: Added /setspawn.
+----------------------------------------
+### 0.0.18a
+【類別】: 指令大全
+【描述/備註】: Added /teleport.
+----------------------------------------
+### 0.0.20a
+【類別】: 指令大全
+【描述/備註】: Added /solid.
+----------------------------------------
+### ?
+【類別】: 指令大全
+【描述/備註】: Added /me.
+----------------------------------------
+### 0.31
+【類別】: 指令大全
+【描述/備註】: Removed all commands.
+----------------------------------------
+### v1.0.15
+【類別】: 指令大全
+【描述/備註】: Added /wood, /iron and /give.
+----------------------------------------
+### v1.0.16
+【類別】: 指令大全
+【描述/備註】: Re-added several commands.
+----------------------------------------
+### v1.0.16_01
+【類別】: 指令大全
+【描述/備註】: Added /tp,/save-all,/save-off and /save-on.
+----------------------------------------
+### v1.0.16_02
+【類別】: 指令大全
+【描述/備註】: Added /list, /msg, /tell and /w.
+----------------------------------------
+### v1.2.0
+【類別】: 指令大全
+【描述/備註】: Removed /wood and /iron.
+----------------------------------------
+### v1.2.5
+【類別】: 指令大全
+【描述/備註】: Removed /home.
+----------------------------------------
+### v1.2.6
+【類別】: 指令大全
+【描述/備註】: Added /kill.
+----------------------------------------
+### 1.3
+【類別】: 指令大全
+【描述/備註】: Added /time and /whitelist.
+----------------------------------------
+### 1.8
+【類別】: 指令大全
+【描述/備註】: Added /gamemode.
+----------------------------------------
+### 1.0.0
+【類別】: 指令大全
+【描述/備註】: Added /xp and /toggledownfall.
+----------------------------------------
+### 1.3.1
+【類別】: 指令大全
+【描述/備註】: Added cheats mode, allowing commands to be used in singleplayer.
+----------------------------------------
+### 12w17a
+【類別】: 指令大全
+【描述/備註】: Added /help and its alias /?.
+----------------------------------------
+### 12w21a
+【類別】: 指令大全
+【描述/備註】: Added /seed.
+----------------------------------------
+### 12w22a
+【類別】: 指令大全
+【描述/備註】: Added /defaultgamemode.
+----------------------------------------
+### 12w24a
+【類別】: 指令大全
+【描述/備註】: Added /publish.
+----------------------------------------
+### 12w25a
+【類別】: 指令大全
+【描述/備註】: Cheats can now be turned on or off when opening a world to other players through LAN.
+----------------------------------------
+### 12w27a
+【類別】: 指令大全
+【描述/備註】: Added /debug.
+----------------------------------------
+### 1.4.2
+【類別】: 指令大全
+【描述/備註】: Added /difficulty, /gamerule, /spawnpoint and /weather.
+----------------------------------------
+### 12w37a
+【類別】: 指令大全
+【描述/備註】: Added /clear.
+----------------------------------------
+### 1.4.4
+【類別】: 指令大全
+【描述/備註】: Added /enchant.
+----------------------------------------
+### 1.5
+【類別】: 指令大全
+【描述/備註】: Added /testfor.
+----------------------------------------
+### 13w04a
+【類別】: 指令大全
+【描述/備註】: Added /scoreboard.
+----------------------------------------
+### 13w09b
+【類別】: 指令大全
+【描述/備註】: Added /effect.
+----------------------------------------
+### 1.6.1
+【類別】: 指令大全
+【描述/備註】: Added /spreadplayers.
+----------------------------------------
+### pre
+【類別】: 指令大全
+【描述/備註】: Added /playsound.
+----------------------------------------
+### 1.7.2
+【類別】: 指令大全
+【描述/備註】: Added /achievement and /summon.
+----------------------------------------
+### 13w37a
+【類別】: 指令大全
+【描述/備註】: Added /setblock, /tellraw and /testforblock.
+----------------------------------------
+### 13w38a
+【類別】: 指令大全
+【描述/備註】: Added /setidletimeout.
+----------------------------------------
+### 13w43a
+【類別】: 指令大全
+【描述/備註】: Added /setworldspawn.
+----------------------------------------
+### 1.8
+【類別】: 指令大全
+【描述/備註】: Added /blockdata.
+----------------------------------------
+### 14w03a
+【類別】: 指令大全
+【描述/備註】: Added /clone and /fill.
+----------------------------------------
+### 14w04a
+【類別】: 指令大全
+【描述/備註】: Added /particle.
+----------------------------------------
+### 14w06a
+【類別】: 指令大全
+【描述/備註】: Added /trigger.
+----------------------------------------
+### 14w07a
+【類別】: 指令大全
+【描述/備註】: Added /execute and /testforblocks.
+----------------------------------------
+### 14w17a
+【類別】: 指令大全
+【描述/備註】: Added /worldborder.
+----------------------------------------
+### 14w20a
+【類別】: 指令大全
+【描述/備註】: Added /title.
+----------------------------------------
+### 14w26a
+【類別】: 指令大全
+【描述/備註】: Added /replaceitem.
+----------------------------------------
+### 14w28a
+【類別】: 指令大全
+【描述/備註】: Added /stats.
+----------------------------------------
+### 14w32b
+【類別】: 指令大全
+【描述/備註】: Added /entitydata.
+----------------------------------------
+### 1.9.3
+【類別】: 指令大全
+【描述/備註】: Added /stopsound.
+----------------------------------------
+### 1.11
+【類別】: 指令大全
+【描述/備註】: Added block state support to commands.
+----------------------------------------
+### 16w39a
+【類別】: 指令大全
+【描述/備註】: Added /locate.
+----------------------------------------
+### 1.12
+【類別】: 指令大全
+【描述/備註】: Added /advancement and /recipe.
+----------------------------------------
+### 17w18a
+【類別】: 指令大全
+【描述/備註】: Added /reload.
+----------------------------------------
+### pre1
+【類別】: 指令大全
+【描述/備註】: Added /function.
+----------------------------------------
+### 1.13
+【類別】: 指令大全
+【描述/備註】: A new library named Brigadier is now used to parse commands. Different components of commands are displayed in different colors, and errors are displayed in red without having to run the command. Commands, for the most part, do not allow uppercase letters, and are now much faster and more efficient.
+----------------------------------------
+### 17w45b
+【類別】: 指令大全
+【描述/備註】: Added /data.
+----------------------------------------
+### 17w46a
+【類別】: 指令大全
+【描述/備註】: Added /datapack.
+----------------------------------------
+### 17w47a
+【類別】: 指令大全
+【描述/備註】: Added an option in chat to toggle automatic command suggestions.
+----------------------------------------
+### 17w48a
+【類別】: 指令大全
+【描述/備註】: Tweaked the command suggestion UI.
+----------------------------------------
+### 17w50a
+【類別】: 指令大全
+【描述/備註】: Local coordinates can now be specified in commands using ^.
+----------------------------------------
+### 18w01a
+【類別】: 指令大全
+【描述/備註】: Changed all custom names (blocks, items, entities, block entities) to translatable text components.
+----------------------------------------
+### 18w02a
+【類別】: 指令大全
+【描述/備註】: Errors during a command are now a nicer error message (with a tool tip for more info).
+----------------------------------------
+### 18w03a
+【類別】: 指令大全
+【描述/備註】: Improved performance of command parsing and command execution.
+----------------------------------------
+### 18w05a
+【類別】: 指令大全
+【描述/備註】: Added /bossbar.
+----------------------------------------
+### 18w06a
+【類別】: 指令大全
+【描述/備註】: Re-added /enchant.
+----------------------------------------
+### 1.13.1
+【類別】: 指令大全
+【描述/備註】: Added /chunk.
+----------------------------------------
+### pre1
+【類別】: 指令大全
+【描述/備註】: Renamed /chunk to /forceload.
+----------------------------------------
+### September 26, 2018
+【類別】: 指令大全
+【描述/備註】: Brigadier open-sourced under the MIT license. (Source code previously was available on the library site, with no license specified).
+----------------------------------------
+### 1.14
+【類別】: 指令大全
+【描述/備註】: Added /drop and /schedule.
+----------------------------------------
+### 18w45a
+【類別】: 指令大全
+【描述/備註】: Renamed /drop to /loot.
+----------------------------------------
+### 19w02a
+【類別】: 指令大全
+【描述/備註】: Added /teammsg and /tm.
+----------------------------------------
+### 1.15
+【類別】: 指令大全
+【描述/備註】: Added /test, only available in IDE environment.
+----------------------------------------
+### 19w41a
+【類別】: 指令大全
+【描述/備註】: Added /spectate.
+----------------------------------------
+### 1.16
+【類別】: 指令大全
+【描述/備註】: Added /locatebiome.
+----------------------------------------
+### 20w17a
+【類別】: 指令大全
+【描述/備註】: Added /attribute.
+----------------------------------------
+### 1.17
+【類別】: 指令大全
+【描述/備註】: Removed /replaceitem. Replaced with /item replace.
+----------------------------------------
+### pre1
+【類別】: 指令大全
+【描述/備註】: Added /perf.
+----------------------------------------
+### 1.18
+【類別】: 指令大全
+【描述/備註】: Added /jfr.
+----------------------------------------
+### 1.18.2
+【類別】: 指令大全
+【描述/備註】: Added /placefeature.
+----------------------------------------
+### 1.19
+【類別】: 指令大全
+【描述/備註】: Added /warden_spawn_tracker.
+----------------------------------------
+### 22w11a
+【類別】: 指令大全
+【描述/備註】: Disabled access to /warden_spawn_tracker.
+----------------------------------------
+### 22w18a
+【類別】: 指令大全
+【描述/備註】: Removed /placefeature. Replaced with /place feature.
+----------------------------------------
+### 22w19a
+【類別】: 指令大全
+【描述/備註】: Removed /locatebiome. Replaced with /locate biome.
+----------------------------------------
+### 1.19.3
+【類別】: 指令大全
+【描述/備註】: Added /fillbiome.
+----------------------------------------
+### 1.19.4
+【類別】: 指令大全
+【描述/備註】: Added /ride.
+----------------------------------------
+### 23w06a
+【類別】: 指令大全
+【描述/備註】: Added /damage.
+----------------------------------------
+### 1.20
+【類別】: 指令大全
+【描述/備註】: Added /return.
+----------------------------------------
+### 1.20.2
+【類別】: 指令大全
+【描述/備註】: The last 50 commands sent in chat is now remembered across game sessions, and can be accessed via up and down arrow keys.
+----------------------------------------
+### 1.20.3
+【類別】: 指令大全
+【描述/備註】: Added /tick.
+----------------------------------------
+### 1.20.5
+【類別】: 指令大全
+【描述/備註】: Added /transfer.
+----------------------------------------
+### 1.21.2
+【類別】: 指令大全
+【描述/備註】: Added /rotate.
+----------------------------------------
+### pre1
+【類別】: 指令大全
+【描述/備註】: /rotate now requires a permission level of 2 instead of 0.
+----------------------------------------
+### 1.21.5
+【類別】: 指令大全
+【描述/備註】: /test now accessible through normal gameplay.
+----------------------------------------
+### 1.21.6
+【類別】: 指令大全
+【描述/備註】: Added /version.
+----------------------------------------
+### 1.21.6ExperimentLocator Bar
+【類別】: 指令大全
+【描述/備註】: Added /waypoint.
+----------------------------------------
+### 1.21.6
+【類別】: 指令大全
+【描述/備註】: /waypoint can now be used without using the experiment Locator Bar.
+----------------------------------------
+### 25w20a
+【類別】: 指令大全
+【描述/備註】: Added /dialog.
+----------------------------------------
+### 1.21.9
+【類別】: 指令大全
+【描述/備註】: Added /fetchprofile.
+----------------------------------------
+### 26.1
+【類別】: 指令大全
+【描述/備註】: Added /swing.
+----------------------------------------
+### v0.7.4
+【類別】: 指令大全
+【描述/備註】: Added support for commands, though none are implemented yet.
+----------------------------------------
+### v0.16.0
+【類別】: 指令大全
+【描述/備註】: Added commands.
+----------------------------------------
+### 1.0.0
+【類別】: 指令大全
+【描述/備註】: Added /locate, /connect, and /fly.
+----------------------------------------
+### alpha 0.17.0.2
+【類別】: 指令大全
+【描述/備註】: Removed /locate.
+----------------------------------------
+### alpha 1.0.0.0
+【類別】: 指令大全
+【描述/備註】: Re-added /locate, currently can locate strongholds only.
+----------------------------------------
+### 1.0.5
+【類別】: 指令大全
+【描述/備註】: Added more commands.
+----------------------------------------
+### 1.1.0
+【類別】: 指令大全
+【描述/備註】: Added dodaylightcycle, doentitydrops, dofiretick, domobspawning, domobloot, dotiledrops, doweathercycle, keepinventory and mobgriefing to /gamerule.
+----------------------------------------
+### alpha 1.1.0.3
+【類別】: 指令大全
+【描述/備註】: Added /setmaxplayers.
+----------------------------------------
+### 1.2.0
+【類別】: 指令大全
+【描述/備註】: A new command parsing system is now used.
+----------------------------------------
+### beta 1.2.0.2
+【類別】: 指令大全
+【描述/備註】: Added /tickingarea.
+----------------------------------------
+### beta 1.2.0.31
+【類別】: 指令大全
+【描述/備註】: Coordinates are now a gamerule to /gamerule.
+----------------------------------------
+### 1.5.0
+【類別】: 指令大全
+【描述/備註】: 無
+----------------------------------------
+### 1.6.0
+【類別】: 指令大全
+【描述/備註】: doInsomnia is now a gamerule to /gamerule.
+----------------------------------------
+### 1.7.0
+【類別】: 指令大全
+【描述/備註】: Added /scoreboard.
+----------------------------------------
+### 1.8.0
+【類別】: 指令大全
+【描述/備註】: randomtickspeed is now a gamerule to /gamerule.
+----------------------------------------
+### 1.9.0
+【類別】: 指令大全
+【描述/備註】: immediateRespawn and showDeathMessages are now a gamerule to /gamerule.
+----------------------------------------
+### 1.11.0
+【類別】: 指令大全
+【描述/備註】: Added /mobevent.
+----------------------------------------
+### 1.12.0
+【類別】: 指令大全
+【描述/備註】: spawnradius, sendcommandblockfeedback, maxcommandchainlength and commandblockoutput are now gamerules to /gamerule.
+----------------------------------------
+### 1.14.0
+【類別】: 指令大全
+【描述/備註】: showtags is now a gamerule to /gamerule.
+----------------------------------------
+### 1.16.0
+【類別】: 指令大全
+【描述/備註】: Added /kick.
+----------------------------------------
+### 1.16.100
+【類別】: 指令大全
+【描述/備註】: Added /playanimation, /ride, and /structure.
+----------------------------------------
+### beta 1.16.100.54
+【類別】: 指令大全
+【描述/備註】: Added /fog.
+----------------------------------------
+### beta 1.16.100.57
+【類別】: 指令大全
+【描述/備註】: Added /camerashake, /clearspawnpoint, and /event.
+----------------------------------------
+### beta 1.16.100.58
+【類別】: 指令大全
+【描述/備註】: Added /music.
+----------------------------------------
+### beta 1.16.100.59
+【類別】: 指令大全
+【描述/備註】: Added /schedule.
+----------------------------------------
+### beta 1.16.100.60
+【類別】: 指令大全
+【描述/備註】: /structure can now animate the placement of a structure.
+----------------------------------------
+### 1.16.210
+【類別】: 指令大全
+【描述/備註】: freezeDamage is now a gamerule to /gamerule.
+----------------------------------------
+### beta 1.16.210.54
+【類別】: 指令大全
+【描述/備註】: You can now stop camera shaking in /camerashake.
+----------------------------------------
+### beta 1.16.210.58
+【類別】: 指令大全
+【描述/備註】: Removed /mixer again.
+----------------------------------------
+### beta 1.16.210.60
+【類別】: 指令大全
+【描述/備註】: Added /gametest.
+----------------------------------------
+### 1.17.10
+【類別】: 指令大全
+【描述/備註】: Added /dialogue.
+----------------------------------------
+### 1.17.30
+【類別】: 指令大全
+【描述/備註】: respawnBlocksExplode is now a gamerule to /gamerule.
+----------------------------------------
+### 1.18.0
+【類別】: 指令大全
+【描述/備註】: Added /loot.
+----------------------------------------
+### beta 1.18.0.22
+【類別】: 指令大全
+【描述/備註】: Removed /loot.
+----------------------------------------
+### 1.18.10
+【類別】: 指令大全
+【描述/備註】: Re-added /loot.
+----------------------------------------
+### beta 1.18.10.26
+【類別】: 指令大全
+【描述/備註】: Added /damage.
+----------------------------------------
+### 1.18.30
+【類別】: 指令大全
+【描述/備註】: Added /volumearea.
+----------------------------------------
+### 1.19.0
+【類別】: 指令大全
+【描述/備註】: Added /script.
+----------------------------------------
+### 1.19.10
+【類別】: 指令大全
+【描述/備註】: /locate can now find biomes.
+----------------------------------------
+### 1.19.60
+【類別】: 指令大全
+【描述/備註】: Added /scriptevent.
+----------------------------------------
+### 1.19.80
+【類別】: 指令大全
+【描述/備註】: Added command suggestions for block states.
+----------------------------------------
+### 1.19.80
+【類別】: 指令大全
+【描述/備註】: Added /inputpermission.
+----------------------------------------
+### 1.20.0
+【類別】: 指令大全
+【描述/備註】: Added /camera.
+----------------------------------------
+### 1.20.10
+【類別】: 指令大全
+【描述/備註】: Added /recipe.
+----------------------------------------
+### 1.20.30
+【類別】: 指令大全
+【描述/備註】: Added /transfer.
+----------------------------------------
+### 1.20.60ExperimentUpcoming Creator Features
+【類別】: 指令大全
+【描述/備註】: Added /hud behind the "Upcoming Creator Features" experimental toggle.
+----------------------------------------
+### 1.20.80
+【類別】: 指令大全
+【描述/備註】: Added /gametips.
+----------------------------------------
+### 1.21.20
+【類別】: 指令大全
+【描述/備註】: Removed /volumearea.
+----------------------------------------
+### 1.21.50
+【類別】: 指令大全
+【描述/備註】: Added /set_movement_authority.
+----------------------------------------
+### Preview 1.21.50.26
+【類別】: 指令大全
+【描述/備註】: Added /place behind the "Data-Driven Jigsaw Structures" experimental toggle.
+----------------------------------------
+### 26.0
+【類別】: 指令大全
+【描述/備註】: Added command macros.
+----------------------------------------
+### 20w14∞
+【類別】: 指令大全
+【描述/備註】: Added /debugdim and /warp.
+----------------------------------------
+### 23w13a_or_b
+【類別】: 指令大全
+【描述/備註】: Added /transform and /vote.
+----------------------------------------

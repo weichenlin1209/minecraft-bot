@@ -1,0 +1,871 @@
+【Minecraft 資料庫 - 食物飽食度】
+來源: https://minecraft.wiki/w/Food
+==================================================
+
+### Supernatural
+【類別】: 食物飽食度
+【Value】: 2.4
+【描述/備註】: Enchanted Golden Apple, Golden Apple, and Golden Carrot
+----------------------------------------
+### Good
+【類別】: 食物飽食度
+【Value】: 1.6
+【描述/備註】: Cooked Mutton, Cooked Porkchop, Cooked Salmon, and Steak
+----------------------------------------
+### Normal
+【類別】: 食物飽食度
+【Value】: 1.2
+【描述/備註】: Baked Potato, Beetroot, Beetroot Soup, Bread, Carrot, Cooked Chicken, Cooked Cod, Cooked Rabbit, Mushroom Stew, Rabbit Stew, and Suspicious Stew
+----------------------------------------
+### Low
+【類別】: 食物飽食度
+【Value】: 0.6
+【描述/備註】: Apple, Chorus Fruit, Dried Kelp‌, Melon Slice, Poisonous Potato, Potato, Pumpkin Pie, Raw Beef, Raw Chicken, Raw Mutton, Raw Porkchop, Raw Rabbit, and Sweet Berries‌
+----------------------------------------
+### Poor
+【類別】: 食物飽食度
+【Value】: 0.2
+【描述/備註】: Cake, Cookie, Dried Kelp‌, Glow Berries, Honey Bottle, Pufferfish, Raw Cod, Raw Salmon, Rotten Flesh, Spider Eye, Sweet Berries‌, and Tropical Fish
+----------------------------------------
+### Restored
+【類別】: 食物飽食度
+【Icon】: Quality
+【描述/備註】: Ratio
+----------------------------------------
+### Apple
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 4 ()
+【Saturation】: 2.4
+【Effect(s)】: 6.4
+【Source(s)】: 0.6
+【描述/備註】: Destroyed/despawned oak or dark oak leaves Stronghold altar and storeroom, village weaponsmith and plains house, igloo and bonus chests Receive 4 for 1 emerald at apprentice-level trade of farmer villager
+----------------------------------------
+### Baked Potato
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 5 ()
+【Saturation】: 6
+【Effect(s)】: 11
+【Source(s)】: 1.2
+【描述/備註】: Cooking a potato in a furnace, smoker, or campfire. Trial Spawners and ominous trial spawners in Trial Chambers. Ancient city ice box and trial chambers supply chests. Trial chambers intersection barrels.
+----------------------------------------
+### Beetroot
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 1 ()
+【Saturation】: 1.2
+【Effect(s)】: 2.2
+【Source(s)】: 1.2
+【描述/備註】: Harvesting beetroot crops Farmer villager who drop beetroot after harvesting beetroot crop
+----------------------------------------
+### Beetroot Soup
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 7.2
+【Effect(s)】: 13.2
+【Source(s)】: 1.2
+【描述/備註】: Crafting a bowl together with beetroots Snowy village house chests.
+----------------------------------------
+### Bread
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 5 ()
+【Saturation】: 6
+【Effect(s)】: 11
+【Source(s)】: 1.2
+【描述/備註】: Crafting from wheat Monster room, stronghold altar and storeroom, village, mineshaft, woodland mansion and bonus chests Receive 6 for 1 emerald at novice-level trade of farmer villager Farmer villager who drop bread after harvesting wheat Raid gift from farmer villager‌ Trial spawners in trial chambers.
+----------------------------------------
+### Cake (slice)
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4
+【Effect(s)】: 2.4
+【Source(s)】: 0.2
+【描述/備註】: Consume one slice of cake
+----------------------------------------
+### Cake (whole)
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 14 ( × 7)
+【Saturation】: 2.8
+【Effect(s)】: 16.8
+【Source(s)】: 0.2
+【描述/備註】: Crafting from wheat, eggs, sugar, and milk Receive 1 for 1 emerald at expert-level trade of farmer villager Buried treasure chest‌ Trial chamber intersection chests
+----------------------------------------
+### Carrot
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 3 ()
+【Saturation】: 3.6
+【Effect(s)】: 6.6
+【Source(s)】: 1.2
+【描述/備註】: Killing zombies Harvesting carrot crops pillager outpost and Shipwreck supply chest bonus chest‌ Farmer villagers which drop carrots after harvesting a carrot crop
+----------------------------------------
+### Chorus Fruit
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 4 ()
+【Saturation】: 2.4
+【Effect(s)】: 6.4
+【Source(s)】: 0.6
+【描述/備註】: Breaking chorus plants. Found in The End.
+----------------------------------------
+### Cooked Chicken
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 7.2
+【Effect(s)】: 13.2
+【Source(s)】: 1.2
+【描述/備註】: Cooking a raw chicken Killing chickens with fire Receive 8 for 1 emerald at novice-level trade from Butcher villager Raid gift from butcher villager‌ Trial spawners in trial chambers.
+----------------------------------------
+### Cooked Cod
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 5 ()
+【Saturation】: 6
+【Effect(s)】: 11
+【Source(s)】: 1.2
+【描述/備註】: Cooking a raw cod Killing cod with fire‌ Killing dolphin with fire Rare drop from guardians and elder guardians when killed with fire‌ Receive 6 for 1 emerald + 6 raw cod at novice-level trade from fisherman villager Buried treasure chests‌
+----------------------------------------
+### Cooked Mutton
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 9.6
+【Effect(s)】: 15.6
+【Source(s)】: 1.6
+【描述/備註】: Cooking raw mutton Killing sheep with fire Raid gift from butcher villager‌
+----------------------------------------
+### Cooked Porkchop
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 8 ()
+【Saturation】: 12.8
+【Effect(s)】: 20.8
+【Source(s)】: 1.6
+【描述/備註】: Cooking a raw porkchop Killing pigs or hoglins with fire Receive 5 for 1 emerald at apprentice-level trade from butcher villager Raid gift from butcher villager‌ Bastion remnant chests.
+----------------------------------------
+### Cooked Rabbit
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 5 ()
+【Saturation】: 6
+【Effect(s)】: 11
+【Source(s)】: 1.2
+【描述/備註】: Cooking raw rabbit Killing rabbits with fire Raid gift from butcher villager‌
+----------------------------------------
+### Cooked Salmon
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 9.6
+【Effect(s)】: 15.6
+【Source(s)】: 1.6
+【描述/備註】: Cooking a raw salmon Killing salmon with fire‌ buried treasure chest‌ Receive 6 for 1 emerald + 1 raw salmon at apprentice-level trade from fisherman villager
+----------------------------------------
+### Cookie
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4
+【Effect(s)】: 2.4
+【Source(s)】: 0.2
+【描述/備註】: Crafting from wheat and cocoa beans Receive 18 for 3 emerald at journeyman-level trade from farmer villager Raid gift from farmer villager.‌
+----------------------------------------
+### Dried Kelp
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 1 ()
+【Saturation】: 0.6‌0.2‌
+【Effect(s)】: 1.6‌1.2‌
+【Source(s)】: 0.6‌0.2‌
+【描述/備註】: Cooking kelp in a furnace, smoker, or campfire Crafting from dried kelp block Raid gift from farmer villager‌
+----------------------------------------
+### Enchanted Golden Apple
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 4 ()
+【Saturation】: 9.6
+【Effect(s)】: 13.6
+【Source(s)】: 2.4
+【描述/備註】: Desert pyramid, monster room, woodland mansion, mineshaft, ruined portal and ancient city chests. Ominous vaults in trial chambers.
+----------------------------------------
+### Golden Apple
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 4 ()
+【Saturation】: 9.6
+【Effect(s)】: 13.6
+【Source(s)】: 2.4
+【描述/備註】: Crafting from an apple and gold ingots. Desert pyramid, monster room, mineshaft, stronghold altar, woodland mansion, igloo, big ocean ruins, ruined portal and ancient city center chests. Ominous vaults in trial chambers.
+----------------------------------------
+### Glow Berries
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4
+【Effect(s)】: 2.4
+【Source(s)】: 0.2
+【描述/備註】: Collected from cave vines Ancient city and and trial chambers supply chests.
+----------------------------------------
+### Golden Carrot
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 14.4
+【Effect(s)】: 20.4
+【Source(s)】: 2.4
+【描述/備註】: Crafting a carrot with gold nuggets Receive 3 for 3 emerald at master-level trade from farmer villager Bastion remnant, ruined portal and ancient city ice box chests. Vaults in trial chambers. Ominous trial spawners in trial chambers.
+----------------------------------------
+### Honey Bottle
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 1.2
+【Effect(s)】: 7.2
+【Source(s)】: 0.2
+【描述/備註】: Crafting from honey block Collecting from beehives or bee nests Vaults in trial chambers.
+----------------------------------------
+### Melon Slice
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 1.2
+【Effect(s)】: 3.2
+【Source(s)】: 0.6
+【描述/備註】: Harvesting a melon block
+----------------------------------------
+### Mushroom Stew
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 7.2
+【Effect(s)】: 13.2
+【Source(s)】: 1.2
+【描述/備註】: Crafting with a bowl and one of each mushroom Using a bowl on a mooshroom
+----------------------------------------
+### Poisonous Potato
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 1.2
+【Effect(s)】: 3.2
+【Source(s)】: 0.6
+【描述/備註】: Harvesting potato crops Shipwreck supply chest
+----------------------------------------
+### Potato
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 1 ()
+【Saturation】: 0.6
+【Effect(s)】: 1.6
+【Source(s)】: 0.6
+【描述/備註】: Killing zombies Harvesting potato crops Farmer villager who drop potato after harvesting potato crop bonus chest‌ Plains and taiga village, pillager outpost, and shipwreck supply chest
+----------------------------------------
+### Pufferfish
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 1 ()
+【Saturation】: 0.2
+【Effect(s)】: 1.2
+【Source(s)】: 0.2(−4.8)‌
+【描述/備註】: Fishing Killing pufferfish Rare drop from guardians and elder guardian
+----------------------------------------
+### Pumpkin Pie
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 8 ()
+【Saturation】: 4.8
+【Effect(s)】: 12.8
+【Source(s)】: 0.6
+【描述/備註】: Crafting with a pumpkin, an egg, and sugar Receive 4 for 1 emerald at apprentice-level trade from farmer villager village taiga house chest Raid gift from farmer villager‌
+----------------------------------------
+### Rabbit Stew
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 10 ()
+【Saturation】: 12
+【Effect(s)】: 22
+【Source(s)】: 1.2
+【描述/備註】: Crafting with a bowl, carrot, baked potato, mushroom, and cooked rabbit Receive 1 for 1 emerald at novice-level trade from butcher villager
+----------------------------------------
+### Raw Beef
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 3 ()
+【Saturation】: 1.8
+【Effect(s)】: 4.8
+【Source(s)】: 0.6
+【描述/備註】: Killing cows, red mooshrooms, and brown mooshroom village butcher chest
+----------------------------------------
+### Raw Chicken
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 1.2
+【Effect(s)】: 3.2
+【Source(s)】: 0.6(-2.075)‌
+【描述/備註】: Killing chickens Cat gift
+----------------------------------------
+### Raw Cod
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4
+【Effect(s)】: 2.4
+【Source(s)】: 0.2
+【描述/備註】: Fishing Killing cod, guardians, elder guardians, dolphins, polar bears Rare drop from guardians and elder guardians village fisher barrel Raid gift from fisherman villager‌
+----------------------------------------
+### Raw Mutton
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 1.2
+【Effect(s)】: 3.2
+【Source(s)】: 0.6
+【描述/備註】: Killing sheep village butcher chest
+----------------------------------------
+### Raw Porkchop
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 3 ()
+【Saturation】: 1.8
+【Effect(s)】: 4.8
+【Source(s)】: 0.6
+【描述/備註】: Killing pigs or hoglins Village butcher and bastion remnant stable chests.
+----------------------------------------
+### Raw Rabbit
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 3 ()
+【Saturation】: 1.8
+【Effect(s)】: 4.8
+【Source(s)】: 0.6
+【描述/備註】: Killing rabbits
+----------------------------------------
+### Raw Salmon
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4
+【Effect(s)】: 2.4
+【Source(s)】: 0.2
+【描述/備註】: Fishing Killing salmon and polar bears Rare drop from guardians and elder guardians Raid gift from fisherman villager‌ village fisher barrel‌ bonus chest
+----------------------------------------
+### Rotten Flesh
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 4 ()
+【Saturation】: 0.8
+【Effect(s)】: 4.8
+【Source(s)】: 0.2(-1.8)‌
+【描述/備註】: Killing zombies, zombified piglins, zombie villagers, husks, drowned, and zombie horses monster room, igloo, woodland mansion, small ocean ruins, village temple, shipwreck supply, desert, and jungle pyramid chests Caught as junk from fishing Cat gift
+----------------------------------------
+### Spider Eye
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 3.2
+【Effect(s)】: 5.2
+【Source(s)】: 1.6(-2.2)‌
+【描述/備註】: Killing spiders, cave spiders and witches. Desert pyramid chests.
+----------------------------------------
+### Steak
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 8 ()
+【Saturation】: 12.8
+【Effect(s)】: 20.8
+【Source(s)】: 1.6
+【描述/備註】: Cooking raw beef Killing cows, red mooshrooms, or brown mooshrooms with fire Raid gift from butcher villager‌ Ominous trial spawners in trial chambers.
+----------------------------------------
+### Suspicious Stew
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 6 ()
+【Saturation】: 7.2
+【Effect(s)】: 13.2
+【Source(s)】: 1.2
+【描述/備註】: Crafting with a bowl, red mushroom, brown mushroom, and any flower Feed brown mooshroom any flower then using a bowl on brown mooshroom Receive 1 for 1 emerald at expert-level trade of farmer villager, excluding Fire Resistance, Regeneration, and Wither. Ancient city ice box chests.
+----------------------------------------
+### Suspicious Stew (Together with Saturation)
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 13 ( × 6.5)
+【Saturation】: 21.2
+【Effect(s)】: 34.2
+【Source(s)】: 1.631
+【描述/備註】: Crafting with a bowl, red mushroom, brown mushroom, and Dandelion or Blue Orchid Feed brown mooshroom a dandelion or blue orchid then using a bowl on brown mooshroom Receive 1 for 1 emerald at expert-level trade of farmer villager
+----------------------------------------
+### Sweet Berries
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 2 ()
+【Saturation】: 0.4‌1.2‌
+【Effect(s)】: 2.4‌3.2‌
+【Source(s)】: 0.2‌0.6‌
+【描述/備註】: Breaking sweet berry bushes Picking ripe berries from sweet berry bushes (right-click) Taiga village house chests.‌
+----------------------------------------
+### Tropical Fish
+【類別】: 食物飽食度
+【Icon】: 
+【Food points】: 1 ()
+【Saturation】: 0.2
+【Effect(s)】: 1.2
+【Source(s)】: 0.2
+【描述/備註】: Fishing Killing tropical fish Rare drop from guardians and elder guardians
+----------------------------------------
+### Bowl
+【類別】: 食物飽食度
+【Used to make】: Mushroom Stew Beetroot Soup Rabbit Stew Suspicious Stew
+【Source(s)】: Crafting from planks Fishing Turtle killed by lightning Eating food made with them
+【描述/備註】: 
+----------------------------------------
+### Cocoa Beans
+【類別】: 食物飽食度
+【Used to make】: Cookies
+【Source(s)】: Breaking cocoa plants
+【描述/備註】: 
+----------------------------------------
+### Egg
+【類別】: 食物飽食度
+【Used to make】: Cake Pumpkin Pie
+【Source(s)】: Laid by chickens Found in village fletcher chests
+【描述/備註】: 
+----------------------------------------
+### Milk Bucket
+【類別】: 食物飽食度
+【Used to make】: Cake
+【Source(s)】: Milking a cow, mooshroom or a goat Killing a wandering trader drinking it
+【描述/備註】: Can also be drunk to clear status effects
+----------------------------------------
+### Brown Mushroom or Red Mushroom
+【類別】: 食物飽食度
+【Used to make】: Mushroom Stew Rabbit Stew Suspicious Stew
+【Source(s)】: Breaking naturally generated mushrooms in: Dark/shady areas Swamp and mushroom fields biomes The Nether Breaking huge brown or red mushrooms Using shears on a brown mooshroom or red mushroom Bought from wandering trader
+【描述/備註】: 
+----------------------------------------
+### Any small flower
+【類別】: 食物飽食度
+【Used to make】: Suspicious stew
+【Source(s)】: Breaking naturally generated flowers Using bone meal on a grass block Bought from wandering trader Killing iron golem (poppy)
+【描述/備註】: 
+----------------------------------------
+### Pumpkin
+【類別】: 食物飽食度
+【Used to make】: Pumpkin pie
+【Source(s)】: Harvesting mature pumpkins grown from pumpkin seeds Naturally occurring pumpkins Taiga and snowy taiga villages Bought from wandering trader
+【描述/備註】: 
+----------------------------------------
+### Sugar
+【類別】: 食物飽食度
+【Used to make】: Cake Pumpkin pie
+【Source(s)】: Crafting from sugar cane or honey bottle Dropped by witches Creating from its base elements ‌
+【描述/備註】: 
+----------------------------------------
+### Wheat
+【類別】: 食物飽食度
+【Used to make】: Bread Cake Cookie
+【Source(s)】: Harvesting mature wheat seeds Found in monster room, woodland mansion, shipwreck, igloo, village, ocean ruins, and pillager outpost chest Crafting from hay bales
+【描述/備註】: 
+----------------------------------------
+### Gold Nugget
+【類別】: 食物飽食度
+【Used to make】: Golden Carrot
+【Source(s)】: Crafting from gold ingots Dropped by zombified piglins Found in shipwreck, igloo, village, and ocean ruins chest Smelting golden armor or tools Mining nether gold ore without Silk Touch
+【描述/備註】: 
+----------------------------------------
+### Gold Ingot
+【類別】: 食物飽食度
+【Used to make】: Golden Apple
+【Source(s)】: Crafting from gold blocks or gold nuggets Rarely dropped by zombified piglins Smelting gold ore or nether gold ore Found in shipwreck, jungle pyramid, monster room, woodland mansion, nether fortress, end city, mineshaft, village, stronghold, buried treasure and desert pyramid chest
+【描述/備註】: 
+----------------------------------------
+### Honey Block
+【類別】: 食物飽食度
+【Used to make】: Honey Bottle
+【Source(s)】: Crafting from honey bottles
+【描述/備註】: 
+----------------------------------------
+### Sound
+【類別】: 食物飽食度
+【描述/備註】: Attenuationdistance
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: 16
+----------------------------------------
+### ​Eating
+【類別】: 食物飽食度
+【描述/備註】: 16
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: 16
+----------------------------------------
+### Sound
+【類別】: 食物飽食度
+【描述/備註】: Pitch
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: 0.8-1.2
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: 0.9-1.0
+----------------------------------------
+### Icon
+【類別】: 食物飽食度
+【描述/備註】: Trophy type (PS)
+----------------------------------------
+### PS4
+【類別】: 食物飽食度
+【描述/備註】: Other
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【Advancement】: A Furious Cocktail
+【In-game description】: Have every potion effect applied at the same time
+【描述/備註】: Have all of these 17 status effects applied to the player at the same time: Fire Resistance Infested Invisibility Jump Boost Night Vision Oozing Poison Regeneration Resistance Slow Falling Slowness Speed Strength Water Breathing Weakness Weaving Wind Charged The source of the effects is irrelevant for the purposes of this advancement. Other status effects may be applied to the player, but are ignored for this advancement.
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【Advancement】: How Did We Get Here?
+【In-game description】: Have every effect applied at the same time
+【描述/備註】: Have all of these 34 status effects applied to the player at the same time: Absorption Bad Omen Blindness Breath of the Nautilus Conduit Power Darkness Dolphin's Grace Fire Resistance Glowing Haste Hero of the Village Hunger Infested Invisibility Jump Boost Levitation Mining Fatigue Nausea Night Vision Oozing Poison Raid Omen Regeneration Resistance Slow Falling Slowness Speed Strength Trial Omen Water Breathing Weakness Weaving Wind Charged Wither The source of the effects is irrelevant for the purposes of this advancement. Other status effects may be applied to the player, but are ignored for this advancement. See also: Tutorial:Advancement guide/Nether tab § How Did We Get Here? This is a hidden advancement, meaning that it can be viewed by the player only after completing it, regardless of if its child advancement(s), if any, have been completed.
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【Advancement】: Husbandry
+【In-game description】: The world is full of friends and food
+【描述/備註】: Consume anything that can be consumed, except for cake.
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【Advancement】: Fishy Business
+【In-game description】: Catch a fish
+【描述/備註】: Reel in a fishing rod attached to any of these fish items: Raw Cod Raw Salmon Tropical Fish Pufferfish The player need not to have actually fished to trigger this advancement.
+----------------------------------------
+### 無
+【類別】: 食物飽食度
+【Advancement】: A Balanced Diet
+【In-game description】: Eat everything that is edible, even if it's not good for you
+【描述/備註】: Eat each of these 40 foods: Apple Baked Potato Beetroot Beetroot Soup Bread Carrot Chorus Fruit Cooked Chicken Cooked Cod Cooked Mutton Cooked Porkchop Cooked Rabbit Cooked Salmon Cookie Dried Kelp Enchanted Golden Apple Glow Berries Golden Apple Golden Carrot Honey Bottle Melon Slice Mushroom Stew Poisonous Potato Potato Pufferfish Pumpkin Pie Rabbit Stew Raw Beef Raw Chicken Raw Cod Raw Mutton Raw Porkchop Raw Rabbit Raw Salmon Rotten Flesh Spider Eye Steak Suspicious Stew Sweet Berries Tropical Fish Other foods and consumables can be eaten, but are ignored for this advancement.
+----------------------------------------
+### June 14, 2009
+【類別】: 食物飽食度
+【描述/備註】: Notch discussed how food would work in Survival mode: "Monsters will hurt you and take away from your health. The only way to regain health is to eat food. You get food from either hunting or from farming."
+----------------------------------------
+### 0.24_SURVIVAL_TEST
+【類別】: 食物飽食度
+【描述/備註】: Mushrooms are now edible, making them the first food to be added in the game. At the time, food restores health instead of hunger, and are eaten instantly without sound or animation.
+----------------------------------------
+### 0.25 SURVIVAL TEST
+【類別】: 食物飽食度
+【描述/備註】: Pigs now drop 0-2 brown mushrooms upon death.
+----------------------------------------
+### 0.31
+【類別】: 食物飽食度
+【描述/備註】: Mushrooms are no longer edible.
+----------------------------------------
+### 20091231-2147
+【類別】: 食物飽食度
+【描述/備註】: Added apples, which are currently non-functional.
+----------------------------------------
+### 20100110
+【類別】: 食物飽食度
+【描述/備註】: Apples are now edible, and restore 4HP each.
+----------------------------------------
+### 20100130
+【類別】: 食物飽食度
+【描述/備註】: Added mushroom stew, which restores 8HP health.
+----------------------------------------
+### 20100206-2034
+【類別】: 食物飽食度
+【描述/備註】: Added bread which restores 5HP.
+----------------------------------------
+### 20100219
+【類別】: 食物飽食度
+【描述/備註】: Pigs now drop raw porkchops, which restore 3HP and can be smelted to become cooked porkchops, which restore 8HP.
+----------------------------------------
+### 20100227-1414
+【類別】: 食物飽食度
+【描述/備註】: Added golden apples. At the time, they were crafted with blocks of gold, and restored 20HP × 10, but internally 42HP × 21.
+----------------------------------------
+### 20100625-1917
+【類別】: 食物飽食度
+【描述/備註】: Golden apples can now be found in dungeons, making the item obtainable.
+----------------------------------------
+### v1.2.0
+【類別】: 食物飽食度
+【描述/備註】: Added raw fish which restores 2HP and cooked fish which restores 5HP, obtainable through fishing.
+----------------------------------------
+### v1.2.3
+【類別】: 食物飽食度
+【描述/備註】: Eating food now functions correctly in multiplayer.
+----------------------------------------
+### 1.2
+【類別】: 食物飽食度
+【描述/備註】: Added cake, its slice restores 3HP and a full cake restores 18HP × 9.
+----------------------------------------
+### 1.4
+【類別】: 食物飽食度
+【描述/備註】: Added cookies which restore 1HP.
+----------------------------------------
+### 1.5
+【類別】: 食物飽食度
+【描述/備註】: Pigs now drop cooked porkchops if killed while on fire.
+----------------------------------------
+### 1.8
+【類別】: 食物飽食度
+【描述/備註】: Added melons, raw chicken as a drop from chickens, which can be smelted into cooked chicken, raw beef as a drop from cows, which can be smelted into steak, and rotten flesh as a new drop from zombies.
+----------------------------------------
+### 1.0.0
+【類別】: 食物飽食度
+【描述/備註】: Added spider eyes, as a drop from spiders.
+----------------------------------------
+### 1.1
+【類別】: 食物飽食度
+【描述/備註】: Golden apples are now made with gold nuggets instead of blocks of gold, restore 4 () and give 4 seconds of Regeneration.
+----------------------------------------
+### 1.3.1
+【類別】: 食物飽食度
+【描述/備註】: Cocoa beans now drop rarely from jungle leaves, making all food renewable.
+----------------------------------------
+### 12w19a
+【類別】: 食物飽食度
+【描述/備註】: Cookies now restore 2 ().
+----------------------------------------
+### 12w21a
+【類別】: 食物飽食度
+【描述/備註】: Added enchanted golden apples, which functioned like golden apples prior to 1.1 and had the same crafting recipe, but also gave resistance and fire resistance for 5 minutes each.
+----------------------------------------
+### 1.4.2
+【類別】: 食物飽食度
+【描述/備註】: Potatoes and carrots can be obtained from zombies (rare drop).
+----------------------------------------
+### 12w37a
+【類別】: 食物飽食度
+【描述/備註】: Added pumpkin pies.
+----------------------------------------
+### 1.6.1
+【類別】: 食物飽食度
+【描述/備註】: Golden apples are now crafted with 8 golden ingots.
+----------------------------------------
+### 1.7.2
+【類別】: 食物飽食度
+【描述/備註】: Added clownfish, raw salmon, cooked salmon, and pufferfish.
+----------------------------------------
+### 1.8
+【類別】: 食物飽食度
+【描述/備註】: Baked potatoes now restore 5 () hunger points instead of 6, with a corresponding reduction in saturation restored.
+----------------------------------------
+### 14w25a
+【類別】: 食物飽食度
+【描述/備註】: Eating immediately after attacking no longer continues the swinging animation.
+----------------------------------------
+### 14w27a
+【類別】: 食物飽食度
+【描述/備註】: Added raw mutton, cooked mutton, raw rabbit, cooked rabbit, and rabbit stew.
+----------------------------------------
+### 14w28a
+【類別】: 食物飽食度
+【描述/備註】: Cake now has one more slice.
+----------------------------------------
+### 14w30a
+【類別】: 食物飽食度
+【描述/備註】: Food is now positioned a little higher and further left during the eating animation in first person view.
+----------------------------------------
+### 1.9
+【類別】: 食物飽食度
+【描述/備註】: Added chorus fruit, beetroot and beetroot soup.
+----------------------------------------
+### 15w44a
+【類別】: 食物飽食度
+【描述/備註】: Enchanted golden apples are no longer craftable, making them no longer renewable.
+----------------------------------------
+### 1.13
+【類別】: 食物飽食度
+【描述/備註】: Added dried kelp.
+----------------------------------------
+### 1.14
+【類別】: 食物飽食度
+【描述/備註】: Added suspicious stew.
+----------------------------------------
+### 18w49a
+【類別】: 食物飽食度
+【描述/備註】: Added sweet berries.
+----------------------------------------
+### 1.15
+【類別】: 食物飽食度
+【描述/備註】: Added honey bottles.
+----------------------------------------
+### 19w35a
+【類別】: 食物飽食度
+【描述/備註】: Honey bottles now remove Poison effect when consumed.
+----------------------------------------
+### 19w44a
+【類別】: 食物飽食度
+【描述/備註】: Honey bottles can now be crafted with 4 bottles and 1 honey block.
+----------------------------------------
+### 19w46a
+【類別】: 食物飽食度
+【描述/備註】: All foods can now be consumed in Creative mode.
+----------------------------------------
+### 1.17
+【類別】: 食物飽食度
+【描述/備註】: Added glow berries.
+----------------------------------------
+### v0.4.0
+【類別】: 食物飽食度
+【描述/備註】: Added the first food items: apples, bread, mushroom stew, raw beef, steak, raw chicken, cooked chicken, raw porkchops, and cooked porkchop.
+----------------------------------------
+### v0.5.0
+【類別】: 食物飽食度
+【描述/備註】: Added melons, melon slices, and melon seeds.
+----------------------------------------
+### v0.7.0
+【類別】: 食物飽食度
+【描述/備註】: Added cakes.
+----------------------------------------
+### v0.8.0
+【類別】: 食物飽食度
+【描述/備註】: Added pumpkin pie, carrots, potatoes, and baked potatoes.
+----------------------------------------
+### build 2
+【類別】: 食物飽食度
+【描述/備註】: Added beetroots and beetroot soup.
+----------------------------------------
+### v0.9.0
+【類別】: 食物飽食度
+【描述/備註】: Potatoes and carrots can be obtainable from zombies (rare drop) or harvested.
+----------------------------------------
+### v0.11.0
+【類別】: 食物飽食度
+【描述/備註】: Added rotten flesh as a new drop from zombies. It Poisons the player when eaten.​
+----------------------------------------
+### v0.12.1
+【類別】: 食物飽食度
+【描述/備註】: Eating food now restores hunger.
+----------------------------------------
+### v0.13.0
+【類別】: 食物飽食度
+【描述/備註】: The amount of Hunger restored by food is now the same as in Java Edition.
+----------------------------------------
+### v0.15.0
+【類別】: 食物飽食度
+【描述/備註】: Added raw mutton and cooked mutton.
+----------------------------------------
+### 1.0.0
+【類別】: 食物飽食度
+【描述/備註】: Added chorus fruit.
+----------------------------------------
+### 1.4.0
+【類別】: 食物飽食度
+【描述/備註】: Added dried kelp, which is the first food item that restores a different amount of hunger than in Java Edition.
+----------------------------------------
+### 1.7.0
+【類別】: 食物飽食度
+【描述/備註】: Food can now be eaten in Creative mode and on Peaceful difficulty.
+----------------------------------------
+### 1.10.0
+【類別】: 食物飽食度
+【描述/備註】: Added sweet berries, which is the second food item that restores a different amount of hunger than in Java Edition.
+----------------------------------------
+### 1.13.0
+【類別】: 食物飽食度
+【描述/備註】: Added suspicious stew.
+----------------------------------------
+### 1.14.0
+【類別】: 食物飽食度
+【描述/備註】: Added honey bottle.
+----------------------------------------
+### 1.17.0
+【類別】: 食物飽食度
+【描述/備註】: Added glow berries.
+----------------------------------------
+### Xbox 360
+【類別】: 食物飽食度
+【描述/備註】: 無
+----------------------------------------
+### TU1
+【類別】: 食物飽食度
+【描述/備註】: Added all food from and prior to Java Edition Beta 1.6.6.
+----------------------------------------
+### TU5
+【類別】: 食物飽食度
+【描述/備註】: Added an eating animation and sounds.
+----------------------------------------
+### TU7
+【類別】: 食物飽食度
+【描述/備註】: Added spider eyes.
+----------------------------------------
+### TU14
+【類別】: 食物飽食度
+【描述/備註】: Added enchanted golden apples, potatoes, baked potatoes, poisonous potatoes, carrots, golden carrots, and pumpkin pie.
+----------------------------------------
+### TU31
+【類別】: 食物飽食度
+【描述/備註】: Added clownfish, raw salmon, cooked salmon, pufferfish, raw mutton, cooked mutton, raw rabbit, cooked rabbit, and rabbit stew.
+----------------------------------------
+### TU43
+【類別】: 食物飽食度
+【描述/備註】: Added beetroots and beetroot soup.
+----------------------------------------
+### TU46
+【類別】: 食物飽食度
+【描述/備註】: Added chorus fruit.
+----------------------------------------
+### TU48
+【類別】: 食物飽食度
+【描述/備註】: Chorus fruits, golden apples and enchanted golden apples are no longer consumed when eaten in creative mode.
+----------------------------------------
+### TU49
+【類別】: 食物飽食度
+【描述/備註】: Food is now positioned a little higher and further left during the eating animation in first person view.
+----------------------------------------
+### TU69
+【類別】: 食物飽食度
+【描述/備註】: Added dried kelp.
+----------------------------------------

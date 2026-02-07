@@ -1,0 +1,2799 @@
+【Minecraft 資料庫 - 村民交易】
+來源: https://minecraft.wiki/w/Trading
+==================================================
+
+### 1
+【類別】: 村民交易
+【Badge】: 
+【Name】: Novice
+【描述/備註】: 0
+----------------------------------------
+### 2
+【類別】: 村民交易
+【Badge】: 
+【Name】: Apprentice
+【描述/備註】: 10
+----------------------------------------
+### 3
+【類別】: 村民交易
+【Badge】: 
+【Name】: Journeyman
+【描述/備註】: 70
+----------------------------------------
+### 4
+【類別】: 村民交易
+【Badge】: 
+【Name】: Expert
+【描述/備註】: 150
+----------------------------------------
+### 5
+【類別】: 村民交易
+【Badge】: 
+【Name】: Master
+【描述/備註】: 250
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 100%
+【Player receives】: 15 × Coal
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 5 × Emerald
+【Player receives】: Iron Helmet
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 9 × Emerald
+【Player receives】: Iron Chestplate
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 7 × Emerald
+【Player receives】: Iron Leggings
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 4 × Emerald
+【Player receives】: Iron Boots
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 100%
+【Player receives】: 4 × Iron Ingot
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 36 × Emerald
+【Player receives】: Bell
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 3 × Emerald
+【Player receives】: Chainmail Leggings
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Emerald
+【Player receives】: Chainmail Boots
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 100%
+【Player receives】: Lava Bucket
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Diamond
+【Player receives】: Emerald
+【Trades instock】: 12
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Emerald
+【Player receives】: Chainmail Helmet
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 4 × Emerald
+【Player receives】: Chainmail Chestplate
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 5 × Emerald
+【Player receives】: Shield
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: 19–33 × Emerald
+【Trades instock】: Enchanted Diamond Leggings
+【Villagerexperience】: 3
+【Pricemultiplier】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 13–27 × Emerald
+【Player receives】: Enchanted Diamond Boots
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: 13–27 × Emerald
+【Trades instock】: Enchanted Diamond Helmet
+【Villagerexperience】: 3
+【Pricemultiplier】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 21–35 × Emerald
+【Player receives】: Enchanted Diamond Chestplate
+【Trades instock】: 3
+【Villagerexperience】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 33%
+【Player receives】: 14 × Raw Chicken
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 4 × Raw Rabbit
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 7 × Raw Porkchop
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: Rabbit Stew
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 15 × Coal
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 8 × Cooked Chicken
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 5 × Cooked Porkchop
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: 10 × Raw Beef
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 7 × Raw Mutton
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 10 × Dried Kelp Block
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 10 × Sweet Berries
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 24 × Paper
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 7 × Emerald
+【Player receives】: Empty Map
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 50%–67%(biome-dependent)
+【Villager wants】: 50%–67%(biome-dependent)
+【Player receives】: 11 × Glass Pane
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 8 × Emerald+ Compass
+【Player receives】: Explorer Map
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 67%
+【Player receives】: Compass
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 13 × Emerald+ Compass
+【Player receives】: Ocean Explorer Map
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 12 × Emerald+ Compass
+【Player receives】: Trial Explorer Map
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 33%–50%(biome-dependent)
+【Villager wants】: 33%–50%(biome-dependent)
+【Player receives】: 7 × Emerald
+【Trades instock】: Item Frame
+【Villagerexperience】: 12
+【Pricemultiplier】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Banner
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 8 × Emerald
+【Trades instock】: Globe Banner Pattern
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 14 × Emerald+ Compass
+【Player receives】: Woodland Explorer Map
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 32 × Rotten Flesh
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: 2 × Redstone Dust
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 3 × Gold Ingot
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: Lapis Lazuli
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 2 × Rabbit's Foot
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 4 × Emerald
+【Player receives】: Glowstone
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 50%
+【Player receives】: 4 × Turtle Scute
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 9 × Glass Bottle
+【Player receives】: Emerald
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 5 × Emerald
+【Player receives】: Ender Pearl
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 22 × Nether Wart
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Bottle o' Enchanting
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 25%
+【Player receives】: 20 × Wheat
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 26 × Potato
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 22 × Carrot
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 15 × Beetroot
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: 6 × Bread
+【Trades instock】: 16
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 6 × Pumpkin
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 4 × Pumpkin Pie
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 4 × Apple
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 4 × Melon
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: 18 × Cookie
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 29%
+【Villager wants】: 17%
+【Player receives】: Emerald
+【Trades instock】: Suspicious Stew
+【Villagerexperience】: 12
+【Pricemultiplier】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: Emerald
+【Player receives】: Suspicious Stew
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: Emerald
+【Player receives】: Suspicious Stew
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: Emerald
+【Player receives】: Suspicious Stew
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: Emerald
+【Player receives】: Suspicious Stew
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: Emerald
+【Player receives】: Suspicious Stew
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: Cake
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: 3 × Emerald
+【Trades instock】: 3 × Golden Carrot
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 4 × Emerald
+【Player receives】: 3 × Glistering Melon Slice
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 50%
+【Player receives】: 20 × String
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 10 × Coal
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 3 × Emerald
+【Player receives】: Bucket of Cod
+【Trades instock】: 16
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 6 × Raw Cod+ Emerald
+【Player receives】: 6 × Cooked Cod
+【Trades instock】: 16
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 15 × Raw Cod
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 2 × Emerald
+【Player receives】: Campfire
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 6 × Raw Salmon+ Emerald
+【Player receives】: 6 × Cooked Salmon
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 13 × Raw Salmon
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 8–22 × Emerald
+【Player receives】: Enchanted Fishing Rod
+【Trades instock】: 3
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 6 × Tropical Fish
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 4 × Pufferfish
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Boat
+【Player receives】: Emerald
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 32 × Stick
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 16 × Arrow
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 10 × Gravel+ Emerald
+【Player receives】: 10 × Flint
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 26 × Flint
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 2 × Emerald
+【Player receives】: Bow
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 14 × String
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Crossbow
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 24 × Feather
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 7–21 × Emerald
+【Player receives】: Enchanted Bow
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 8 × Tripwire Hook
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 8–22 × Emerald
+【Player receives】: Enchanted Crossbow
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 2 × Emerald+ 5 × Arrow
+【Player receives】: 5 × Tipped Arrow
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 6 × Leather
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 3 × Emerald
+【Player receives】: Leather Pants
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 7 × Emerald
+【Player receives】: Leather Tunic
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 26 × Flint
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 5 × Emerald
+【Player receives】: Leather Cap
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 4 × Emerald
+【Player receives】: Leather Boots
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 9 × Rabbit Hide
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 7 × Emerald
+【Player receives】: Leather Tunic
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 4 × Turtle Scute
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 6 × Emerald
+【Player receives】: Leather Horse Armor
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: 5 × Emerald
+【Trades instock】: Leather Cap
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 6 × Emerald
+【Player receives】: Saddle
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 24 × Paper
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 9 × Emerald
+【Player receives】: Bookshelf
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 5–64 × Emerald+ Book
+【Player receives】: Enchanted Book
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 4 × Book
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: Lantern
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 5–64 × Emerald+ Book
+【Player receives】: Enchanted Book
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 5 × Ink Sac
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 4 × Glass
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 5–64 × Emerald+ Book
+【Player receives】: Enchanted Book
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 100%
+【Player receives】: Book and Quill+ Book and Quill
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 4 × Emerald
+【Player receives】: Compass
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 5 × Emerald
+【Player receives】: Clock
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 50%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 5–64 × Emerald+ Book
+【Player receives】: Enchanted Book
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 20 × Emerald
+【Trades instock】: Name Tag
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 10 × Clay Ball
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: 10 × Brick
+【Trades instock】: 16
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 20 × Stone
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: Emerald
+【Player receives】: 4 × Chiseled Stone Bricks
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 29%
+【Villager wants】: 33%
+【Player receives】: 16 × Granite
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 16 × Andesite
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 16 × Diorite
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: 4 × Dripstone Block
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: 4 × Polished Andesite
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: 4 × Polished Diorite
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 29%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: 4 × Polished Granite
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 6%
+【Villager wants】: 100%
+【Player receives】: 12 × Nether Quartz
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 74%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: Any color Stained Terracotta
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### 74%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: Any color Glazed Terracotta
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 50%
+【Player receives】: Emerald
+【Trades instock】: Quartz Pillar
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: Block of Quartz
+【Trades instock】: 12
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 25%
+【Player receives】: 18 × White Wool
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 18 × Brown Wool
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 18 × Black Wool
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 18 × Gray Wool
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 2 × Emerald
+【Player receives】: Shears
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 5%
+【Villager wants】: 20%
+【Player receives】: 12 × White Dye
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 5%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Gray Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 5%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Black Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 5%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Light Blue Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 5%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Lime Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 68%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: Any color Wool
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### 68%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: Emerald
+【Player receives】: 4 × Any color Carpet
+【Trades instock】: 16
+【Villagerexperience】: 5
+【描述/備註】: 0.05
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 10%
+【Villager wants】: 20%
+【Player receives】: 12 × Yellow Dye
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 10%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Light Gray Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 10%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Orange Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 10%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Red Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 10%
+【類別】: 村民交易
+【Probability】: 20%
+【Villager wants】: 12 × Pink Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 95%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Any color Bed
+【Trades instock】: 12
+【Villagerexperience】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 9%
+【Villager wants】: 17%
+【Player receives】: 12 × Brown Dye
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 9%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: 12 × Purple Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 9%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: 12 × Blue Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 9%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: 12 × Green Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 9%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: 12 × Magenta Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 9%
+【類別】: 村民交易
+【Probability】: 17%
+【Villager wants】: 12 × Cyan Dye
+【Player receives】: Emerald
+【Trades instock】: 16
+【Villagerexperience】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 94%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Any color Banner
+【Trades instock】: 12
+【Villagerexperience】: 15
+【描述/備註】: 0.05
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 2 × Emerald
+【Trades instock】: 3 × Painting
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 100%
+【Player receives】: 15 × Coal
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: Stone Axe
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: Stone Shovel
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: Stone Pickaxe
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: Emerald
+【Player receives】: Stone Hoe
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 4 × Iron Ingot
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 36 × Emerald
+【Player receives】: Bell
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 40%
+【Villager wants】: 100%
+【Player receives】: 30 × Flint
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 6–20 × Emerald
+【Player receives】: Enchanted Iron Axe
+【Trades instock】: 3
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 7–21 × Emerald
+【Player receives】: Enchanted Iron Shovel
+【Trades instock】: 3
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 8–22 × Emerald
+【Player receives】: Enchanted Iron Pickaxe
+【Trades instock】: 3
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### 40%
+【類別】: 村民交易
+【Probability】: 25%
+【Villager wants】: 4 × Emerald
+【Player receives】: Diamond Hoe
+【Trades instock】: 3
+【Villagerexperience】: 10
+【描述/備註】: 0.2
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: Diamond
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 17–31 × Emerald
+【Player receives】: Enchanted Diamond Axe
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 50%
+【Villager wants】: 10–24 × Emerald
+【Player receives】: Enchanted Diamond Shovel
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 18–32 × Emerald
+【Trades instock】: Enchanted Diamond Pickaxe
+【Villagerexperience】: 3
+【Pricemultiplier】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Novice
+【類別】: 村民交易
+【Probability】: 67%
+【Villager wants】: 100%
+【Player receives】: 15 × Coal
+【Trades instock】: Emerald
+【Villagerexperience】: 16
+【Pricemultiplier】: 2
+【描述/備註】: 0.05
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 3 × Emerald
+【Player receives】: Iron Axe
+【Trades instock】: 12
+【Villagerexperience】: 1
+【描述/備註】: 0.2
+----------------------------------------
+### 67%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 7–21 × Emerald
+【Player receives】: Enchanted Iron Sword
+【Trades instock】: 3
+【Villagerexperience】: 1
+【描述/備註】: 0.05
+----------------------------------------
+### Apprentice
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 4 × Iron Ingot
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 10
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 36 × Emerald
+【Player receives】: Bell
+【Trades instock】: 12
+【Villagerexperience】: 5
+【描述/備註】: 0.2
+----------------------------------------
+### Journeyman
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 24 × Flint
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 20
+【描述/備註】: 0.05
+----------------------------------------
+### Expert
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: Diamond
+【Trades instock】: Emerald
+【Villagerexperience】: 12
+【Pricemultiplier】: 30
+【描述/備註】: 0.05
+----------------------------------------
+### 100%
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 17–31 × Emerald
+【Player receives】: Enchanted Diamond Axe
+【Trades instock】: 3
+【Villagerexperience】: 15
+【描述/備註】: 0.2
+----------------------------------------
+### Master
+【類別】: 村民交易
+【Probability】: 100%
+【Villager wants】: 100%
+【Player receives】: 13–27 × Emerald
+【Trades instock】: Enchanted Diamond Sword
+【Villagerexperience】: 3
+【Pricemultiplier】: 30
+【描述/備註】: 0.2
+----------------------------------------
+### JE
+【類別】: 村民交易
+【描述/備註】: BE
+----------------------------------------
+### Purchase
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 33%
+【Player receives】: Hay Bale
+【Trades instock】: Emerald
+【描述/備註】: 2
+----------------------------------------
+### 33%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Water Bottle
+【Player receives】: Emerald
+【描述/備註】: 2
+----------------------------------------
+### 33%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: 4 × Baked Potato
+【Player receives】: Emerald
+【描述/備註】: 2
+----------------------------------------
+### 33%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Milk Bucket
+【Player receives】: 2 × Emerald
+【描述/備註】: 2
+----------------------------------------
+### 33%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Water Bucket
+【Player receives】: 2 × Emerald
+【描述/備註】: 2
+----------------------------------------
+### 33%
+【類別】: 村民交易
+【Probability】: 33%
+【Villager wants】: Fermented Spider Eye
+【Player receives】: 3 × Emerald
+【描述/備註】: 2
+----------------------------------------
+### Special
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: 13%
+【Player receives】: Emerald
+【Trades instock】: Packed Ice
+【描述/備註】: 6
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 4 × Gunpowder
+【描述/備註】: 2
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Acacia Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Birch Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Cherry Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Dark Oak Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Jungle Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Mangrove Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Oak Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Pale Oak Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: Emerald
+【Player receives】: 8 × Spruce Log
+【描述/備註】: 4
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: 3 × Emerald
+【Player receives】: 3 × Podzol
+【描述/備註】: 6
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: 5 × Emerald
+【Player receives】: Potion of Invisibility
+【描述/備註】: 1
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: 6 × Emerald
+【Player receives】: Blue Ice
+【描述/備註】: 6
+----------------------------------------
+### 13%
+【類別】: 村民交易
+【Probability】: 13%
+【Villager wants】: 6–20 × Emerald
+【Player receives】: Enchanted Iron Pickaxe
+【描述/備註】: 1
+----------------------------------------
+### Ordinary
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 7%
+【Player receives】: Emerald
+【Trades instock】: Fern
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Sugar Cane
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Pumpkin
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Dandelion
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Poppy
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Allium
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Azure Bluet
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Red Tulip
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Orange Tulip
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: White Tulip
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Pink Tulip
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Oxeye Daisy
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Cornflower
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Blue Orchid
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Lily of the Valley
+【描述/備註】: 7
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Open Eyeblossom
+【描述/備註】: 7
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Wheat Seeds
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Beetroot Seeds
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Pumpkin Seeds
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Melon Seeds
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × White Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Light Gray Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Gray Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Black Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Brown Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Red Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Orange Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Yellow Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Lime Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Green Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Cyan Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Light Blue Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Blue Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Purple Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Magenta Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Pink Dye
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Vines
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Pale Hanging Moss
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Brown Mushroom
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 3 × Red Mushroom
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 5 × Lily Pad
+【描述/備註】: 2
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 2 × Small Dripleaf
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 8 × Sand
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 4 × Red Sand
+【描述/備註】: 6
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 2 × Pointed Dripstone
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 2 × Rooted Dirt
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 2 × Moss Block
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: 2 × Pale Moss Block
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Wildflowers
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: Emerald
+【Player receives】: Tall Dry Grass
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 2 × Emerald
+【Player receives】: Sea Pickle
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 2 × Emerald
+【Player receives】: Glowstone
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Bucket of Tropical Fish
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Bucket of Pufferfish
+【描述/備註】: 4
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Kelp
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Cactus
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Brain Coral Block
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Bubble Coral Block
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Fire Coral Block
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Horn Coral Block
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Tube Coral Block
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 3 × Emerald
+【Player receives】: Firefly Bush
+【描述/備註】: 12
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 4 × Emerald
+【Player receives】: Slimeball
+【描述/備註】: 5
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Acacia Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Birch Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Cherry Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Dark Oak Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Jungle Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Mangrove Propagule
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Oak Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Pale Oak Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Spruce Sapling
+【描述/備註】: 8
+----------------------------------------
+### 7%
+【類別】: 村民交易
+【Probability】: 7%
+【Villager wants】: 5 × Emerald
+【Player receives】: Nautilus Shell
+【描述/備註】: 5
+----------------------------------------
+### Icon
+【類別】: 村民交易
+【描述/備註】: Trophy type (PS)
+----------------------------------------
+### PS4
+【類別】: 村民交易
+【描述/備註】: Other
+----------------------------------------
+### 無
+【類別】: 村民交易
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 村民交易
+【描述/備註】: Gold
+----------------------------------------
+### 無
+【類別】: 村民交易
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 村民交易
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 村民交易
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: Getting an Upgrade
+【In-game description】: Construct a better Pickaxe
+【描述/備註】: Have a stone pickaxe in the inventory.
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: Suit Up
+【In-game description】: Protect yourself with a piece of iron armor
+【描述/備註】: Have any type of iron armor in the inventory.
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: Isn't It Iron Pick
+【In-game description】: Upgrade your Pickaxe
+【描述/備註】: Have an iron pickaxe in the inventory.
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: Cover Me with Diamonds
+【In-game description】: Diamond armor saves lives
+【描述/備註】: Have any type of diamond armor in the inventory.
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: What a Deal!
+【In-game description】: Successfully trade with a Villager
+【描述/備註】: Take an item from a villager or wandering trader's trading output slot.
+----------------------------------------
+### 無
+【類別】: 村民交易
+【Advancement】: Star Trader
+【In-game description】: Trade with a Villager at the build height limit
+【描述/備註】: Stand on any block that is higher than 318 and trade with a villager or wandering trader.
+----------------------------------------
+### May 21, 2012
+【類別】: 村民交易
+【描述/備註】: Jeb released a screenshot of himself testing the trading system. The image showed buying and selling areas.
+----------------------------------------
+### 1.3.1
+【類別】: 村民交易
+【描述/備註】: Added villager trading.
+----------------------------------------
+### 12w22a
+【類別】: 村民交易
+【描述/備註】: Eyes of ender are now sold by priests instead of bought, and rotten flesh is no longer bought.
+----------------------------------------
+### 12w23a
+【類別】: 村民交易
+【描述/備註】: Before this snapshot, the librarian defaulted to written books instead of gold ingots, since the written books had a potential offer of 1.3.
+----------------------------------------
+### 1.4.2
+【類別】: 村民交易
+【描述/備註】: The librarian's paper offer was adjusted to 24–35 paper per emerald from 19-29 paper.
+----------------------------------------
+### 1.4.6
+【類別】: 村民交易
+【描述/備註】: Librarians now can sell enchanted books.
+----------------------------------------
+### 1.5
+【類別】: 村民交易
+【描述/備註】: A villager spawned from a renamed spawn egg shows its name in the trading interface in place of "Villager".
+----------------------------------------
+### 1.8
+【類別】: 村民交易
+【描述/備註】: Villager trading has been revamped. See here for offers before 1.8.
+----------------------------------------
+### 14w03a
+【類別】: 村民交易
+【描述/備註】: Clerics no longer buy ender pearls, as they did in 14w02a.
+----------------------------------------
+### 14w31a
+【類別】: 村民交易
+【描述/備註】: Clerics now can sell bottles o' enchanting, prices range from 3 to 11 emeralds each.
+----------------------------------------
+### 1.9
+【類別】: 村民交易
+【描述/備註】: Clerics no longer sell eyes of ender.
+----------------------------------------
+### 15w43a
+【類別】: 村民交易
+【描述/備註】: Librarians charge double for books with treasure enchantments.
+----------------------------------------
+### 1.11
+【類別】: 村民交易
+【描述/備註】: Farmers now sell 5 to 7 apples and 6 to 10 cookies for an emerald instead of just 5 and 6 respectively.
+----------------------------------------
+### 16w39a
+【類別】: 村民交易
+【描述/備註】: Added new trades through the cartographer career.
+----------------------------------------
+### 1.14
+【類別】: 村民交易
+【描述/備註】: Added wandering traders, which can trade with the player.
+----------------------------------------
+### 19w11a
+【類別】: 村民交易
+【描述/備註】: Revamped the trading system, adding many new trades for each villager profession.
+----------------------------------------
+### 19w13b
+【類別】: 村民交易
+【描述/備註】: All available trades are now listed in a sidebar on the left of the trading interface.
+----------------------------------------
+### 1.15
+【類別】: 村民交易
+【描述/備註】: Librarians now sell one bookshelf for nine emeralds, instead of three bookshelves for six emeralds.
+----------------------------------------
+### 1.17
+【類別】: 村民交易
+【描述/備註】: Wandering traders now can sell small dripleaf.
+----------------------------------------
+### 21w13a
+【類別】: 村民交易
+【描述/備註】: Wandering traders now can sell pointed dripstone, rooted dirt and moss block.
+----------------------------------------
+### 1.19
+【類別】: 村民交易
+【描述/備註】: Wandering traders now can sell mangrove propagules.
+----------------------------------------
+### 1.19.4ExperimentUpdate 1.20
+【類別】: 村民交易
+【描述/備註】: Wandering traders now can sell cherry saplings.
+----------------------------------------
+### 1.20.2
+【類別】: 村民交易
+【描述/備註】: A villager now only gives a big discount the first time it is cured from a zombie villager. There are no longer multiple stacked discounts if a villager is zombified and cured multiple times.
+----------------------------------------
+### pre1
+【類別】: 村民交易
+【描述/備註】: When villagers unlock new trades, the order of those trades in the UI is now always random instead of sometimes being deterministic.
+----------------------------------------
+### 1.20.2ExperimentVillager Trade Rebalance
+【類別】: 村民交易
+【描述/備註】: Librarians from different biomes now sell different enchanted books.
+----------------------------------------
+### pre1
+【類別】: 村民交易
+【描述/備註】: Added seven new maps which cartographers can sell.
+----------------------------------------
+### 1.20.5ExperimentVillager Trade Rebalance
+【類別】: 村民交易
+【描述/備註】: Villagers who buy armor now ignore durability and can buy damaged armor.
+----------------------------------------
+### 1.20.5ExperimentUpdate 1.21
+【類別】: 村民交易
+【描述/備註】: Added the trial chambers maps, sold by journeyman-level cartographers.
+----------------------------------------
+### 1.21.5
+【類別】: 村民交易
+【描述/備註】: Updated trades for cartographers and wandering traders are no longer behind the "Villager Trade Rebalance" experimental toggle.
+----------------------------------------
+### 26.1
+【類別】: 村民交易
+【描述/備註】: Trades are now data-driven.
+----------------------------------------
+### 1.0.4
+【類別】: 村民交易
+【描述/備註】: Added villager trading.
+----------------------------------------
+### 1.1.0
+【類別】: 村民交易
+【描述/備註】: Added new trades through the cartographer career.
+----------------------------------------
+### 1.2.13
+【類別】: 村民交易
+【描述/備註】: Added Curse of Binding and Curse of Vanishing enchantments, which at this time can be obtained only via trading with librarians.
+----------------------------------------
+### 1.4.0
+【類別】: 村民交易
+【描述/備註】: Removed the curse enchantments in enchanted books from librarian trading.
+----------------------------------------
+### 1.10.0
+【類別】: 村民交易
+【描述/備註】: Added new trades through the stone mason villager profession and wandering trader.
+----------------------------------------
+### 1.11.0
+【類別】: 村民交易
+【描述/備註】: Added economic trades, where players can unlock multiple tiers at once by leveling up villagers.
+----------------------------------------
+### beta 1.11.0.4
+【類別】: 村民交易
+【描述/備註】: Changed trading for villagers.
+----------------------------------------
+### beta 1.11.0.7
+【類別】: 村民交易
+【描述/備註】: Pressing use on a trade now auto-trades items.
+----------------------------------------
+### 1.12.0
+【類別】: 村民交易
+【描述/備註】: Changed some trades for both villager and wandering trader.
+----------------------------------------
+### beta 1.12.0.4
+【類別】: 村民交易
+【描述/備註】: Removed regular sand from the wandering trader trades and adjusted the cost of a diamond hoe on the toolsmith.
+----------------------------------------
+### 1.13.0
+【類別】: 村民交易
+【描述/備註】: Cartographer villager now buy 11 glass panes, rather than 10.
+----------------------------------------
+### beta 1.13.0.15
+【類別】: 村民交易
+【描述/備註】: Farmer villagers now sell suspicious stew.
+----------------------------------------
+### 1.16.0
+【類別】: 村民交易
+【描述/備註】: Villager trade values have been changed to closely match Java Edition.
+----------------------------------------
+### ?
+【類別】: 村民交易
+【描述/備註】: Enchanted items now cost in a range.
+----------------------------------------
+### 1.17.0
+【類別】: 村民交易
+【描述/備註】: Wandering traders can sell small dripleaf, pointed dripstone, rooted dirt, and moss blocks.
+----------------------------------------
+### 1.18.10
+【類別】: 村民交易
+【描述/備註】: Butcher, cartographer, librarian, and wandering trader trades have been changed to match Java Edition.
+----------------------------------------
+### 1.18.30
+【類別】: 村民交易
+【描述/備註】: Armorer, cleric, fisherman, shepherd, toolsmith, and weaponsmith villager trades have been changed to match Java Edition.
+----------------------------------------
+### 1.20.30ExperimentVillager Trade Rebalancing
+【類別】: 村民交易
+【描述/備註】: Librarians from different biomes now sell different enchanted books.
+----------------------------------------
+### 1.20.30
+【類別】: 村民交易
+【描述/備註】: A villager now only gives a big discount the first time it is cured from a zombie villager. There are no longer multiple stacked discounts if a villager is zombified and cured multiple times.
+----------------------------------------
+### 1.20.80ExperimentUpdate 1.21
+【類別】: 村民交易
+【描述/備註】: Added the trial chambers maps, sold by journeyman-level cartographers.
+----------------------------------------
+### 1.21.70
+【類別】: 村民交易
+【描述/備註】: Updated trades for cartographers and wandering traders are no longer behind the "Villager Trade Rebalancing" experimental toggle.
+----------------------------------------
+### Xbox 360
+【類別】: 村民交易
+【描述/備註】: 無
+----------------------------------------
+### TU14
+【類別】: 村民交易
+【描述/備註】: Added villager trading.
+----------------------------------------
+### TU20
+【類別】: 村民交易
+【描述/備註】: Librarian villagers now may offer name tags for sale.
+----------------------------------------
+### TU31
+【類別】: 村民交易
+【描述/備註】: Changed villager trades to offers as of Java Edition 1.8.
+----------------------------------------
+### TU46
+【類別】: 村民交易
+【描述/備註】: Clerics no longer sell eyes of ender.
+----------------------------------------
+### TU54
+【類別】: 村民交易
+【描述/備註】: Farmers now sell 5 to 7 apples and 6 to 10 cookies for an emerald instead of just 5 and 6 respectively.
+----------------------------------------
+### TU69
+【類別】: 村民交易
+【描述/備註】: When trading with a villager, an emerald icon is now shown above it as long as the UI is open.
+----------------------------------------
+### 1.95
+【類別】: 村民交易
+【描述/備註】: Stone mason villagers now sell 4 chiseled stone bricks for 1 emerald instead of 1 for 20 emeralds.
+----------------------------------------

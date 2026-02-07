@@ -1,0 +1,241 @@
+【Minecraft 資料庫 - 紅石元件】
+來源: https://minecraft.wiki/w/Redstone_component
+==================================================
+
+### Total slots
+【類別】: 紅石元件
+【】: 1
+【】: 3
+【】: 5
+【】: 9
+【】: 27
+【】: 54
+【】: 1
+【描述/備註】: 9
+----------------------------------------
+### Power level
+【類別】: 紅石元件
+【】: Number of items
+【】: Music disc
+【描述/備註】: No. of slots
+----------------------------------------
+### 0
+【類別】: 紅石元件
+【】: 0
+【】: 0
+【】: 0
+【】: 0
+【】: 0
+【】: 0
+【】: No disc
+【描述/備註】: 0
+----------------------------------------
+### 1
+【類別】: 紅石元件
+【】: 1
+【】: 1
+【】: 1
+【】: 1
+【】: 1
+【】: 1
+【】: 13
+【描述/備註】: 1
+----------------------------------------
+### 2
+【類別】: 紅石元件
+【】: 5
+【】: 14
+【】: 23
+【】: 42
+【】: 1s 60
+【】: 3s 55
+【】: cat
+【描述/備註】: 2
+----------------------------------------
+### 3
+【類別】: 紅石元件
+【】: 10
+【】: 28
+【】: 46
+【】: 1s 19
+【】: 3s 55
+【】: 7s 46
+【】: blocks
+【描述/備註】: 3
+----------------------------------------
+### 4
+【類別】: 紅石元件
+【】: 14
+【】: 42
+【】: 1s 5
+【】: 1s 60
+【】: 5s 51
+【】: 11s 37
+【】: chirp
+【描述/備註】: 4
+----------------------------------------
+### 5
+【類別】: 紅石元件
+【】: 19
+【】: 55
+【】: 1s 28
+【】: 2s 37
+【】: 7s 46
+【】: 15s 28
+【】: far
+【描述/備註】: 5
+----------------------------------------
+### 6
+【類別】: 紅石元件
+【】: 23
+【】: 1s 5
+【】: 1s 51
+【】: 3s 14
+【】: 9s 42
+【】: 19s 19
+【】: mall
+【描述/備註】: 6
+----------------------------------------
+### 7
+【類別】: 紅石元件
+【】: 28
+【】: 1s 19
+【】: 2s 10
+【】: 3s 55
+【】: 11s 37
+【】: 23s 10
+【】: mellohi
+【描述/備註】: 7
+----------------------------------------
+### 8
+【類別】: 紅石元件
+【】: 32
+【】: 1s 32
+【】: 2s 32
+【】: 4s 32
+【】: 13s 32
+【】: 27s
+【】: stal
+【描述/備註】: 8
+----------------------------------------
+### 9
+【類別】: 紅石元件
+【】: 37
+【】: 1s 46
+【】: 2s 55
+【】: 5s 10
+【】: 15s 28
+【】: 30s 55
+【】: strad
+【描述/備註】: 9
+----------------------------------------
+### 10
+【類別】: 紅石元件
+【】: 42
+【】: 1s 60
+【】: 3s 14
+【】: 5s 51
+【】: 17s 23
+【】: 34s 46
+【】: ward
+【描述/備註】: -
+----------------------------------------
+### 11
+【類別】: 紅石元件
+【】: 46
+【】: 2s 10
+【】: 3s 37
+【】: 6s 28
+【】: 19s 19
+【】: 38s 37
+【】: 11Creator (Music Box)
+【描述/備註】: -
+----------------------------------------
+### 12
+【類別】: 紅石元件
+【】: 51
+【】: 2s 23
+【】: 3s 60
+【】: 7s 5
+【】: 21s 14
+【】: 42s 28
+【】: waitCreator
+【描述/備註】: -
+----------------------------------------
+### 13
+【類別】: 紅石元件
+【】: 55
+【】: 2s 37
+【】: 4s 19
+【】: 7s 46
+【】: 23s 10
+【】: 46s 19
+【】: PigstepPrecipice
+【描述/備註】: -
+----------------------------------------
+### 14
+【類別】: 紅石元件
+【】: 60
+【】: 2s 51
+【】: 4s 42
+【】: 8s 23
+【】: 25s 5
+【】: 50s 10
+【】: OthersideRelic
+【描述/備註】: -
+----------------------------------------
+### 15
+【類別】: 紅石元件
+【】: 1s
+【】: 3s
+【】: 5s
+【】: 9s
+【】: 27s
+【】: 54s
+【】: 5
+【描述/備註】: -
+----------------------------------------
+### ArmorElytraHeadsShield
+【類別】: 紅石元件
+【描述/備註】: Equips on a player within a one-block distance (any armor, made from any material)
+----------------------------------------
+### Boat
+【類別】: 紅石元件
+【描述/備註】: Placed as entity (i.e., a right-clickable vehicle) onto the block in front of the dispenser, if it is water or air above water; otherwise dropped (see below)
+----------------------------------------
+### Firework Rocket
+【類別】: 紅石元件
+【描述/備註】: Placed as entity (i.e., a flying firework) onto the block in front of the dispenser
+----------------------------------------
+### Bone Meal
+【類別】: 紅石元件
+【描述/備註】: Increments the growth stage of beetroot crops, carrots, cocoa pods, crops, melon stems, potatoes, pumpkin stems, and saplings in front of the dispenser; grows grass, dandelions, and roses, if a grass block is in front of the dispenser; grows a huge mushroom if facing a mushroom; otherwise remains unused
+----------------------------------------
+### Bucket
+【類別】: 紅石元件
+【描述/備註】: Collects lava, water, or powder snow in front of the dispenser (replacing the empty bucket in the dispenser with a lava bucket, water bucket, or powder snow bucket); otherwise dropped (see below)
+----------------------------------------
+### Flint and Steel
+【類別】: 紅石元件
+【描述/備註】: Ignites the block the dispenser is facing; reduces the remaining durability of the used flint and steel
+----------------------------------------
+### Lava BucketWater BucketPowder Snow Bucket
+【類別】: 紅石元件
+【描述/備註】: Places lava, water or powder snow in the block in front of the dispenser (replacing the filled bucket in the dispenser with an empty bucket), if the block in front of the dispenser is one that the player could use a lava or water bucket on (e.g., air, flowers, grass, etc.); otherwise dropped (see below)
+----------------------------------------
+### TNT
+【類別】: 紅石元件
+【描述/備註】: Ignites TNT on the block in front of the dispenser
+----------------------------------------
+### Shears
+【類別】: 紅石元件
+【描述/備註】: Shears sheep within a one-block radius
+----------------------------------------
+### Glowstone
+【類別】: 紅石元件
+【描述/備註】: If a respawn anchor is one block away, it fills the respawn anchor by 1 as if a player had right clicked with glowstone. If the respawn anchor is full, the dispenser does nothing
+----------------------------------------
+### Others
+【類別】: 紅石元件
+【描述/備註】: Dropped—ejected toward the block in front of the dispenser, as if the player had used the Drop control (default Q)
+----------------------------------------

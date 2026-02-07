@@ -1,0 +1,2380 @@
+【Minecraft 資料庫 - 生物群系】
+來源: https://minecraft.wiki/w/Biome
+==================================================
+
+### Ocean
+【類別】: 生物群系
+【Description】: The basic ocean biome. Like its colder variants, its floor is largely made up of gravel, covered with kelp and seagrass. However, small patches of dirt, sand and clay can also appear. Cod and salmon‌ can spawn here alongside dolphins, squid and nautiluses. Drowned and rarely zombie nautiluses may also spawn here at night and during thunderstorms.
+【描述/備註】: 
+----------------------------------------
+### Deep ocean
+【類別】: 生物群系
+【Description】: A variant of the ocean biome. In deep ocean biomes, the ocean can exceed 30 blocks in depth, making it twice as deep as the normal ocean. The ground is mainly covered with gravel. Ocean monuments generate in deep oceans, meaning guardians, elder guardians, prismarine and sponges can spawn here.
+【描述/備註】: 
+----------------------------------------
+### Warm ocean
+【類別】: 生物群系
+【Description】: A variant of the ocean biome, with light teal water at the surface. Like the lukewarm ocean, it has a floor made of sand and like all oceans, it is populated with seagrass, but without kelp. Pufferfish and tropical fish spawn here alongside dolphins, squid and nautiluses. Drowned and rarely zombie nautiluses may also spawn here at night and during thunderstorms. Unlike other ocean biomes, warm oceans allow for the generation of coral reefs and sea pickles. It is the only ocean biome that does not have a deep equivalent, but the terrain in this biome can reach the same depth as deep oceans.
+【描述/備註】: 
+----------------------------------------
+### Lukewarm ocean
+【類別】: 生物群系
+【Description】: A variant of the ocean biome, with light blue water at the surface. Its floor is made of sand with an occasional patch of dirt or clay. Kelp and seagrass generates here. Unlike the warm ocean biome, cod and salmon‌ can spawn here, together with pufferfish‌ and tropical fish. Dolphins, squid, and nautiluses may also spawn here and drowned and rarely zombie nautiluses can spawn at night or during thunderstorms. Coral reefs cannot generate here.
+【描述/備註】: 
+----------------------------------------
+### Deep lukewarm ocean
+【類別】: 生物群系
+【Description】: Similar to the lukewarm ocean biome, but twice as deep. Because they are a deep ocean variant, they can generate ocean monuments, resulting in the spawning of guardians, elder guardians, prismarine and sponges.
+【描述/備註】: 
+----------------------------------------
+### Cold ocean
+【類別】: 生物群系
+【Description】: A variant of the ocean biome, with dark blue water at the surface. Like regular oceans and frozen oceans, its floor is made up of gravel, though occasional patches of dirt can be found. Kelp and seagrass generates here. Salmon, cod and nautiluses can spawn in cold ocean biomes alongside squid and dolphins‌. Drowned and rarely zombie nautiluses may also spawn here at night and during thunderstorms.
+【描述/備註】: 
+----------------------------------------
+### Deep cold ocean
+【類別】: 生物群系
+【Description】: Similar to the cold ocean biome, but twice as deep. Like other deep oceans, ocean monuments can generate here, which contain guardians, elder guardians, prismarine and sponges.
+【描述/備註】: 
+----------------------------------------
+### Frozen ocean
+【類別】: 生物群系
+【Description】: A variant of the ocean biome with dark indigo water at the surface. Like the cold ocean, it has a gravel seabed and squid swimming about. However, the water's surface is frequently broken up by patches of ice and large icebergs, consisting of packed ice and blue ice, and occasionally topped with snow blocks and snow‌. Strays, drowned, rarely zombie nautiluses, living nautiluses, polar bears, and rabbits‌ can spawn here, but dolphins can't. Salmon and cod‌ may also spawn here.
+【描述/備註】: 
+----------------------------------------
+### Deep frozen ocean
+【類別】: 生物群系
+【Description】: Like the frozen ocean biome, the only fish that spawn here are salmon and cod‌, squid and nautiluses may also spawn here, and the floor consists of gravel. The frozen deep ocean biome also contains ocean monuments and a deeper floor than normal oceans, like other deep oceans. Frequent floating icebergs with blue ice generate here. Polar bears, strays, drowned, rarely zombie nautiluses and rabbits‌ can also spawn here, but dolphins can't.
+【描述/備註】: 
+----------------------------------------
+### Mushroom fields
+【類別】: 生物群系
+【Description】: This rare biome consists of a mostly flat island and has mycelium instead of grass as its surface. Mushroom fields are always adjacent to a deep ocean and are always isolated from other biomes, and they are typically a few hundred blocks wide. It is one of the few biomes where huge mushrooms can generate naturally, and where mushrooms can grow in full sunlight. No mobs other than mooshrooms, bats‌, and glow squid spawn naturally in this biome, including the usual night-time hostile mobs. This also applies to caves, mineshafts and other dark structures, meaning exploring underground is safe. However, monster spawners still spawn mobs, wandering traders along with their llamas can spawn, raids can still spawn illagers, but villages don't spawn here. the player can still breed animals and spawn mobs using spawn eggs and insomnia still attracts phantoms‌.
+【描述/備註】: 
+----------------------------------------
+### Jagged peaks
+【類別】: 生物群系
+【Description】: One of the three biomes that generate in the peaks of a mountain. This biome is found in taller and more jagged and pointy peaks that often pass the clouds and can peak at Y=256. It is covered by a single layer of snow blocks with stone underneath often exposing ores such as coal, iron and emerald. Just like the snowy slopes, stone cliffs can generate in some sides of the mountain. Goats spawn in this biome. Polar bears and rabbits may also spawn here and strays appear at night or during thunderstorms‌.
+【描述/備註】: 
+----------------------------------------
+### Frozen peaks
+【類別】: 生物群系
+【Description】: The frozen peaks are covered by snow blocks and packed ice with occasional small blobs of ice. Goats can spawn in this biome. Polar bears and rabbits may also spawn here and strays appear at night or during thunderstorms‌. This biome usually generates in smoother and less jagged mountains compared to the jagged peaks biome.
+【描述/備註】: 
+----------------------------------------
+### Stony peaks
+【類別】: 生物群系
+【Description】: The stony peaks are a warmer variation of peak biomes that generates in warmer regions to avoid temperature clashes. It is mainly covered by stone with large strips of calcite and exposed ores. No passive mobs spawn here and there's no snow in this biome.
+【描述/備註】: 
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【Description】: The meadow is an elevated grassy biome found in plateaus near mountain ranges. It is filled with patches of flowers and turquoise-green short grass and tall grass. All small flowers generate except blue orchids, tulips, lilies of the valley or wither roses. Rarely, a lone oak or birch tree can generate and always has a bee nest. Both pillager outposts and plains villages can generate in this biome. Sheep, donkeys and rabbits are the only passive mobs that spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Cherry grove
+【類別】: 生物群系
+【Description】: Cherry groves are grasslands with a lot of short grass, tall grass and, instead of the traditional dandelion and poppy flowers, the ground is covered with pink petals. The main environmental feature of the cherry grove are cherry trees identified by their striking pink color. The cherry trees may generate densely enough to create a cover of leaves. Sheep, pigs and rabbits are the only passive mobs that spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Grove
+【類別】: 生物群系
+【Description】: The grove creates a forest of spruce trees beneath the mountain peaks when near a forested biome. It is quite reminiscent of the snowy taiga, but the surface is covered with snow blocks and powder snow instead of grass blocks. Rabbits, wolves and foxes can spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Snowy slopes
+【類別】: 生物群系
+【Description】: The snowy slopes generate beneath the mountain peaks and are covered with multiple layers of snow blocks and powder snow, with some sides also having stone cliffs. Goats spawn in this biome alongside rabbits and polar bears‌. Strays may also spawn here at night and during thunderstorms‌. This is the only mountain biome where igloos can generate, making it one of the three biomes where igloos naturally generate.
+【描述/備註】: 
+----------------------------------------
+### Windswept hills
+【類別】: 生物群系
+【Description】: A highland biome with some steep hilltops and an occasional oak or spruce tree‌. The terrain is usually flat, but sometimes hilly and shattered. This is one of the few biomes where llamas can spawn naturally. Snowfall also occurs above certain heights, rarely creating snow layers on the top of the hills. Windswept hills are one of six biomes where emerald ore and infested stone can be found naturally. Cold animal variants may also spawn here.
+【描述/備註】: 
+----------------------------------------
+### Windswept gravelly hills
+【類別】: 生物群系
+【Description】: The windswept gravelly hills are mostly covered in gravel with occasional patches of grass and stone blocks. This is one of the few biomes where llamas can spawn naturally. Due to the low amount of grass, the population of spruce and oak trees in this biome is sparse. Cold animal variants may also spawn here.
+【描述/備註】: 
+----------------------------------------
+### Windswept forest
+【類別】: 生物群系
+【Description】: This biome is found when windswept hills are located next to forested biomes. This is one of the few biomes where llamas can spawn naturally. It does not generate stone patches, so the floor is entirely covered by grass. There are more spruce and oak trees in this biome, forming small forests with a lower tree density than other forest biomes. Cold animal variants may also spawn here.
+【描述/備註】: 
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【Description】: A common biome with many oak and birch trees and a fair amount of short grass, mushrooms and flowers. The ground beneath the trees is covered with leaf litter. Wolves can spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Flower forest
+【類別】: 生物群系
+【Description】: This forest variant has fewer trees but contains nearly every type of flower and tall plant in the game. Wolves do not spawn in the flower forest, although rabbits spawn occasionally. Bee nests have a higher chance to generate in this biome.
+【描述/備註】: 
+----------------------------------------
+### Taiga
+【類別】: 生物群系
+【Description】: A biome covered by a forest of spruce trees. Ferns, large ferns and sweet berry bushes grow commonly on the forest floor. One can find packs of wolves here, along with small groups of foxes, rabbits or cold animal variants. Villages may generate in this biome; the houses in these villages are built with spruce wood. Pillager outposts may also generate in this biome. This is one of the few biomes where trail ruins can generate.
+【描述/備註】: 
+----------------------------------------
+### Old growth pine taiga
+【類別】: 生物群系
+【Description】: A biome composed of spruce trees (despite it being called a pine taiga, since there is no pine in the game), much like the standard taiga biome. However, some trees are 2×2 thick and taller than normal, akin to large jungle trees. Mossy cobblestone boulders appear frequently, mushrooms are common, and podzol can be found on the forest floor. There are also patches of coarse dirt that do not grow grass, with some dead bushes. Wolves, foxes and cold animal variants can spawn here, as they do in normal taiga biomes. Rabbits may also spawn here‌.
+【描述/備註】: 
+----------------------------------------
+### Old growth spruce taiga
+【類別】: 生物群系
+【Description】: At first glance, this biome may look almost exactly the same as its pine tree counterpart. However, the most striking feature of this biome is its giant spruce trees, which are essentially a scaled-up version of regular spruce trees. One can easily differentiate this from an old growth pine taiga by observing how the leaves almost completely cover the tree trunks, whereas in pine ones, leaves tend to cover only the top. Like the old growth pine taiga, wolves, foxes and cold animal variants spawn here, and trail ruins can also generate. Rabbits may also spawn here‌.
+【描述/備註】: 
+----------------------------------------
+### Snowy taiga
+【類別】: 生物群系
+【Description】: Similar to the standard taiga, except much of the biome is covered in snow. Ferns and large ferns generate here commonly, however sweet berry bushes generate more rarely than in the regular taiga. Wolves, foxes, rabbits and cold animal variants can spawn here. One may also find an igloo nestled between the trees, making it one of the three biomes where igloos naturally generate. Villages and pillager outposts may also generate here‌. Villages use the same architecture as taiga villages, but the villagers wear snowy biome outfits.
+【描述/備註】: 
+----------------------------------------
+### Birch forest
+【類別】: 生物群系
+【Description】: A forest that is solely made of birch trees. The grass is aqua in color, and unlike the regular forest, no wolves spawn in this biome. Wildflowers are very common in birch forests.
+【描述/備註】: 
+----------------------------------------
+### Old growth birch forest
+【類別】: 生物群系
+【Description】: Birch trees grow much taller than usual in this uncommon variant of the birch forest biome. Whereas normal birch trees grow up to 7 blocks tall, these trees can grow up to 13 blocks in height. This makes deforestation a much more difficult task, although it provides the player with far more resources. This is one of the few biomes where trail ruins can generate.
+【描述/備註】: 
+----------------------------------------
+### Dark forest
+【類別】: 生物群系
+【Description】: This biome is mainly composed of dark oak trees, which create a mostly closed roof of leaves. Oak trees, birch trees, and huge mushrooms can also be found occasionally, and the ground is covered with leaf litter. Trees in this forest are so densely packed that some areas are dark enough for hostile mobs to spawn, even during the day. On rare occasions, a woodland mansion may generate.
+【描述/備註】: 
+----------------------------------------
+### Pale garden
+【類別】: 生物群系
+【Description】: The pale garden is a rarer variation of the dark forest biome. It is, in fact, the rarest biome. The dark oak trees are replaced with pale oak trees, with lots of pale hanging moss hanging from the trees. Patches of pale moss blocks and pale moss carpets cover much of the ground, and patches of eyeblossoms dot the landscape. The sky, foliage, and water in this biome are gray and desaturated, and no music plays inside the biome. Some of the pale oak trees may have a creaking heart hidden within them, which spawns a creaking at night. No passive mobs spawn in this biome. Trees in this forest are so densely packed that some areas are dark enough for hostile mobs to spawn, even during the day. On rare occasions, a woodland mansion may generate, making the pale garden one of only two biomes where it can be found.
+【描述/備註】: 
+----------------------------------------
+### Jungle
+【類別】: 生物群系
+【Description】: A dense forested biome that includes many different plants and features. Jungle trees and mega jungle trees are common, with the mega trees having 2x2 thick trunks and possibly growing up to 31 blocks in height. Fancy oak trees are also common, and jungle bushes often cover much of the forest floor. Ferns and large ferns are found commonly, and vines are found growing on most types of blocks, especially on jungle trees. Additionally, cocoa can also grow on the sides of jungle trees. Melons can generate here in patches, similar to pumpkins, although they are much more common. Single shoots of bamboo can be found scattered throughout the biome. The foliage in the jungle is a bright, lush green color. Jungle pyramids and trail ruins can generate, and ocelots, parrots, pandas and warm animal variants can spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Sparse jungle
+【類別】: 生物群系
+【Description】: In contrast to the wild and overgrown vegetation of the jungle biome, the sparse jungle consists of jungle trees, fancy oak trees, and jungle bushes that are spaced out and isolated, creating a much more open environment. The terrain of this biome is often flat, but there may be some small rises in elevation. Parrots, ocelots, and pandas can still spawn in the sparse jungle‌. Wolves can also spawn in this biome along with warm animal variants.
+【描述/備註】: 
+----------------------------------------
+### Bamboo jungle
+【類別】: 生物群系
+【Description】: In this biome, large areas of the landscape are covered with massive amounts of bamboo. Patches of podzol can be found underneath the densely packed bamboo. Additionally, mega jungle trees, fancy oak trees, and jungle bushes can also generate here. Pandas have a much higher chance to spawn here than the other jungle biomes, making this the best place to find them. Ocelots‌, parrots and warm animal variants are also able to spawn, and jungle pyramids can generate here‌.
+【描述/備註】: 
+----------------------------------------
+### River
+【類別】: 生物群系
+【Description】: A biome that consists of water blocks that form an elongated, curving shape similar to a real river. Rivers cut through terrain or separate the main biomes. They attempt to join up with ocean biomes, but sometimes loop around to the same area of ocean. Rarely, they can have no connection to an ocean, instead forming a loop, or ending in a swamp or far inland. The grass has a dull aqua tone, much like the ocean, and trace amounts of oak trees, bushes, and firefly bushes tend to generate there as well. Rivers are also a reliable source of clay. These biomes are good for fishing, but drowned can spawn at night and during thunderstorms. In Bedrock Edition, mobs other than salmon, squid and drowned cannot spawn in this biome, even underground, except from a monster spawner.
+【描述/備註】: 
+----------------------------------------
+### Frozen river
+【類別】: 生物群系
+【Description】: A river with a layer of ice covering its surface. It generates when a river goes through snowy biomes. Salmon spawn underwater while rabbits‌ and polar bears‌ spawn on the surface. At night and during thunderstorms, drowned can spawn below the ice with strays‌ on the surface. In Bedrock Edition, no hostile mobs other then strays and skeletons can spawn here, even underground, except from a monster spawner.
+【描述/備註】: 
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【Description】: A biome characterized by a mix of flat areas around sea level, and shallow pools of green water with floating lily pads. Clay, sand and dirt are commonly found at the bottom of these pools. Trees are covered with vines and can be found growing out from the water. Mushrooms, firefly bushes, dead bushes, and sugar canes are abundant, and blue orchids grow exclusively here. Frogs of the temperate variant can spawn here as well. Swamp huts with a black cat and a witch generate exclusively in swamps. Slimes also spawn naturally at night and during thunderstorms, most commonly on full moons. Some zombies may end up underwater, which can transform them into drowned, and some skeletons are replaced by bogged, making this an especially dangerous biome at night or during thunderstorms. Temperature varies within the biome, causing foliage and grass colors to vary. In Bedrock Edition, huge mushrooms also spawn in this biome. Visibility is also lower than other biomes when the player is underwater.
+【描述/備註】: 
+----------------------------------------
+### Mangrove swamp
+【類別】: 生物群系
+【Description】: A biome characterized by a dense foliage, featuring plenty of mangrove trees of varying heights. The floor is mainly composed of mud blocks with occasional grass patches. The grass has the same color as in the normal swamp but leaves and vines have a unique light green tint and the water is teal rather than gray. Warm frogs often spawn in this biome. Slimes also spawn naturally at night and during thunderstorms, most commonly on full moons. Some zombies may end up underwater, which can transform them into drowned, and some skeletons are replaced by bogged, making this an especially dangerous biome at night or thunderstorms. Visibility is also lower than other biomes when the player is underwater.
+【描述/備註】: 
+----------------------------------------
+### Beach
+【類別】: 生物群系
+【Description】: Generated where oceans meet other biomes, beaches are primarily composed of sand. Beaches penetrate the landscape, removing the original blocks and placing in sand blocks. These are also useful for fishing. Buried treasure can be found under few blocks of sand, and an occasional shipwreck can also generate here. Passive mobs other than turtles do not spawn on beaches.
+【描述/備註】: 
+----------------------------------------
+### Snowy beach
+【類別】: 生物群系
+【Description】: Like a regular beach, one can find plenty of sand in this biome and buried treasure can be found underground in this snowy beach. However, sand is covered in a layer of snow. Snowy beaches are found when a snowy biome borders a frozen ocean biome. No passive mobs other than rabbits‌ spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Stony shore
+【類別】: 生物群系
+【Description】: This stone-covered biome generates at shores with low erosion values, usually close to mountains. Depending on the height of the nearby land, stony shores may generate as medium slopes or huge cliffs, its tops tall enough to be covered by snow even when near warmer biomes. No passive mobs spawn here. Buried treasure can generate here‌. Strips of gravel can sometimes be found here.
+【描述/備註】: 
+----------------------------------------
+### Plains
+【類別】: 生物群系
+【Description】: A flat and grassy biome with rolling hills and few oak trees. Villages are common. Cave openings, lava lakes and waterfalls are easily identifiable due to the flat unobstructed terrain. Passive mobs are easily found in plains biomes; this biome is also one of the few biomes where horses and donkeys spawn naturally, while hostile zombie horses will spawn during the nighttime. Pillager outposts may also be generated.
+【描述/備註】: 
+----------------------------------------
+### Sunflower plains
+【類別】: 生物群系
+【Description】: A fairly uncommon variation of the plains, this biome is the only place where sunflowers naturally generate. In Bedrock Edition, villages and pillager outposts may also generate here.
+【描述/備註】: 
+----------------------------------------
+### Snowy plains
+【類別】: 生物群系
+【Description】: An expansive biome with a huge amount of snow. Sugar cane can generate in this biome, but can become uprooted when chunks load as the water sources freeze to ice. There are few spruce trees in this biome. No animal mobs other than rabbits and polar bears can spawn; however, it is one of the few biomes where strays and zombie horses appear. In Bedrock Edition, this biome does not spawn monsters other than strays and skeletons, but monster spawners can still spawn monsters. This is one of the three biomes where igloos naturally generate. Villages and pillager outposts may also generate here.
+【描述/備註】: 
+----------------------------------------
+### Ice spikes
+【類別】: 生物群系
+【Description】: A rare variation of the snowy plains biome that features large spikes and glaciers of packed ice. Usually, the spikes are 10 to 20 blocks tall, but some long, thin spikes can reach over 50 blocks in height. The floor in this biome is entirely covered in snow blocks instead of grass, and ice patches made of packed ice can generate on it. Like the regular snowy plains, no animal mobs other than rabbits and polar bears can spawn and strays appear at night or during thunderstorms.
+【描述/備註】: 
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【Description】: A barren biome consisting mostly of sand dunes, dead bushes, dry grass, and cacti. Sandstone and sometimes fossils are found underneath the sand. The only passive mobs that spawn naturally in deserts are gold/creamy rabbits and camels. At night and during thunderstorms, husks, parched, and camel husks usually spawn in the place of normal zombies and skeletons. Sugar cane can be found if the desert is next to a river biome. Desert villages, desert wells and desert pyramids are found exclusively in this biome. Pillager outposts can also generate here.
+【描述/備註】: 
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【Description】: A relatively flat and dry biome with a dull-brown grass color and acacia trees scattered around the biome, though oak trees may generate occasionally. Tall grass covers the landscape. Villages can generate in this biome, constructed of acacia wood, with some stained terracotta. Pillager outposts can also generate here. Horses, armadillos and warm animal variants can naturally spawn here, while hostile zombie horses will spawn during the nighttime. Llamas may also spawn here‌.
+【描述/備註】: 
+----------------------------------------
+### Savanna plateau
+【類別】: 生物群系
+【Description】: This biome generates when a normal savanna biome spawns at high altitudes and near mountains. It is mostly indistinguishable from the standard savanna, with the main differences being the fact that llamas and wolves can spawn, and villages and pillager outposts cannot generate.
+【描述/備註】: 
+----------------------------------------
+### Windswept Savanna
+【類別】: 生物群系
+【Description】: In contrast to the mostly flat and calm terrain of the savanna biome, this uncommon variant generates chaotic terrain, with gigantic mountains covered in coarse dirt and some patches of stone. The mountains in the windswept savanna are extremely steep, sometimes jutting out at 90-degree angles, making it almost impossible to climb. On top of that, they can reach heights comparable to the mountain peak biomes, sometimes rising above the clouds. Massive waterfalls and lavafalls are quite common, and ocean-like lakes can also generate. Unlike the regular savanna, villages and pillager outposts do not generate in this biome. Horses, armadillos and warm animal variants can still spawn in the windswept savanna, as well as hostile zombie horses during the nighttime. Llamas may also spawn here‌.
+【描述/備註】: 
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【Description】: An uncommon biome where large mounds of terracotta and stained terracotta generate. Red sand also generates here instead of regular sand, with occasional cacti, dead bushes, and dry grass. This biome is usually found alongside desert biomes and it can generate in mountainous terrain. Armadillos are the only mobs that can be found here. Mineshafts generate at a higher altitude than normal - occasionally a player may come across a mineshaft jutting out of the badlands. Gold ore also occurs more frequently, because additional veins can generate within badlands up to Y=256. The composition of this biome is useful when other sources of terracotta and gold are scarce.
+【描述/備註】: 
+----------------------------------------
+### Wooded badlands
+【類別】: 生物群系
+【Description】: The wooded badlands has layers of coarse dirt and grass blocks, and forests of oak trees with leaf litter that generate at higher altitudes in humid areas. The lower parts don't generate the oak forests, exposing terracotta and red sand to the sky. The color of the grass and leaves is a dull green-brown hue, giving it a dried and dead appearance. These trees are a rare source of wood when living in the otherwise barren badlands. Armadillos can spawn here during the day, and wolves and warm animal variants can spawn on the wooded plateaus.
+【描述/備註】: 
+----------------------------------------
+### Eroded badlands
+【類別】: 生物群系
+【Description】: This rare variant generates unique terrain features that are similar to the structures in Utah's Bryce Canyon. Tall and narrow spires of colorful terracotta rise out of the floor of the canyon, which like all other badlands variants, is covered in red sand. Armadillos are the only passive mobs that can be found here.
+【描述/備註】: 
+----------------------------------------
+### Deep dark
+【類別】: 生物群系
+【Description】: A dimly lit cave biome that generates deep underground mostly within the deepslate layer. It is largely sculk blocks 1 block thick upon all surfaces, with frequent sculk sensors and occasional sculk shriekers, the latter of which can directly summon a warden. Large structures known as ancient cities can generate here, containing chests with unique loot. No mobs aside from wardens spawn here, except from a monster spawner.
+【描述/備註】: 
+----------------------------------------
+### Dripstone caves
+【類別】: 生物群系
+【Description】: These are caves filled with dripstone blocks and pointed dripstone both hanging as stalactites and growing from the ground as stalagmites and small water wells of 1×1 in the ground. Large dripstone clusters structures generate occasionally inside these caves. Copper ore blobs found in this biome are much bigger compared to other biomes. Drowned and rarely zombie nautiluses can spawn in aquifers.
+【描述/備註】: 
+----------------------------------------
+### Lush caves
+【類別】: 生物群系
+【Description】: Lush caves are often found underground below azalea trees. These caves are covered by moss blocks, moss carpets, short grass and azalea bushes on the floors. On the ceiling, vines and cave vines with glow berries grow down and light up the caves, and spore blossoms grow from the ceiling and spore particles. There are also shallow lakes with clay where dripleaf plants grow out of them and axolotls spawn, making this the only biome where they can spawn. Tropical fish can also spawn inside the aquifers in a lush cave.
+【描述/備註】: 
+----------------------------------------
+### The Void‌
+【類別】: 生物群系
+【Description】: Can be accessed only through Single Biome world selection or The Void superflat preset. In a single biome world, the landscape consists of stone, as well as water and bedrock depending on the generator type. In The Void superflat preset, the world is completely empty except for a single structure: a 33×33 stone platform with a single block of cobblestone in the center. No mobs (passive or hostile) aside from phantoms and pillager patrols can spawn without spawn eggs, monster spawners or commands. It does not rain in this biome.
+【描述/備註】: 
+----------------------------------------
+### Nether wastes
+【類別】: 生物群系
+【Description】: The Nether wastes is the most common biome in the Nether. The terrain mainly consists of netherrack, with glowstone clusters growing and lava leaking from the ceiling and gravel and soul sand lining its shores. Most of the Nether’s mobs can spawn here, including ghasts, zombified piglins, magma cubes, striders, piglins, and the occasional enderman.
+【描述/備註】: 
+----------------------------------------
+### Soul sand valley
+【類別】: 生物群系
+【Description】: The soul sand valley mainly consists of soul sand, basalt and soul soil. Notable features of the biome are exposed Nether fossils in various shapes and sizes, large amounts of lava, blue fog, large spires made of basalt, soul fire, and the occasional Nether fortress or bastion remnant. Ghasts and skeletons are common in this biome while endermen are rare. Striders can spawn here as well. This is the only place to find dried ghasts naturally.
+【描述/備註】: 
+----------------------------------------
+### Crimson forest
+【類別】: 生物群系
+【Description】: The crimson forest consists of many huge crimson fungi, which act as the "trees" of this biome. The huge fungi often generate with weeping vines hanging from them, and shroomlights which light up the landscape. The floor is mostly covered with crimson nylium, with occasional patches of bare netherrack or Nether wart blocks. Crimson roots, crimson fungus, and occasionally warped fungus grow on the ground. Small patches of Nether wart blocks and weeping vines can also be found growing on the ceiling. Hoglins, piglins, zombified piglins, and striders can spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Warped forest
+【類別】: 生物群系
+【Description】: The warped forest consists of many huge warped fungi, which act as the "trees" of this biome. The huge fungi often generate with shroomlights, which light up the landscape. Twisting vines grow throughout the biome in patches. The floor is mostly covered with warped nylium, with occasional patches of bare netherrack or warped wart blocks. Warped roots, warped fungus, Nether sprouts, and occasionally crimson fungus grow on the ground. Endermen and striders are the only mobs that spawn in this biome. The biome emits out a magenta-purple fog upon entry.
+【描述/備註】: 
+----------------------------------------
+### Basalt deltas
+【類別】: 生物群系
+【Description】: A gray biome, the basalt deltas are said to be the remnant of ancient volcanic eruptions. The ground consists of basalt and blackstone blocks, with small patches of netherrack and pools of lava. The shape of the terrain is chaotic and uneven, making it somewhat difficult to traverse and build on. Unlike the other biomes in the Nether, bastion remnants do not generate in basalt deltas. When this biome borders a lava ocean, clusters of basalt form near the coast. Fog is colored light-gray and particles of dust can be seen falling from the ceiling upon entry. Magma cubes have a high spawn rate in this biome, making the basalt deltas the best place to farm magma cream. This biome also contains a much higher abundance of blackstone compared to other Nether biomes. Ghasts and striders can spawn in this biome as well.
+【描述/備註】: 
+----------------------------------------
+### The End
+【類別】: 生物群系
+【Description】: This biome is used to generate the circle of radius 1000 centered at the 0,0 coordinates in the End. The End central island is generated at the center of this circle, and it's surrounded by a complete vacuum all the way to the edge of the biome. Most of the End features are exclusive to that island, including the ender dragon, the obsidian pillars, the End crystals, the 5×5 spawn platform, the exit portal and the 20 central End gateways. Large amounts of endermen spawn in this biome. It does not rain or snow in this biome unlike the other low-temperature biomes. The outer islands in the End can be accessed using End gateways after the ender dragon has been defeated. In Bedrock Edition, this biome is instead the biggest, as it is used to generate the whole dimension. If the biome is used for a superflat world, the sky appears nearly black and an ender dragon spawns at the 0,0 coordinates in the Overworld. Only endermen spawn at night.
+【描述/備註】: 
+----------------------------------------
+### Small End islands‌
+【類別】: 生物群系
+【Description】: Generates as part of the outer islands of the End. This biome represents the empty expanse between the larger islands, populated by the smaller, circular islands. Large amounts of endermen spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### End midlands‌
+【類別】: 生物群系
+【Description】: Generates as part of the outer islands of the End. This biome represents the gradual slope from the hilltops of each island down to the cliffs around the edge. End cities generate here, but chorus trees do not. Large amounts of endermen spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### End highlands‌
+【類別】: 生物群系
+【Description】: Generates as part of the outer islands of the End. This biome represents the hilltops of each island, and is the only biome in the End where both chorus trees and End cities generate. Large amounts of endermen spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### End barrens‌
+【類別】: 生物群系
+【Description】: Generates as part of the outer islands of the End. This biome represents the outer rims of each island, with steep cliffs below the edge. Neither End cities nor chorus trees generate in this biome. Large amounts of endermen spawn in this biome.
+【描述/備註】: 
+----------------------------------------
+### Legacy frozen ocean
+【類別】: 生物群系
+【Description】: Similar to the frozen ocean biome, but without icebergs, it was completely flat. Because they were a frozen ocean variant, they could spawn polar bears and strays, but not dolphins. Unlike the regular frozen ocean, polar bears, drowned, squid, salmon, cod, rabbits, skeletons and strays were the only mobs that spawn here. Kelp also generated here. This biome doesn't generate naturally from Pocket Edition Alpha 0.9.0 onward. When Bedrock Edition 1.4.0 introduced the new frozen ocean, this biome was not removed or replaced by the new frozen ocean, although the id name changed from frozen_ocean to legacy_frozen_ocean.
+【描述/備註】: 
+----------------------------------------
+### Desert lakes
+【類別】: 生物群系
+【Description】: In this biome, patches of water were more common, and the terrain was slightly more rough. Although desert wells could be found, desert pyramids, villages and outposts did not generate in this biome.
+【描述/備註】: 
+----------------------------------------
+### Mountain edge
+【類別】: 生物群系
+【Description】: Similar to the sparse jungle biome, the mountain edge used to generate exclusively at the edge of windswept hills biomes in order to smooth the transition between biomes. This biome had lots of trees, similar to windswept forests. While the terrain was lower and gentler in nature, some areas might reach high enough to be covered by snow. This biome doesn't generate naturally from Pocket Edition v0.9.0 alpha and Java Edition 1.7.2 onward.
+【描述/備註】: 
+----------------------------------------
+### Deep warm ocean
+【類別】: 生物群系
+【Description】: Similar to the warm ocean biome, but without coral reefs or sea pickles, and twice as deep. Because they were a deep ocean variant, they could generate ocean monuments. The deep warm ocean did not naturally generate in any non-snapshot or non-beta version.
+【描述/備註】: 
+----------------------------------------
+### Hills
+【類別】: 生物群系
+【Description】: Hills biomes were generated as small spots scattered throughout certain biomes. This included: Wooded Hills Taiga Hills Snowy Taiga Hills Jungle Hills Desert Hills Birch Forest Hills Giant Tree Taiga Hills Snowy Mountains Bamboo Jungle Hills Most hills were gentle rolling slopes on which the usual biome terrain generated, with some sharper cliffs here and there. Snowy mountains had a lower chance of spawning passive mobs during world generation than other biomes (7% versus 10%). Swamp hills and dark forest hills generated as 'modified' biomes instead of hills biomes, making them slightly rarer but also bigger in size. Tall birch hills generated as 'modified hills' biomes, which made them even rarer than modified biomes. Tall birch hills had much more mountainous terrain than most hills biomes.
+【描述/備註】: 
+----------------------------------------
+### Giant spruce taiga hills
+【類別】: 生物群系
+【Description】: Giant spruce taiga hills were a special case. In Java Edition, the game code sets the values setBaseHeight and setHeightVariation to define a "hilly" biome, but used the same values as for its non-hill variant (giant spruce taigagiant spruce taiga), meaning there was absolutely no terrain difference between the two biomes. In Bedrock Edition, this biome did generate as a much hillier version of the giant spruce taiga, even more mountainous than regular hills biomes. However, the giant spruce taiga hills used the same trees as the giant tree taiga hills (with leaves only at the top), making this biome very similar to the giant tree taiga hills.
+【描述/備註】: 
+----------------------------------------
+### Badlands plateau
+【類別】: 生物群系
+【Description】: Badlands plateaus generated as actual biomes in badlands biomes, and were flattened at the top, much like real-life plateaus. They came to rest at an elevation of about 20 to 30 blocks above sea level. One may discover the entrance to a mineshaft within the tall slopes of a badlands plateau. With the new terrain generation in Caves & Cliffs: Part II, the regular badlands biome also featured these plateaus and this biome became redundant.
+【描述/備註】: 
+----------------------------------------
+### Shattered savanna plateau
+【類別】: 生物群系
+【Description】: The terrain of the shattered savanna plateau biome was much less tame than its normal counterpart. It featured incredibly large and steep mountains that jut out of the terrain, similar to the shattered savannashattered savanna biome, albeit slightly smaller and gentler in comparison. In Bedrock Edition, the grass and foliage color was lush green (the same color as in mushroom fields), making it easily distinguishable from the regular shattered savanna.
+【描述/備註】: 
+----------------------------------------
+### Modified wooded badlands plateau
+【類別】: 生物群系
+【Description】: This biome featured grass and oak trees on top of plateaus, much like its counterpart. However, the plateaus that generated here were generally smaller, allowing far less foliage to be generated. The terrain was more erratic, and could be compared to that of the similar modified badlands plateau biome, having an old and eroded appearance. Eroded badlands generated instead of desert alongside this biome.
+【描述/備註】: 
+----------------------------------------
+### Modified badlands plateau
+【類別】: 生物群系
+【Description】: Compared to the average badlands plateau, the modified badlands plateau featured more variable terrain and smaller plateaus, as if a larger plateau was weathered down over time. It was the second-rarest biome in the game, after the modified jungle edge.
+【描述/備註】: 
+----------------------------------------
+### Mushroom field shore
+【類別】: 生物群系
+【Description】: Mushroom field shores represented the transition between mushroom fields and the ocean, forming long strips between the biomes as a "beach", hence the name. However, it did not generate if the ocean biome was a deep ocean. This biome also generated when a river met a mushroom fields biome, similar to what frozen rivers did in snowy plains. The terrain of this biome was much more flat and shallow than the main mushroom fields biome, though it contained many of the same features, such as a mycelium surface layer, huge mushrooms and lack of hostile mobs, but shipwrecks and buried treasures could generate here‌. Because the terrain was the only difference with the regular mushroom fields biome, this biome became redundant after Caves & Cliffs: Part II.
+【描述/備註】: 
+----------------------------------------
+### Gravelly mountains+
+【類別】: 生物群系
+【Description】: The gravelly mountains+ had exactly the same terrain and features as the regular gravelly mountainsgravelly mountains. In Bedrock Edition, the regular gravelly mountains did not have any trees, but this biome did, making it slightly different. Because almost no grass blocks were generated between the gravel, trees did rarely generate.
+【描述/備註】: 
+----------------------------------------
+### Modified jungle
+【類別】: 生物群系
+【Description】: The modified jungle featured very mountainuous terrain, with many cliffs and overhangs.
+【描述/備註】: 
+----------------------------------------
+### Modified jungle edge
+【類別】: 生物群系
+【Description】: The very rare modified jungle edge only generated when a rare swamp hills biome bordered a jungle. Like the regular modified jungle, this biome had much more mountainous terrain, but it was very small in size.
+【描述/備註】: 
+----------------------------------------
+### Taiga mountains
+【類別】: 生物群系
+【Description】: Like the snowy taiga mountains, this biome featured very mountainous terrain, sometimes passing snowfall height. The taiga mountains were very similar to the windswept forest, but with a higher density of trees and slightly lower elevation.
+【描述/備註】: 
+----------------------------------------
+### Snowy taiga mountains
+【類別】: 生物群系
+【Description】: The very rare snowy taiga mountains featured even more mountainous terrain than the snowy taiga hills, although not as much as the windswept hills.
+【描述/備註】: 
+----------------------------------------
+### Tundra
+【類別】: 生物群系
+【Features】: Snow, grass blocks, ice
+【Description】: Snowy, barren terrain with few trees. The occasional trees do exist, although rarely. Ice can be found over water. Snow is common weather in tundras. It generates when the temperature is below 50% and the downfall is less than 20%.
+【描述/備註】: 
+----------------------------------------
+### Rainforest
+【類別】: 生物群系
+【Features】: Grass block, short grass, ferns, oak trees, birch trees
+【Description】: Rainforests are wet biomes with many trees, which have a 1 in 3 chance of being big, instead of 1 in 10 like all other biomes. They generate only oak trees and have a large amount of short grass and ferns. A biome is classified as a rainforest if the temperature is greater than 97% and the downfall is more than 90%. This could be the biome with some of the most cliffs and hills, because the world generator reduces height variation at lower downfalls.
+【描述/備註】: 
+----------------------------------------
+### Seasonal forest
+【類別】: 生物群系
+【Features】: Grass block, short grass, oak trees
+【Description】: Seasonal forests spawn with a temperature of 97% or greater, and a downfall value between 45% and 90%. They are commonly found between forest and rainforests, and near plains biomes. They are identical to forests, except they have fewer trees and can spawn only oak trees. They have a little bit of short grass.
+【描述/備註】: 
+----------------------------------------
+### Ice desert
+【類別】: 生物群系
+【Features】: Sand, snow, ice
+【Description】: An unused biome before Beta 1.8 that was in the code but never implemented into the temperature/downfall table and thus did not actually generate. It was a biome of sand with snow on top of it and had snowfall and ice (the player can create something similar using the buffet world option and choosing the snowy beach biome).
+【描述/備註】: 
+----------------------------------------
+### Shrubland
+【類別】: 生物群系
+【Features】: Grass block, oak trees, birch trees
+【Description】: A biome with few trees and no short grass. It is identical to the savanna biome. It is one of the smallest biomes in the game. It can generate if the temperature is between 50% and 97%, and the downfall value is below 35%. It is too small to generate a forest.
+【描述/備註】: 
+----------------------------------------
+### _generated:id
+【類別】: 生物群系
+【Description】: _generated:id is the resource location of the generated biome. Its namespace is _generated and its name is the biome's numeric ID. This "biome" includes all the other non-custom dimensions biomes. All mobs, blocks, particles and structures in 20w13b (vanilla) can generate in this biome. A dimension can have multiple of these randomly generated biomes.
+【描述/備註】: 
+----------------------------------------
+### Between
+【類別】: 生物群系
+【Description】: Grid of End ships. Generates in the fleet dimension as well as some other random ones. There is no elytra as loot, but dragon heads still generate. Chests generate, but contain only a book titled "orders" written by a mess of changing letters. The contents have at least one word, usually an order (eg: build), a mess of constantly changing letters with varying lengths and another word(s) (eg: Lost Floppy).
+【描述/備註】: 
+----------------------------------------
+### Biome For Player With No Time For Nonsense
+【類別】: 生物群系
+【Description】: Generates as a normal snowy taiga, but all ores are mineral blocks or redstone components.
+【描述/備註】: 
+----------------------------------------
+### Shapes
+【類別】: 生物群系
+【Description】: Generates spheres, cubes, octahedra etc. of various colors of terracotta, glazed terracotta, concrete, concrete powder, wool, carpets, stained glass and stained glass panes.
+【描述/備註】: 
+----------------------------------------
+### The Moon
+【類別】: 生物群系
+【Description】: Generates flat terrain with craters made of blocks of cheese, which can be "eaten" to change their shape. The only mob that spawns here is the moon cow. There is also the Lunar Base that can be expanded by stepping on the pressure plate, the only feature in the moon.
+【描述/備註】: 
+----------------------------------------
+### Arboretum
+【類別】: 生物群系
+【Description】: A forested biome, with every type of tree that exists in 24w12a, along with huge mushrooms and potato trees. Non-uniform foliage color distinguishes this biome from other forest-type biomes.
+【描述/備註】: 
+----------------------------------------
+### Corruption
+【類別】: 生物群系
+【Description】: A forested biome, covered in potato trees of various sizes, as well as potato buds, that grow upward like stalagmites. Phantoms here spawn naturally during the day and they don't burn.
+【描述/備註】: 
+----------------------------------------
+### Fields
+【類別】: 生物群系
+【Description】: A flat and open biome. Much of the surface is covered with poison farmland, and potatoes grow on top of it.
+【描述/備註】: 
+----------------------------------------
+### Hash
+【類別】: 生物群系
+【Description】: A dry biome, with almost no vegetation. Only biome where gravtater and vicious potatoes occur naturally. Hash wells and fossils generate here.
+【描述/備註】: 
+----------------------------------------
+### Wasteland
+【類別】: 生物群系
+【Description】: A desolate and dangerous biome. Water and rain applies the Poison effect to players and mobs. Toxifin slabs spawn in large numbers, causing more Poison and Wither. Ancient debris is common in this biome.
+【描述/備註】: 
+----------------------------------------
+### Hub
+【類別】: 生物群系
+【Description】: A biome consisting of a "+"-shaped room with a mine crafter in the center, with shimmering doors on opposite sides, which lead to additional rooms once unlocked. On the third side lies the entrance to the memory lane, a long corridor lined with mine revisitors. All the rooms are surrounded in sky blocks.
+【描述/備註】: 
+----------------------------------------
+### Old Growth Spruce TaigaTaiga
+【類別】: 生物群系
+【描述/備註】: 160±8
+----------------------------------------
+### Old Growth Pine TaigaMeadow‌Cherry Grove‌
+【類別】: 生物群系
+【描述/備註】: 200±8
+----------------------------------------
+### Others
+【類別】: 生物群系
+【描述/備註】: 356±8 (out of world)
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【Base temperature】: 2.0
+【Downfall】: 0.0
+【Precipitation】: FALSE
+【Snow accumulation‌】: 0.0-0.125
+【Grass color】: #90814d
+【Foliage color】: #9e814d
+【Dry foliage color】: #9e814d
+【描述/備註】: #6eb1ff
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【Base temperature】: #bfb755
+【Downfall】: #aea42a
+【描述/備註】: #a38046
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【Base temperature】: 2.0‌1.2‌
+【描述/備註】: #6eb1ff‌ #75aaff‌
+----------------------------------------
+### Savanna Plateau
+【類別】: 生物群系
+【Base temperature】: 2.0‌1.0‌
+【描述/備註】: #6eb1ff‌ #76a8ff‌
+----------------------------------------
+### Stony Peaks
+【類別】: 生物群系
+【Base temperature】: 1.0
+【Downfall】: 0.3
+【Precipitation】: TRUE
+【Snow accumulation‌】: #9abe4b
+【Grass color】: #82ac1e
+【Foliage color】: #927957
+【描述/備註】: #76a8ff
+----------------------------------------
+### Jungle
+【類別】: 生物群系
+【Base temperature】: 0.95
+【Downfall】: 0.9
+【Precipitation】: #59c93c
+【Snow accumulation‌】: #30bb0b
+【Grass color】: #a36346
+【描述/備註】: #77a8ff
+----------------------------------------
+### Sparse Jungle
+【類別】: 生物群系
+【Base temperature】: 0.8
+【Downfall】: #64c73f
+【描述/備註】: #3eb80f
+----------------------------------------
+### Mushroom Fields
+【類別】: 生物群系
+【Base temperature】: 0.9
+【Downfall】: 1.0
+【Precipitation】: #55c93f
+【Snow accumulation‌】: #2bbb0f
+【描述/備註】: #a36246
+----------------------------------------
+### Mangrove Swamp
+【類別】: 生物群系
+【Base temperature】: 0.8
+【Downfall】: 0.9
+【Precipitation】: #6a7039 #4c763c
+【Snow accumulation‌】: #6a7039
+【Grass color】: #7b5334
+【描述/備註】: #78a7ff
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【Base temperature】: 0.9‌0.5‌
+【描述/備註】: #8db127
+----------------------------------------
+### Plains
+【類別】: 生物群系
+【Base temperature】: 0.8
+【Downfall】: 0.4
+【Precipitation】: #91bd59
+【Snow accumulation‌】: #77ab2f
+【Grass color】: #a37546
+【描述/備註】: #78a7ff
+----------------------------------------
+### Dripstone Caves
+【類別】: 生物群系
+【Base temperature】: 0.8‌0.2‌
+【Downfall】: 0.4‌0.0‌
+【Precipitation】: #91bd59‌ #8db58a‌
+【Snow accumulation‌】: #77ab2f‌ #70a26c‌
+【Grass color】: #a37546‌
+【描述/備註】: #78a7ff‌ #7da2ff‌
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【Base temperature】: 0.7
+【Downfall】: 0.8
+【Precipitation】: #79c05a
+【Snow accumulation‌】: #59ae30
+【Grass color】: #a36d46
+【描述/備註】: #79a6ff
+----------------------------------------
+### Dark Forest
+【類別】: 生物群系
+【Base temperature】: #507a32
+【描述/備註】: #7b5334
+----------------------------------------
+### Pale Garden
+【類別】: 生物群系
+【Base temperature】: #778272
+【Downfall】: #878d76
+【Precipitation】: #a0a69c
+【描述/備註】: #b9b9b9
+----------------------------------------
+### Birch Forest
+【類別】: 生物群系
+【Base temperature】: 0.6
+【Downfall】: 0.6
+【Precipitation】: #88bb67
+【Snow accumulation‌】: #6ba941
+【Grass color】: #a37246
+【描述/備註】: #7aa5ff
+----------------------------------------
+### Lush Caves
+【類別】: 生物群系
+【Base temperature】: 0.5‌0.9‌
+【Downfall】: 0.5‌0.0‌
+【Precipitation】: #8eb971‌ #b9b75b‌
+【Snow accumulation‌】: #71a74d‌ #a6a432‌
+【Grass color】: #a17448‌
+【描述/備註】: #7ba4ff‌ #77a8ff‌
+----------------------------------------
+### The Void‌
+【類別】: 生物群系
+【Base temperature】: 0.5
+【Downfall】: 0.5
+【Precipitation】: FALSE
+【Snow accumulation‌】: N/A
+【Grass color】: #8eb971
+【Foliage color】: #71a74d
+【Dry foliage color】: #a17448
+【描述/備註】: #7ba4ff
+----------------------------------------
+### River
+【類別】: 生物群系
+【Base temperature】: TRUE
+【描述/備註】: 0.0-0.125
+----------------------------------------
+### Cherry Grove
+【類別】: 生物群系
+【Base temperature】: 0.5‌0.3‌
+【Downfall】: 0.8
+【Precipitation】: #b6db61
+【Snow accumulation‌】: #b6db61
+【Grass color】: #a17148‌ #9c754d‌
+【描述/備註】: #7ba4ff‌ #7ca3ff‌
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【Base temperature】: #83bb6d‌ #86b87f‌
+【描述/備註】: #63a948‌ #68a55f‌
+----------------------------------------
+### Old Growth Pine Taiga
+【類別】: 生物群系
+【Base temperature】: 0.3
+【Downfall】: #86b87f
+【Precipitation】: #68a55f
+【Snow accumulation‌】: #9c754d
+【描述/備註】: #7ca3ff
+----------------------------------------
+### Old Growth Spruce Taiga
+【類別】: 生物群系
+【Base temperature】: 0.25
+【Downfall】: #86b783
+【Precipitation】: #68a464
+【Snow accumulation‌】: #9a764f
+【描述/備註】: #7da3ff
+----------------------------------------
+### Windswept Gravelly Hills
+【類別】: 生物群系
+【Base temperature】: 0.2
+【Downfall】: 0.3
+【Precipitation】: #8ab689
+【Snow accumulation‌】: #6da36b
+【Grass color】: #977752
+【描述/備註】: #7da2ff
+----------------------------------------
+### Windswept Hills
+【類別】: 生物群系
+【描述/備註】: 0.0-0.25
+----------------------------------------
+### Snowy Beach
+【類別】: 生物群系
+【Base temperature】: 0.05
+【Downfall】: 0.125-0.25
+【Precipitation】: #83b593
+【Snow accumulation‌】: #64a278
+【Grass color】: #917958
+【描述/備註】: #7fa1ff
+----------------------------------------
+### Frozen River
+【類別】: 生物群系
+【Base temperature】: 0.0
+【Downfall】: 0.5
+【Precipitation】: #80b497
+【Snow accumulation‌】: #60a17b
+【Grass color】: #8f7a5a
+【描述/備註】: #7fa1ff
+----------------------------------------
+### Snowy Plains
+【類別】: 生物群系
+【描述/備註】: 0.25-1.0
+----------------------------------------
+### Ice Spikes
+【類別】: 生物群系
+【Base temperature】: 0.5‌1.0‌
+【描述/備註】: 0.5-1.5
+----------------------------------------
+### Grove
+【類別】: 生物群系
+【Base temperature】: -0.2
+【Downfall】: 0.8
+【Precipitation】: 0.125-0.25
+【描述/備註】: #81a0ff
+----------------------------------------
+### Snowy Slopes
+【類別】: 生物群系
+【Base temperature】: -0.3
+【Downfall】: 0.9
+【Precipitation】: 0.125-0.5
+【描述/備註】: #829fff
+----------------------------------------
+### Snowy Taiga
+【類別】: 生物群系
+【Base temperature】: -0.5
+【Downfall】: 0.4
+【描述/備註】: #839eff
+----------------------------------------
+### Frozen Peaks
+【類別】: 生物群系
+【Base temperature】: -0.7
+【Downfall】: 0.9
+【Precipitation】: 0.125-0.25
+【描述/備註】: #859dff
+----------------------------------------
+### Mangrove Swamp
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #3a7a6a
+【Water fog color in Bedrock Edition】: #4d7a6030 blocks distance
+【Water color in Java Edition】: #3a7a6a
+【描述/備註】: #4d7a60
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #4c655965% opacity
+【Water fog color in Bedrock Edition】: #4c655930 blocks distance
+【Water color in Java Edition】: #617b64
+【描述/備註】: #232317
+----------------------------------------
+### Pale Garden
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #76889D
+【Water fog color in Bedrock Edition】: #556980
+【Water color in Java Edition】: #76889D
+【描述/備註】: #556980
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #4e7f81
+【Water fog color in Bedrock Edition】: #3f76e4
+【描述/備註】: #050533
+----------------------------------------
+### Wooded Badlands
+【類別】: 生物群系
+【描述/備註】: #55809e
+----------------------------------------
+### Eroded Badlands
+【類別】: 生物群系
+【描述/備註】: #497f99
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【描述/備註】: #32a598
+----------------------------------------
+### Windswept SavannaSavanna Plateau
+【類別】: 生物群系
+【描述/備註】: #2590a8
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【描述/備註】: #2c8b9c
+----------------------------------------
+### Bamboo JungleJungle
+【類別】: 生物群系
+【描述/備註】: #14a2c5
+----------------------------------------
+### Sparse Jungle
+【類別】: 生物群系
+【描述/備註】: #0d8ae3
+----------------------------------------
+### Mushroom Fields
+【類別】: 生物群系
+【描述/備註】: #8a8997
+----------------------------------------
+### Beach
+【類別】: 生物群系
+【描述/備註】: #157cab
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【描述/備註】: #1e97f2
+----------------------------------------
+### Flower Forest
+【類別】: 生物群系
+【描述/備註】: #20a3cc
+----------------------------------------
+### Dark Forest
+【類別】: 生物群系
+【描述/備註】: #3b6cd1
+----------------------------------------
+### Birch Forest
+【類別】: 生物群系
+【描述/備註】: #0677ce
+----------------------------------------
+### River
+【類別】: 生物群系
+【描述/備註】: #0084ff
+----------------------------------------
+### Warm Ocean
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #02b0e555% opacity
+【Water fog color in Bedrock Edition】: #0289d5
+【Water color in Java Edition】: #43d5ee
+【描述/備註】: #041f33
+----------------------------------------
+### Lukewarm Ocean
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #0d96db
+【Water fog color in Bedrock Edition】: #0a74c4
+【Water color in Java Edition】: #45adf2
+【描述/備註】: #041633
+----------------------------------------
+### Deep Lukewarm Ocean
+【類別】: 生物群系
+【描述/備註】: #0e72b9
+----------------------------------------
+### Ocean
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #1787d4
+【Water fog color in Bedrock Edition】: #1165b0
+【Water color in Java Edition】: #3f76e4
+【描述/備註】: #050533
+----------------------------------------
+### Deep Ocean
+【類別】: 生物群系
+【描述/備註】: #1463a5
+----------------------------------------
+### Cold Ocean
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #2080c9
+【Water fog color in Bedrock Edition】: #14559b
+【描述/備註】: #3d57d6
+----------------------------------------
+### Deep Cold Ocean
+【類別】: 生物群系
+【描述/備註】: #185390
+----------------------------------------
+### Frozen Ocean
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #2570b5
+【Water fog color in Bedrock Edition】: #174985
+【描述/備註】: #3938c9
+----------------------------------------
+### Deep Frozen Ocean
+【類別】: 生物群系
+【描述/備註】: #1a4879
+----------------------------------------
+### Frozen River
+【類別】: 生物群系
+【描述/備註】: #185390
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #44aff5
+【描述/備註】: #0e4ecf
+----------------------------------------
+### Cherry Grove
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #5db7ef
+【描述/備註】: #5db7ef
+----------------------------------------
+### Old Growth Pine Taiga
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #2d6d77
+【描述/備註】: #3f76e4
+----------------------------------------
+### Taiga
+【類別】: 生物群系
+【描述/備註】: #287082
+----------------------------------------
+### Windswept ForestWindswept Gravelly Hills
+【類別】: 生物群系
+【描述/備註】: #0e63ab
+----------------------------------------
+### Windswept Hills
+【類別】: 生物群系
+【描述/備註】: #007bf7
+----------------------------------------
+### Stony Shore
+【類別】: 生物群系
+【描述/備註】: #0d67bb
+----------------------------------------
+### Snowy PlainsIce Spikes
+【類別】: 生物群系
+【描述/備註】: #14559b
+----------------------------------------
+### Snowy Beach
+【類別】: 生物群系
+【Water color in Bedrock Edition】: #1463a5
+【描述/備註】: #3d57d6
+----------------------------------------
+### Snowy Taiga
+【類別】: 生物群系
+【描述/備註】: #205e83
+----------------------------------------
+### The Void‌
+【類別】: 生物群系
+【描述/備註】: N/A
+----------------------------------------
+### Nether Wastes
+【類別】: 生物群系
+【Base temperature】: 2.0
+【Downfall】: 0.0
+【Precipitation】: FALSE
+【Grass color】: #bfb755
+【Foliage color】: #aea42a
+【Dry foliage color】: #a38046
+【Sky color】: #6eb1ff
+【Water color】: #3f76e4‌ #905957‌
+【Water fog color】: #050533‌ #90595715 blocks distance‌
+【描述/備註】: #330808
+----------------------------------------
+### Warped Forest
+【類別】: 生物群系
+【描述/備註】: #1a051a
+----------------------------------------
+### Crimson Forest
+【類別】: 生物群系
+【描述/備註】: #330303
+----------------------------------------
+### Soul Sand Valley
+【類別】: 生物群系
+【描述/備註】: #1b4745
+----------------------------------------
+### Basalt Deltas
+【類別】: 生物群系
+【Base temperature】: #3f76e4
+【Downfall】: #050533‌ #423e4215 blocks distance‌
+【描述/備註】: #685f70
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【描述/備註】: 12.354%
+----------------------------------------
+### Plains
+【類別】: 生物群系
+【描述/備註】: 10.627%
+----------------------------------------
+### Ocean
+【類別】: 生物群系
+【描述/備註】: 7.158%
+----------------------------------------
+### River
+【類別】: 生物群系
+【描述/備註】: 6.208%
+----------------------------------------
+### Lukewarm Ocean
+【類別】: 生物群系
+【描述/備註】: 4.506%
+----------------------------------------
+### Cold Ocean
+【類別】: 生物群系
+【描述/備註】: 4.359%
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【描述/備註】: 3.899%
+----------------------------------------
+### Deep Ocean
+【類別】: 生物群系
+【描述/備註】: 3.813%
+----------------------------------------
+### Taiga
+【類別】: 生物群系
+【描述/備註】: 3.344%
+----------------------------------------
+### Snowy Plains
+【類別】: 生物群系
+【描述/備註】: 2.897%
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【描述/備註】: 2.473%
+----------------------------------------
+### Beach
+【類別】: 生物群系
+【描述/備註】: 2.422%
+----------------------------------------
+### Deep Lukewarm Ocean
+【類別】: 生物群系
+【描述/備註】: 2.413%
+----------------------------------------
+### Birch Forest
+【類別】: 生物群系
+【描述/備註】: 2.327%
+----------------------------------------
+### Deep Cold Ocean
+【類別】: 生物群系
+【描述/備註】: 2.301%
+----------------------------------------
+### Snowy Taiga
+【類別】: 生物群系
+【描述/備註】: 2.280%
+----------------------------------------
+### Old Growth Birch Forest
+【類別】: 生物群系
+【描述/備註】: 2.179%
+----------------------------------------
+### Dark Forest
+【類別】: 生物群系
+【描述/備註】: 2.043%
+----------------------------------------
+### Frozen Ocean
+【類別】: 生物群系
+【描述/備註】: 2.041%
+----------------------------------------
+### Warm Ocean
+【類別】: 生物群系
+【描述/備註】: 2.032%
+----------------------------------------
+### Jungle
+【類別】: 生物群系
+【描述/備註】: 2.026%
+----------------------------------------
+### Sparse Jungle
+【類別】: 生物群系
+【描述/備註】: 1.404%
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【描述/備註】: 1.189%
+----------------------------------------
+### Stony Shore
+【類別】: 生物群系
+【描述/備註】: 1.187%
+----------------------------------------
+### Deep Frozen Ocean
+【類別】: 生物群系
+【描述/備註】: 1.123%
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【描述/備註】: 1.071%
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【描述/備註】: 0.876%
+----------------------------------------
+### Frozen River
+【類別】: 生物群系
+【描述/備註】: 0.822%
+----------------------------------------
+### Grove
+【類別】: 生物群系
+【描述/備註】: 0.782%
+----------------------------------------
+### Sunflower Plains
+【類別】: 生物群系
+【描述/備註】: 0.690%
+----------------------------------------
+### Wooded Badlands
+【類別】: 生物群系
+【描述/備註】: 0.685%
+----------------------------------------
+### Old Growth Pine Taiga
+【類別】: 生物群系
+【描述/備註】: 0.668%
+----------------------------------------
+### Bamboo Jungle
+【類別】: 生物群系
+【描述/備註】: 0.648%
+----------------------------------------
+### Flower Forest
+【類別】: 生物群系
+【描述/備註】: 0.642%
+----------------------------------------
+### Old Growth Spruce Taiga
+【類別】: 生物群系
+【描述/備註】: 0.619%
+----------------------------------------
+### Mangrove Swamp
+【類別】: 生物群系
+【描述/備註】: 0.517%
+----------------------------------------
+### Savanna Plateau
+【類別】: 生物群系
+【描述/備註】: 0.398%
+----------------------------------------
+### Snowy Slopes
+【類別】: 生物群系
+【描述/備註】: 0.359%
+----------------------------------------
+### Snowy Beach
+【類別】: 生物群系
+【描述/備註】: 0.332%
+----------------------------------------
+### Windswept Hills
+【類別】: 生物群系
+【描述/備註】: 0.298%
+----------------------------------------
+### Eroded Badlands
+【類別】: 生物群系
+【描述/備註】: 0.290%
+----------------------------------------
+### Cherry Grove
+【類別】: 生物群系
+【描述/備註】: 0.285%
+----------------------------------------
+### Ice Spikes
+【類別】: 生物群系
+【描述/備註】: 0.249%
+----------------------------------------
+### Windswept Savanna
+【類別】: 生物群系
+【描述/備註】: 0.218%
+----------------------------------------
+### Windswept Forest
+【類別】: 生物群系
+【描述/備註】: 0.186%
+----------------------------------------
+### Jagged Peaks
+【類別】: 生物群系
+【描述/備註】: 0.173%
+----------------------------------------
+### Frozen Peaks
+【類別】: 生物群系
+【描述/備註】: 0.157%
+----------------------------------------
+### Mushroom Fields
+【類別】: 生物群系
+【描述/備註】: 0.145%
+----------------------------------------
+### Stony Peaks
+【類別】: 生物群系
+【描述/備註】: 0.103%
+----------------------------------------
+### Windswept Gravelly Hills
+【類別】: 生物群系
+【描述/備註】: 0.103%
+----------------------------------------
+### Pale Garden
+【類別】: 生物群系
+【描述/備註】: 0.078%
+----------------------------------------
+### Y = -55
+【類別】: 生物群系
+【Area cover by altitude】: Y = -32
+【Volume cover】: Y = 0
+【描述/備註】: Y < 320
+----------------------------------------
+### Surface biomes
+【類別】: 生物群系
+【Area cover by altitude】: 88.16%
+【Volume cover】: 86.42%
+【描述/備註】: 95.00%
+----------------------------------------
+### Dripstone Caves
+【類別】: 生物群系
+【Area cover by altitude】: 0.914%
+【Volume cover】: 4.41%
+【描述/備註】: 2.48%
+----------------------------------------
+### Lush Caves
+【類別】: 生物群系
+【Area cover by altitude】: 0.886%
+【Volume cover】: 5.23%
+【描述/備註】: 1.62%
+----------------------------------------
+### Deep Dark
+【類別】: 生物群系
+【Area cover by altitude】: 10.04%
+【Volume cover】: 3.94%
+【描述/備註】: 0.915%
+----------------------------------------
+### Nether Wastes
+【類別】: 生物群系
+【描述/備註】: 36.30%
+----------------------------------------
+### Crimson Forest
+【類別】: 生物群系
+【描述/備註】: 22.22%
+----------------------------------------
+### Soul Sand Valley
+【類別】: 生物群系
+【描述/備註】: 17.08%
+----------------------------------------
+### Basalt Deltas
+【類別】: 生物群系
+【描述/備註】: 15.86%
+----------------------------------------
+### Warped Forest
+【類別】: 生物群系
+【描述/備註】: 8.54%
+----------------------------------------
+### Small End Islands
+【類別】: 生物群系
+【描述/備註】: 45.81%
+----------------------------------------
+### End Midlands
+【類別】: 生物群系
+【描述/備註】: 25.70%
+----------------------------------------
+### End Highlands
+【類別】: 生物群系
+【描述/備註】: 17.66%
+----------------------------------------
+### End Barrens
+【類別】: 生物群系
+【描述/備註】: 10.82%
+----------------------------------------
+### The End
+【類別】: 生物群系
+【描述/備註】: 9.14 × 10-10
+----------------------------------------
+### The Void
+【類別】: 生物群系
+【描述/備註】: the_void
+----------------------------------------
+### Plains
+【類別】: 生物群系
+【描述/備註】: plains
+----------------------------------------
+### Sunflower Plains
+【類別】: 生物群系
+【描述/備註】: sunflower_plains
+----------------------------------------
+### Snowy Plains
+【類別】: 生物群系
+【描述/備註】: snowy_plains
+----------------------------------------
+### Ice Spikes
+【類別】: 生物群系
+【描述/備註】: ice_spikes
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【描述/備註】: desert
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【描述/備註】: swamp
+----------------------------------------
+### Mangrove Swamp
+【類別】: 生物群系
+【描述/備註】: mangrove_swamp
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【描述/備註】: forest
+----------------------------------------
+### Flower Forest
+【類別】: 生物群系
+【描述/備註】: flower_forest
+----------------------------------------
+### Birch Forest
+【類別】: 生物群系
+【描述/備註】: birch_forest
+----------------------------------------
+### Dark Forest
+【類別】: 生物群系
+【描述/備註】: dark_forest
+----------------------------------------
+### Pale Garden
+【類別】: 生物群系
+【描述/備註】: pale_garden
+----------------------------------------
+### Old Growth Birch Forest
+【類別】: 生物群系
+【描述/備註】: old_growth_birch_forest
+----------------------------------------
+### Old Growth Pine Taiga
+【類別】: 生物群系
+【描述/備註】: old_growth_pine_taiga
+----------------------------------------
+### Old Growth Spruce Taiga
+【類別】: 生物群系
+【描述/備註】: old_growth_spruce_taiga
+----------------------------------------
+### Taiga
+【類別】: 生物群系
+【描述/備註】: taiga
+----------------------------------------
+### Snowy Taiga
+【類別】: 生物群系
+【描述/備註】: snowy_taiga
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【描述/備註】: savanna
+----------------------------------------
+### Savanna Plateau
+【類別】: 生物群系
+【描述/備註】: savanna_plateau
+----------------------------------------
+### Windswept Hills
+【類別】: 生物群系
+【描述/備註】: windswept_hills
+----------------------------------------
+### Windswept Gravelly Hills
+【類別】: 生物群系
+【描述/備註】: windswept_gravelly_hills
+----------------------------------------
+### Windswept Forest
+【類別】: 生物群系
+【描述/備註】: windswept_forest
+----------------------------------------
+### Windswept Savanna
+【類別】: 生物群系
+【描述/備註】: windswept_savanna
+----------------------------------------
+### Jungle
+【類別】: 生物群系
+【描述/備註】: jungle
+----------------------------------------
+### Sparse Jungle
+【類別】: 生物群系
+【描述/備註】: sparse_jungle
+----------------------------------------
+### Bamboo Jungle
+【類別】: 生物群系
+【描述/備註】: bamboo_jungle
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【描述/備註】: badlands
+----------------------------------------
+### Eroded Badlands
+【類別】: 生物群系
+【描述/備註】: eroded_badlands
+----------------------------------------
+### Wooded Badlands
+【類別】: 生物群系
+【描述/備註】: wooded_badlands
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【描述/備註】: meadow
+----------------------------------------
+### Cherry Grove
+【類別】: 生物群系
+【描述/備註】: cherry_grove
+----------------------------------------
+### Grove
+【類別】: 生物群系
+【描述/備註】: grove
+----------------------------------------
+### Snowy Slopes
+【類別】: 生物群系
+【描述/備註】: snowy_slopes
+----------------------------------------
+### Frozen Peaks
+【類別】: 生物群系
+【描述/備註】: frozen_peaks
+----------------------------------------
+### Jagged Peaks
+【類別】: 生物群系
+【描述/備註】: jagged_peaks
+----------------------------------------
+### Stony Peaks
+【類別】: 生物群系
+【描述/備註】: stony_peaks
+----------------------------------------
+### River
+【類別】: 生物群系
+【描述/備註】: river
+----------------------------------------
+### Frozen River
+【類別】: 生物群系
+【描述/備註】: frozen_river
+----------------------------------------
+### Beach
+【類別】: 生物群系
+【描述/備註】: beach
+----------------------------------------
+### Snowy Beach
+【類別】: 生物群系
+【描述/備註】: snowy_beach
+----------------------------------------
+### Stony Shore
+【類別】: 生物群系
+【描述/備註】: stony_shore
+----------------------------------------
+### Warm Ocean
+【類別】: 生物群系
+【描述/備註】: warm_ocean
+----------------------------------------
+### Lukewarm Ocean
+【類別】: 生物群系
+【描述/備註】: lukewarm_ocean
+----------------------------------------
+### Deep Lukewarm Ocean
+【類別】: 生物群系
+【描述/備註】: deep_lukewarm_ocean
+----------------------------------------
+### Ocean
+【類別】: 生物群系
+【描述/備註】: ocean
+----------------------------------------
+### Deep Ocean
+【類別】: 生物群系
+【描述/備註】: deep_ocean
+----------------------------------------
+### Cold Ocean
+【類別】: 生物群系
+【描述/備註】: cold_ocean
+----------------------------------------
+### Deep Cold Ocean
+【類別】: 生物群系
+【描述/備註】: deep_cold_ocean
+----------------------------------------
+### Frozen Ocean
+【類別】: 生物群系
+【描述/備註】: frozen_ocean
+----------------------------------------
+### Deep Frozen Ocean
+【類別】: 生物群系
+【描述/備註】: deep_frozen_ocean
+----------------------------------------
+### Mushroom Fields
+【類別】: 生物群系
+【描述/備註】: mushroom_fields
+----------------------------------------
+### Dripstone Caves
+【類別】: 生物群系
+【描述/備註】: dripstone_caves
+----------------------------------------
+### Lush Caves
+【類別】: 生物群系
+【描述/備註】: lush_caves
+----------------------------------------
+### Deep Dark
+【類別】: 生物群系
+【描述/備註】: deep_dark
+----------------------------------------
+### Nether Wastes
+【類別】: 生物群系
+【描述/備註】: nether_wastes
+----------------------------------------
+### Warped Forest
+【類別】: 生物群系
+【描述/備註】: warped_forest
+----------------------------------------
+### Crimson Forest
+【類別】: 生物群系
+【描述/備註】: crimson_forest
+----------------------------------------
+### Soul Sand Valley
+【類別】: 生物群系
+【描述/備註】: soul_sand_valley
+----------------------------------------
+### Basalt Deltas
+【類別】: 生物群系
+【描述/備註】: basalt_deltas
+----------------------------------------
+### The End
+【類別】: 生物群系
+【描述/備註】: the_end
+----------------------------------------
+### End Highlands
+【類別】: 生物群系
+【描述/備註】: end_highlands
+----------------------------------------
+### End Midlands
+【類別】: 生物群系
+【描述/備註】: end_midlands
+----------------------------------------
+### Small End Islands
+【類別】: 生物群系
+【描述/備註】: small_end_islands
+----------------------------------------
+### End Barrens
+【類別】: 生物群系
+【描述/備註】: end_barrens
+----------------------------------------
+### Ocean
+【類別】: 生物群系
+【Resource location】: ocean
+【描述/備註】: 0
+----------------------------------------
+### Legacy Frozen Ocean
+【類別】: 生物群系
+【Resource location】: legacy_frozen_ocean
+【描述/備註】: 10
+----------------------------------------
+### Deep Ocean
+【類別】: 生物群系
+【Resource location】: deep_ocean
+【描述/備註】: 24
+----------------------------------------
+### Frozen Ocean
+【類別】: 生物群系
+【Resource location】: frozen_ocean
+【描述/備註】: 46
+----------------------------------------
+### Deep Frozen Ocean
+【類別】: 生物群系
+【Resource location】: deep_frozen_ocean
+【描述/備註】: 47
+----------------------------------------
+### Cold Ocean
+【類別】: 生物群系
+【Resource location】: cold_ocean
+【描述/備註】: 44
+----------------------------------------
+### Deep Cold Ocean
+【類別】: 生物群系
+【Resource location】: deep_cold_ocean
+【描述/備註】: 45
+----------------------------------------
+### Lukewarm Ocean
+【類別】: 生物群系
+【Resource location】: lukewarm_ocean
+【描述/備註】: 42
+----------------------------------------
+### Deep Lukewarm Ocean
+【類別】: 生物群系
+【Resource location】: deep_lukewarm_ocean
+【描述/備註】: 43
+----------------------------------------
+### Warm Ocean
+【類別】: 生物群系
+【Resource location】: warm_ocean
+【描述/備註】: 40
+----------------------------------------
+### Deep Warm Ocean
+【類別】: 生物群系
+【Resource location】: deep_warm_ocean
+【描述/備註】: 41
+----------------------------------------
+### River
+【類別】: 生物群系
+【Resource location】: river
+【描述/備註】: 7
+----------------------------------------
+### Frozen River
+【類別】: 生物群系
+【Resource location】: frozen_river
+【描述/備註】: 11
+----------------------------------------
+### Beach
+【類別】: 生物群系
+【Resource location】: beach
+【描述/備註】: 16
+----------------------------------------
+### Stony Shore
+【類別】: 生物群系
+【Resource location】: stone_beach
+【描述/備註】: 25
+----------------------------------------
+### Snowy Beach
+【類別】: 生物群系
+【Resource location】: cold_beach
+【描述/備註】: 26
+----------------------------------------
+### Forest
+【類別】: 生物群系
+【Resource location】: forest
+【描述/備註】: 4
+----------------------------------------
+### Wooded Hills
+【類別】: 生物群系
+【Resource location】: forest_hills
+【描述/備註】: 18
+----------------------------------------
+### Flower Forest
+【類別】: 生物群系
+【Resource location】: flower_forest
+【描述/備註】: 132
+----------------------------------------
+### Birch Forest
+【類別】: 生物群系
+【Resource location】: birch_forest
+【描述/備註】: 27
+----------------------------------------
+### Birch Forest Hills
+【類別】: 生物群系
+【Resource location】: birch_forest_hills
+【描述/備註】: 28
+----------------------------------------
+### Old Growth Birch Forest
+【類別】: 生物群系
+【Resource location】: birch_forest_mutated
+【描述/備註】: 155
+----------------------------------------
+### Tall Birch Hills
+【類別】: 生物群系
+【Resource location】: birch_forest_hills_mutated
+【描述/備註】: 156
+----------------------------------------
+### Dark Forest
+【類別】: 生物群系
+【Resource location】: roofed_forest
+【描述/備註】: 29
+----------------------------------------
+### Dark Forest Hills
+【類別】: 生物群系
+【Resource location】: roofed_forest_mutated
+【描述/備註】: 157
+----------------------------------------
+### Pale Garden
+【類別】: 生物群系
+【Resource location】: pale_garden
+【描述/備註】: 193
+----------------------------------------
+### Jungle
+【類別】: 生物群系
+【Resource location】: jungle
+【描述/備註】: 21
+----------------------------------------
+### Jungle Hills
+【類別】: 生物群系
+【Resource location】: jungle_hills
+【描述/備註】: 22
+----------------------------------------
+### Modified Jungle
+【類別】: 生物群系
+【Resource location】: jungle_mutated
+【描述/備註】: 149
+----------------------------------------
+### Sparse Jungle
+【類別】: 生物群系
+【Resource location】: jungle_edge
+【描述/備註】: 23
+----------------------------------------
+### Modified Jungle Edge
+【類別】: 生物群系
+【Resource location】: jungle_edge_mutated
+【描述/備註】: 151
+----------------------------------------
+### Bamboo Jungle
+【類別】: 生物群系
+【Resource location】: bamboo_jungle
+【描述/備註】: 48
+----------------------------------------
+### Bamboo Jungle Hills
+【類別】: 生物群系
+【Resource location】: bamboo_jungle_hills
+【描述/備註】: 49
+----------------------------------------
+### Taiga
+【類別】: 生物群系
+【Resource location】: taiga
+【描述/備註】: 5
+----------------------------------------
+### Taiga Hills
+【類別】: 生物群系
+【Resource location】: taiga_hills
+【描述/備註】: 19
+----------------------------------------
+### Taiga Mountains
+【類別】: 生物群系
+【Resource location】: taiga_mutated
+【描述/備註】: 133
+----------------------------------------
+### Snowy Taiga
+【類別】: 生物群系
+【Resource location】: cold_taiga
+【描述/備註】: 30
+----------------------------------------
+### Snowy Taiga Hills
+【類別】: 生物群系
+【Resource location】: cold_taiga_hills
+【描述/備註】: 31
+----------------------------------------
+### Snowy Taiga Mountains
+【類別】: 生物群系
+【Resource location】: cold_taiga_mutated
+【描述/備註】: 158
+----------------------------------------
+### Old Growth Pine Taiga
+【類別】: 生物群系
+【Resource location】: mega_taiga
+【描述/備註】: 32
+----------------------------------------
+### Giant Tree Taiga Hills
+【類別】: 生物群系
+【Resource location】: mega_taiga_hills
+【描述/備註】: 33
+----------------------------------------
+### Old Growth Spruce Taiga
+【類別】: 生物群系
+【Resource location】: redwood_taiga_mutated
+【描述/備註】: 160
+----------------------------------------
+### Giant Spruce Taiga Hills
+【類別】: 生物群系
+【Resource location】: redwood_taiga_hills_mutated
+【描述/備註】: 161
+----------------------------------------
+### Mushroom Fields
+【類別】: 生物群系
+【Resource location】: mushroom_island
+【描述/備註】: 14
+----------------------------------------
+### Mushroom Field Shore
+【類別】: 生物群系
+【Resource location】: mushroom_island_shore
+【描述/備註】: 15
+----------------------------------------
+### Swamp
+【類別】: 生物群系
+【Resource location】: swampland
+【描述/備註】: 6
+----------------------------------------
+### Swamp Hills
+【類別】: 生物群系
+【Resource location】: swampland_mutated
+【描述/備註】: 134
+----------------------------------------
+### Mangrove Swamp
+【類別】: 生物群系
+【Resource location】: mangrove_swamp
+【描述/備註】: 191
+----------------------------------------
+### Savanna
+【類別】: 生物群系
+【Resource location】: savanna
+【描述/備註】: 35
+----------------------------------------
+### Savanna Plateau
+【類別】: 生物群系
+【Resource location】: savanna_plateau
+【描述/備註】: 36
+----------------------------------------
+### Windswept Savanna
+【類別】: 生物群系
+【Resource location】: savanna_mutated
+【描述/備註】: 163
+----------------------------------------
+### Shattered Savanna Plateau
+【類別】: 生物群系
+【Resource location】: savanna_plateau_mutated
+【描述/備註】: 164
+----------------------------------------
+### Plains
+【類別】: 生物群系
+【Resource location】: plains
+【描述/備註】: 1
+----------------------------------------
+### Sunflower Plains
+【類別】: 生物群系
+【Resource location】: sunflower_plains
+【描述/備註】: 129
+----------------------------------------
+### Desert
+【類別】: 生物群系
+【Resource location】: desert
+【描述/備註】: 2
+----------------------------------------
+### Desert Hills
+【類別】: 生物群系
+【Resource location】: desert_hills
+【描述/備註】: 17
+----------------------------------------
+### Desert Lakes
+【類別】: 生物群系
+【Resource location】: desert_mutated
+【描述/備註】: 130
+----------------------------------------
+### Snowy Plains
+【類別】: 生物群系
+【Resource location】: ice_plains
+【描述/備註】: 12
+----------------------------------------
+### Snowy Mountains
+【類別】: 生物群系
+【Resource location】: ice_mountains
+【描述/備註】: 13
+----------------------------------------
+### Ice Spikes
+【類別】: 生物群系
+【Resource location】: ice_plains_spikes
+【描述/備註】: 140
+----------------------------------------
+### Windswept Hills
+【類別】: 生物群系
+【Resource location】: extreme_hills
+【描述/備註】: 3
+----------------------------------------
+### Windswept Forest
+【類別】: 生物群系
+【Resource location】: extreme_hills_plus_trees
+【描述/備註】: 34
+----------------------------------------
+### Windswept Gravelly Hills
+【類別】: 生物群系
+【Resource location】: extreme_hills_mutated
+【描述/備註】: 131
+----------------------------------------
+### Gravelly Mountains+
+【類別】: 生物群系
+【Resource location】: extreme_hills_plus_trees_mutated
+【描述/備註】: 162
+----------------------------------------
+### Mountain Edge
+【類別】: 生物群系
+【Resource location】: extreme_hills_edge
+【描述/備註】: 20
+----------------------------------------
+### Badlands
+【類別】: 生物群系
+【Resource location】: mesa
+【描述/備註】: 37
+----------------------------------------
+### Badlands Plateau
+【類別】: 生物群系
+【Resource location】: mesa_plateau
+【描述/備註】: 39
+----------------------------------------
+### Modified Badlands Plateau
+【類別】: 生物群系
+【Resource location】: mesa_plateau_mutated
+【描述/備註】: 167
+----------------------------------------
+### Wooded Badlands
+【類別】: 生物群系
+【Resource location】: mesa_plateau_stone
+【描述/備註】: 38
+----------------------------------------
+### Modified Wooded Badlands Plateau
+【類別】: 生物群系
+【Resource location】: mesa_plateau_stone_mutated
+【描述/備註】: 166
+----------------------------------------
+### Eroded Badlands
+【類別】: 生物群系
+【Resource location】: mesa_bryce
+【描述/備註】: 165
+----------------------------------------
+### Meadow
+【類別】: 生物群系
+【Resource location】: meadow
+【描述/備註】: 186
+----------------------------------------
+### Cherry Grove
+【類別】: 生物群系
+【Resource location】: cherry_grove
+【描述/備註】: 192
+----------------------------------------
+### Grove
+【類別】: 生物群系
+【Resource location】: grove
+【描述/備註】: 185
+----------------------------------------
+### Snowy Slopes
+【類別】: 生物群系
+【Resource location】: snowy_slopes
+【描述/備註】: 184
+----------------------------------------
+### Jagged Peaks
+【類別】: 生物群系
+【Resource location】: jagged_peaks
+【描述/備註】: 182
+----------------------------------------
+### Frozen Peaks
+【類別】: 生物群系
+【Resource location】: frozen_peaks
+【描述/備註】: 183
+----------------------------------------
+### Stony Peaks
+【類別】: 生物群系
+【Resource location】: stony_peaks
+【描述/備註】: 189
+----------------------------------------
+### Lush Caves
+【類別】: 生物群系
+【Resource location】: lush_caves
+【描述/備註】: 187
+----------------------------------------
+### Dripstone Caves
+【類別】: 生物群系
+【Resource location】: dripstone_caves
+【描述/備註】: 188
+----------------------------------------
+### Deep Dark
+【類別】: 生物群系
+【Resource location】: deep_dark
+【描述/備註】: 190
+----------------------------------------
+### Nether Wastes
+【類別】: 生物群系
+【Resource location】: hell
+【描述/備註】: 8
+----------------------------------------
+### Crimson Forest
+【類別】: 生物群系
+【Resource location】: crimson_forest
+【描述/備註】: 179
+----------------------------------------
+### Warped Forest
+【類別】: 生物群系
+【Resource location】: warped_forest
+【描述/備註】: 180
+----------------------------------------
+### Soul Sand Valley
+【類別】: 生物群系
+【Resource location】: soulsand_valley
+【描述/備註】: 178
+----------------------------------------
+### Basalt Deltas
+【類別】: 生物群系
+【Resource location】: basalt_deltas
+【描述/備註】: 181
+----------------------------------------
+### The End
+【類別】: 生物群系
+【Resource location】: the_end
+【描述/備註】: 9
+----------------------------------------
+### Icon
+【類別】: 生物群系
+【描述/備註】: Trophy type (PS)
+----------------------------------------
+### PS4
+【類別】: 生物群系
+【描述/備註】: Other
+----------------------------------------
+### 無
+【類別】: 生物群系
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 生物群系
+【描述/備註】: Bronze
+----------------------------------------
+### 無
+【類別】: 生物群系
+【描述/備註】: Gold
+----------------------------------------
+### 無
+【類別】: 生物群系
+【描述/備註】: Silver
+----------------------------------------
+### 無
+【類別】: 生物群系
+【Advancement】: Hot Tourist Destinations
+【In-game description】: Explore all Nether biomes
+【描述/備註】: Visit all of the 5 following biomes: Basalt Deltas Crimson Forest Nether Wastes Soul Sand Valley Warped Forest The advancement is only for Nether biomes. Other biomes may also be visited, but are ignored for this advancement.
+----------------------------------------
+### 無
+【類別】: 生物群系
+【Advancement】: Adventuring Time
+【In-game description】: Discover every biome
+【描述/備註】: Visit all of these 54 biomes: Badlands Bamboo Jungle Beach Birch Forest Cherry Grove Cold Ocean Dark Forest Deep Cold Ocean Deep Dark Deep Frozen Ocean Deep Lukewarm Ocean Deep Ocean Desert Dripstone Caves Eroded Badlands Flower Forest Forest Frozen Ocean Frozen Peaks Frozen River Grove Ice Spikes Jagged Peaks Jungle Lukewarm Ocean Lush Caves Mangrove Swamp Meadow Mushroom Fields Ocean Old Growth Birch Forest Old Growth Pine Taiga Old Growth Spruce Taiga Pale Garden Plains River Savanna Savanna Plateau Snowy Beach Snowy Plains Snowy Slopes Snowy Taiga Sparse Jungle Stony Peaks Stony Shore Sunflower Plains Swamp Taiga Warm Ocean Windswept Forest Windswept Gravelly Hills Windswept Hills Windswept Savanna Wooded Badlands The advancement is only for Overworld biomes. Other biomes may also be visited, but are ignored for this advancement.
+----------------------------------------
+### 無
+【類別】: 生物群系
+【Advancement】: Sound of Music
+【In-game description】: Make the Meadows come alive with the sound of music from a Jukebox
+【描述/備註】: Use a music disc on a jukebox that stands within a meadow biome.
+----------------------------------------
+### v1.0.4
+【類別】: 生物群系
+【描述/備註】: Added Winter Mode. Maps now have a snowy or grassy theme randomly determined when creating the world.
+----------------------------------------
+### v1.2.0
+【類別】: 生物群系
+【描述/備註】: Added true biomes; they were rainforest, seasonal forest, forest, shrubland, taiga, tundra, savanna, plains, swampland, desert, frozen desert and the Nether.
+----------------------------------------
+### 1.6
+【類別】: 生物群系
+【描述/備註】: Added the Sky Dimension with its own biome. It could be viewed only through the use of modifications.
+----------------------------------------
+### 1.8
+【類別】: 生物群系
+【描述/備註】: Notch tweeted a screenshot of a revamped river biome.
+----------------------------------------
+### September 2, 2011
+【類別】: 生物群系
+【描述/備註】: Notch teases a screenshot of the new desert biome.
+----------------------------------------
+### September 3, 2011
+【類別】: 生物群系
+【描述/備註】: Notch teases a screenshot of the new swamp biome.
+----------------------------------------
+### Pre-release
+【類別】: 生物群系
+【描述/備註】: Added extreme hills, river and ocean.
+----------------------------------------
+### 1.0.0
+【類別】: 生物群系
+【描述/備註】: Notch mentions "snow biomes".
+----------------------------------------
+### September 15, 2011
+【類別】: 生物群系
+【描述/備註】: Notch teases a screenshot of the ice plains, which was then referred to as a "snow biome".
+----------------------------------------
+### Beta 1.9 Prerelease
+【類別】: 生物群系
+【描述/備註】: Re-added tundra as ice plains.
+----------------------------------------
+### Beta 1.9 Prerelease 4
+【類別】: 生物群系
+【描述/備註】: Added the End.
+----------------------------------------
+### 1.1
+【類別】: 生物群系
+【描述/備註】: Added the desert hills, wooded hills, taiga hills, mountain edge, and beach biomes.
+----------------------------------------
+### 1.2.1
+【類別】: 生物群系
+【描述/備註】: Jens Bergensten tweeted a teaser screenshot of a new jungle biome.
+----------------------------------------
+### January 19, 2012
+【類別】: 生物群系
+【描述/備註】: He tweeted another jungle screenshot, showcasing the bright green foliage.
+----------------------------------------
+### 12w03a
+【類別】: 生物群系
+【描述/備註】: Added the jungle biome.
+----------------------------------------
+### 12w07a
+【類別】: 生物群系
+【描述/備註】: The Anvil file format was introduced and it allows for biomes to be stored in the world data. In contrast, the Region file format relies on the world seed to dynamically calculate biome placement. This would cause biome placement in older worlds to change when the biome generation code was changed. With the current Anvil format, the biome data is stored along with the rest of the world data, meaning it does not change after the world is generated and can be edited by third-party map-editing tools. Furthermore, "edge" biomes allow for biomes to continue to extend beyond the edge chunks of an old world. This allows for smooth transitions in world generation after the generation code changes in an update.
+----------------------------------------
+### 1.3.1
+【類別】: 生物群系
+【描述/備註】: Increased the scale and depth of desert hills, forest hills, extreme hills, ice mountains, jungle hills and taiga hills biomes.
+----------------------------------------
+### 12w27a
+【類別】: 生物群系
+【描述/備註】: Some sections of ice plains biomes were replaced with taiga biomes.
+----------------------------------------
+### 1.7.2
+【類別】: 生物群系
+【描述/備註】: Jens Bergensten tweeted the first image of the mesa biome. He jokingly referred to them as "disco mountains."
+----------------------------------------
+### August 7, 2013
+【類別】: 生物群系
+【描述/備註】: Jens Bergensten tweeted the first image of a mega taiga, unofficially dubbed the redwood forest. The name was changed following 1.7's release.
+----------------------------------------
+### August 9, 2013
+【類別】: 生物群系
+【描述/備註】: Jens Bergensten tweeted the first image of a stone beach, which was then referred to as a "cliff" biome.
+----------------------------------------
+### 13w36a
+【類別】: 生物群系
+【描述/備註】: Mesa, mega taiga, roofed forest, birch forest, savanna, extreme hills+, deep ocean and snowless taiga biomes were added as well as variations for many of the biomes. Biomes were also separated by temperature, and snowing was added to extreme hills.
+----------------------------------------
+### 1.8
+【類別】: 生物群系
+【描述/備註】: The End's biome name is now "The End" instead of "Sky".
+----------------------------------------
+### 1.9
+【類別】: 生物群系
+【描述/備註】: Added new biome "The Void", which is used in superflat preset "The Void".
+----------------------------------------
+### 16w02a
+【類別】: 生物群系
+【描述/備註】: A lot of M type biomes no longer generate due to MC-95612.
+----------------------------------------
+### 16w03a
+【類別】: 生物群系
+【描述/備註】: M biomes generate again, with the exception of birch forest M (which messes with a lot of other things), see MC-98995.
+----------------------------------------
+### 1.11
+【類別】: 生物群系
+【描述/備註】: Birch forest M biomes generate once again.
+----------------------------------------
+### 1.13
+【類別】: 生物群系
+【描述/備註】: The outer islands of The End biome are now divided up into four separate biomes: The End - floating islands, The End - medium island, The End - high island and The End - barren island.
+----------------------------------------
+### 18w08a
+【類別】: 生物群系
+【描述/備註】: Added ocean variants, including warm ocean, lukewarm ocean, cold ocean, warm deep ocean, deep lukewarm ocean, deep cold ocean and deep frozen ocean.
+----------------------------------------
+### 18w08b
+【類別】: 生物群系
+【描述/備註】: Deep warm ocean biome no longer generates.
+----------------------------------------
+### 18w16a
+【類別】: 生物群系
+【描述/備註】: Biome names are now translateable.
+----------------------------------------
+### 18w19a
+【類別】: 生物群系
+【描述/備註】: Names of several biomes are changed. The exact name changes are listed here.
+----------------------------------------
+### pre5
+【類別】: 生物群系
+【描述/備註】: Changed several biome IDs, mostly to comply with their names, listed here.
+----------------------------------------
+### 1.14
+【類別】: 生物群系
+【描述/備註】: Added bamboo jungles.
+----------------------------------------
+### 1.15
+【類別】: 生物群系
+【描述/備註】: Biome information now stores Y-coordinates, allowing biomes to be changed based on height. However, this is not yet implemented.
+----------------------------------------
+### September 28, 2019
+【類別】: 生物群系
+【描述/備註】: Nether biomes were shown at Minecon Live 2019.
+----------------------------------------
+### 1.16
+【類別】: 生物群系
+【描述/備註】: Implemented vertical biomes in the Nether.
+----------------------------------------
+### 20w15a
+【類別】: 生物群系
+【描述/備註】: Added the basalt deltas.
+----------------------------------------
+### 20w19a
+【類別】: 生物群系
+【描述/備註】: Tweaked biome distribution in the Nether.
+----------------------------------------
+### 1.16.2
+【類別】: 生物群系
+【描述/備註】: Experimental Support for Custom Biomes was added.
+----------------------------------------
+### October 3, 2020
+【類別】: 生物群系
+【描述/備註】: Cave biomes and new mountains were shown at Minecraft Live 2020.
+----------------------------------------
+### 1.17
+【類別】: 生物群系
+【描述/備註】: Biome-specific sky colors now blend more smoothly.
+----------------------------------------
+### 20w49a
+【類別】: 生物群系
+【描述/備註】: Added the dripstone caves biome. Currently accessible only using the buffet world options.
+----------------------------------------
+### 21w10a
+【類別】: 生物群系
+【描述/備註】: Added the lush caves biome. Currently accessible only using the buffet world options.
+----------------------------------------
+### October 16, 2021
+【類別】: 生物群系
+【描述/備註】: New swamps were shown and overhauls for other biomes were hinted at Minecraft Live 2021.
+----------------------------------------
+### 1.18
+【類別】: 生物群系
+【描述/備註】: Implemented multi-noise biome generation in the Overworld.
+----------------------------------------
+### experimental snapshot 2
+【類別】: 生物群系
+【描述/備註】: Savanna plateau, eroded badlands and ice spikes can now generate naturally once again.
+----------------------------------------
+### experimental snapshot 3
+【類別】: 生物群系
+【描述/備註】: Added the stony peaks biome.
+----------------------------------------
+### experimental snapshot 5
+【類別】: 生物群系
+【描述/備註】: Jungle edge now generates naturally once again.
+----------------------------------------
+### 21w40a
+【類別】: 生物群系
+【描述/備註】: Names of several biomes changed. The exact name changes are listed here.
+----------------------------------------
+### 21w42a
+【類別】: 生物群系
+【描述/備註】: Beaches are no longer created when a desert borders an ocean.
+----------------------------------------
+### 21w43a
+【類別】: 生物群系
+【描述/備註】: Removed the deep warm ocean biome.
+----------------------------------------
+### 1.18.2
+【類別】: 生物群系
+【描述/備註】: Eroded badlands now require positive weirdness instead of negative weirdness.
+----------------------------------------
+### 22w05a
+【類別】: 生物群系
+【描述/備註】: Temporarily reverted changes to badlands in the previous snapshot.
+----------------------------------------
+### 1.19
+【類別】: 生物群系
+【描述/備註】: Added the deep dark biome.
+----------------------------------------
+### 22w13a
+【類別】: 生物群系
+【描述/備註】: Eroded badlands once again require positive weirdness instead of negative weirdness.
+----------------------------------------
+### 22w14a
+【類別】: 生物群系
+【描述/備註】: Added the mangrove swamp biome.
+----------------------------------------
+### 1.19.4
+【類別】: 生物群系
+【描述/備註】: The precipitation value of a biome can now only be "true" or "false", meaning whether it rains or snows in a biome is determined only by its temperature.
+----------------------------------------
+### 1.19.4ExperimentUpdate 1.20
+【類別】: 生物群系
+【描述/備註】: Added the cherry grove biome.
+----------------------------------------
+### 1.20
+【類別】: 生物群系
+【描述/備註】: Cherry groves are now available without using the "Update 1.20" experimental data pack.
+----------------------------------------
+### 1.21.2ExperimentWinter Drop
+【類別】: 生物群系
+【描述/備註】: Added the pale garden biome.
+----------------------------------------
+### 1.21.11
+【類別】: 生物群系
+【描述/備註】: Added environment attributes for biomes.
+----------------------------------------
+### v0.1.0
+【類別】: 生物群系
+【描述/備註】: Added biomes, these 5 biomes include: snowy tundra, snowy taiga, plains, forest and desert, from Java Edition Alpha v1.2.0.
+----------------------------------------
+### v0.1.3
+【類別】: 生物群系
+【描述/備註】: Cacti now generates in deserts.
+----------------------------------------
+### v0.8.0
+【類別】: 生物群系
+【描述/備註】: The color of the sky now changes slightly depending on the biome.
+----------------------------------------
+### v0.9.0
+【類別】: 生物群系
+【描述/備註】: All biomes as of Java Edition 1.7.2 have been added. These include: Jungles, mesa, roofed forests, savannas, extreme hills, mushroom islands, flower forest, mega taiga, mega spruce taiga, swampland, deep ocean and legacy frozen ocean (unused).
+----------------------------------------
+### v0.9.5
+【類別】: 生物群系
+【描述/備註】: Added bryce mesa, extreme hills+ and jungle M.
+----------------------------------------
+### v0.10.0
+【類別】: 生物群系
+【描述/備註】: Mesa biomes have gold ore at every elevation and can generate mineshafts on the surface.
+----------------------------------------
+### v0.11.0
+【類別】: 生物群系
+【描述/備註】: Added birch forest M, birch forest hills M, extreme hills M and extreme hills+ M.
+----------------------------------------
+### build 8
+【類別】: 生物群系
+【描述/備註】: Changed the default biome.
+----------------------------------------
+### build 10
+【類別】: 生物群系
+【描述/備註】: Increased the amount of gravel in extreme hills M biome.
+----------------------------------------
+### v0.12.1
+【類別】: 生物群系
+【描述/備註】: Added the Nether biome.
+----------------------------------------
+### build 10
+【類別】: 生物群系
+【描述/備註】: Leaves coloring shaders are now used only when the color for a biome actually changes.
+----------------------------------------
+### v0.16.0
+【類別】: 生物群系
+【描述/備註】: The biomes can now be viewed on maps based on the grass color.
+----------------------------------------
+### 1.0.0
+【類別】: 生物群系
+【描述/備註】: Added the End biome.
+----------------------------------------
+### 1.2.0
+【類別】: 生物群系
+【描述/備註】: Added snow covers to extreme hills.
+----------------------------------------
+### 1.4.0
+【類別】: 生物群系
+【描述/備註】: Added warm ocean, lukewarm ocean, cold ocean and their deep variants, including new frozen ocean and frozen deep ocean.
+----------------------------------------
+### 1.9.0
+【類別】: 生物群系
+【描述/備註】: Added bamboo jungle and bamboo jungle hills biome.
+----------------------------------------
+### 1.16.0
+【類別】: 生物群系
+【描述/備註】: Added soul sand valleys, crimson forests and warped forests.
+----------------------------------------
+### 1.16.0
+【類別】: 生物群系
+【描述/備註】: Added basalt deltas.
+----------------------------------------
+### 1.16.220
+【類別】: 生物群系
+【描述/備註】: Added lofty peaks, snow capped peaks, snowy slopes, mountain grove and mountain meadow.
+----------------------------------------
+### release
+【類別】: 生物群系
+【描述/備註】: New mountain biomes have been made inaccessible in the full release.
+----------------------------------------
+### 1.17.0ExperimentCaves and Cliffs
+【類別】: 生物群系
+【描述/備註】: Added dripstone caves and lush caves.
+----------------------------------------
+### 1.18.30ExperimentWild Update
+【類別】: 生物群系
+【描述/備註】: Added the deep dark biome.
+----------------------------------------
+### 1.19.80ExperimentNext Major Update
+【類別】: 生物群系
+【描述/備註】: Added the cherry grove biome.
+----------------------------------------
+### 1.21.50
+【類別】: 生物群系
+【描述/備註】: Added the pale garden biome.
+----------------------------------------
+### 1.21.60
+【類別】: 生物群系
+【描述/備註】: The vegetation of many Overworld biomes has been updated to more closely match Java Edition.
+----------------------------------------
+### Xbox 360
+【類別】: 生物群系
+【描述/備註】: 無
+----------------------------------------
+### TU1
+【類別】: 生物群系
+【描述/備註】: Added true biomes; they were rainforest, seasonal forest, forest, shrubland, taiga, tundra, savanna, plains, swampland, desert.
+----------------------------------------
+### TU5
+【類別】: 生物群系
+【描述/備註】: Added swampland, ice plains, extreme hills and ocean biomes.
+----------------------------------------
+### TU7
+【類別】: 生物群系
+【描述/備註】: Re-added tundra (as ice plains) and added mushroom islands.
+----------------------------------------
+### TU9
+【類別】: 生物群系
+【描述/備註】: Re-added beaches and snow in taigas, added hills.
+----------------------------------------
+### TU12
+【類別】: 生物群系
+【描述/備註】: Added jungle biome.
+----------------------------------------
+### TU31
+【類別】: 生物群系
+【描述/備註】: Added mesa, mega taiga, roofed forest, birch forest, forest, savanna, extreme hills+, deep ocean, snowless taiga and 20 technical biomes.
+----------------------------------------
+### TU54
+【類別】: 生物群系
+【描述/備註】: Added a Biome Scale Slider.
+----------------------------------------
+### TU69
+【類別】: 生物群系
+【描述/備註】: Added warm ocean, lukewarm ocean, cold ocean, deep ocean, deep lukewarm ocean, deep cold ocean and deep frozen ocean.
+----------------------------------------
+### 0.1.0
+【類別】: 生物群系
+【描述/備註】: Added biomes including, but not limited to: jungles, savannas, rivers and the Nether.​
+----------------------------------------
+### 1.7.10
+【類別】: 生物群系
+【描述/備註】: Added the End biome.
+----------------------------------------
+### 20w14∞
+【類別】: 生物群系
+【描述/備註】: Added _generated:id, between, biome for player with no time for nonsense and shapes biomes.
+----------------------------------------
+### 23w13a or b
+【類別】: 生物群系
+【描述/備註】: Added the Moon biome.
+----------------------------------------
+### 24w14potato
+【類別】: 生物群系
+【描述/備註】: Added the arboretum, corruption, fields, hash, and wasteland biomes.
+----------------------------------------
