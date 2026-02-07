@@ -71,7 +71,7 @@ async def chat_endpoint(
     try:
         # 設定 50 秒超時，防止 Cloudflared 因為後端處理太久而斷開
         answer = await asyncio.wait_for(get_ollama_response(request.prompt), timeout=50)
-        return {"answer": answer, "model": model_id}
+        return {"answer": answer}
     except asyncio.TimeoutError:
         raise HTTPException(status_code=504, detail="Response timeout from Ollama")
     except Exception as e:

@@ -74,5 +74,4 @@ async def generate_reply(user_prompt: str) -> str:
         logging.error(f"Ollama error: {e}")
         return "Sorry, I couldn't generate a response at this time."
 
-if __name__ == "__main__":
-    bot.run(discord_token)
+bot.run(discord_token)
