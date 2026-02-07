@@ -74,7 +74,6 @@ class PromptRequest(BaseModel):
 async def get_ollama_response(prompt: str) -> str:
 
     rag_prompt = generate_rag_prompt(prompt)
-    
 
     try:
         response = await asyncio.to_thread(
@@ -82,7 +81,7 @@ async def get_ollama_response(prompt: str) -> str:
             model=model_id,
             messages=memory + [{"role": "user", "content": rag_prompt}],
             options={
-                "temperature": 0.7,
+                "temperature": 0.5,
                 "top_p": 0.9,
                 "repeat_penalty": 1.2,
             }
@@ -93,6 +92,7 @@ async def get_ollama_response(prompt: str) -> str:
             {"role": "assistant", "content": reply},
             {"role": "user", "content": prompt}
         ])
+
 
         return reply
 
@@ -123,6 +123,7 @@ async def chat_endpoint(
 ):
     try:
         # 設定 50 秒超時
+        print(f"Received request with prompt: {request.prompt}")
         answer = await asyncio.wait_for(get_ollama_response(request.prompt), timeout=50)
         return {"answer": answer}
     except asyncio.TimeoutError:

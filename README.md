@@ -48,9 +48,30 @@
 
 | 項目 | 版本 |
 |------|------|
-| Python | >= 3.13 |
+| Python | 3.13 |
 | Ollama | 本地安裝 |
 | 預設模型 | `llama3.2:3b` |
+#### 引入套件
+
+| 項目 | 版本 |
+|---|---|
+| dotenv |>=0.9.9"|
+|fastapi|>=0.128.3|
+|ollama |>=0.6.1|
+|py-cord|>=2.7.0|
+|uvicorn|>=0.40.0|
+|openai |>=2.17.0|
+|python-dotenv |>=1.2.1|
+|langchain-community|
+|langchain-text-splitters|
+|huggingface_hub|
+|faiss-cpu|
+|unstructured|
+|unstructured[docx,pdf] |
+|pypdf|
+|sentence-transformers|
+|htmlrag|>=0.1.1|
+|beautifulsoup4|>=4.14.3|
 
 ## 專案結構
 

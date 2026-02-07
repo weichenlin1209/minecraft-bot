@@ -8,7 +8,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import (
   TextLoader,
   PyPDFLoader,
-  UnstructuredWordDocumentLoader
+  UnstructuredWordDocumentLoader,
+  BSHTMLLoader
 )
 
 from embedding import EmbeddingsGemmaEmbeddings
@@ -34,6 +35,8 @@ for file in os.listdir(DATA_FOLDER):
     loader = PyPDFLoader(path)
   elif file.endswith(".docx"):
     loader = UnstructuredWordDocumentLoader(path)
+  elif file.endswith(".html") or file.endswith(".htm"):
+        loader = BSHTMLLoader(path)
   else:
     continue
   documents.extend(loader.load())
