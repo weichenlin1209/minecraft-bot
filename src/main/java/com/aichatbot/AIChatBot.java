@@ -22,26 +22,27 @@ public class AIChatBot {
      */
     public String callAI(String prompt, String playerName) {
         try {
-            // 將 system prompt 中的 {player} 替換成實際玩家名稱
-            String systemPrompt = config.systemPrompt.replace("{player}", playerName);
+            // 將 system prompt 中的 {player} 替換成實際玩家名稱，附加到 prompt 前面
+            String commandContext = config.systemPrompt.replace("{player}", playerName);
+            String fullPrompt = commandContext + "\n\n玩家 " + playerName + " 說: " + prompt;
 
             URL url = new URL(config.apiUrl);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("POST");
-            conn.setRequestProperty("Authorization", "Bearer " + config.apiKey);
             conn.setRequestProperty("Content-Type", "application/json");
             conn.setDoOutput(true);
             conn.setConnectTimeout(10000);
-            conn.setReadTimeout(30000);
+            conn.setReadTimeout(60000);
 
-            String jsonBody = "{"
-                    + "\"model\": \"" + escapeJson(config.model) + "\","
-                    + "\"messages\": ["
-                    + "  {\"role\": \"system\", \"content\": \"" + escapeJson(systemPrompt) + "\"},"
-                    + "  {\"role\": \"user\", \"content\": \"" + escapeJson(prompt) + "\"}"
-                    + "],"
-                    + "\"temperature\": " + config.temperature
-                    + "}";
+            // 設定認證：Ollama FastAPI 用 X-API-TOKEN，OpenAI 用 Bearer
+            if (!config.apiToken.isEmpty() && !config.apiToken.equals("YOUR_API_TOKEN")) {
+                conn.setRequestProperty("X-API-TOKEN", config.apiToken);
+            } else if (!config.apiKey.isEmpty()) {
+                conn.setRequestProperty("Authorization", "Bearer " + config.apiKey);
+            }
+
+            // Ollama FastAPI 格式: {"prompt": "..."}
+            String jsonBody = "{\"prompt\": \"" + escapeJson(fullPrompt) + "\"}";
 
             try (OutputStream os = conn.getOutputStream()) {
                 byte[] input = jsonBody.getBytes("utf-8");
@@ -57,10 +58,10 @@ public class AIChatBot {
                     while ((line = br.readLine()) != null) {
                         response.append(line.trim());
                     }
-                    return parseContent(response.toString());
+                    // Ollama FastAPI 回應格式: {"answer": "..."}
+                    return parseAnswer(response.toString());
                 }
             } else {
-                // 讀取錯誤回應以獲得更多資訊
                 try (BufferedReader br = new BufferedReader(
                         new InputStreamReader(conn.getErrorStream(), "utf-8"))) {
                     StringBuilder errorResponse = new StringBuilder();
@@ -88,11 +89,11 @@ public class AIChatBot {
     }
 
     /**
-     * 從 OpenAI JSON 回應中解析 content 欄位
+     * 從 Ollama FastAPI JSON 回應中解析 answer 欄位
      */
-    private String parseContent(String jsonResponse) {
-        // 尋找 "content": " 或 "content":"
-        String marker = "\"content\":";
+    private String parseAnswer(String jsonResponse) {
+        // 尋找 "answer": " 或 "answer":"
+        String marker = "\"answer\":";
         int idx = jsonResponse.indexOf(marker);
         if (idx == -1) return jsonResponse;
 

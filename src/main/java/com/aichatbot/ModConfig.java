@@ -15,9 +15,10 @@ public class ModConfig {
     private static final String CONFIG_FILE = "aichatbot.json";
     private static final String ENV_FILE = "aichatbot.env";
 
-    public String apiUrl = "https://openrouter.ai/api/v1/chat/completions";
-    public String apiKey = "YOUR_API_KEY";
-    public String model = "arcee-ai/trinity-large-preview:free";
+    public String apiUrl = "http://localhost:4567/chat";
+    public String apiToken = "YOUR_API_TOKEN";
+    public String apiKey = "";
+    public String model = "";
     public String systemPrompt = "你是 Minecraft 伺服器的 AI 助手。當前發問的玩家名稱是 {player}。\n"
             + "【重要規則】\n"
             + "1. 當玩家要求執行動作時（給物品、傳送、改天氣等），你必須只回覆指令本身，不要加任何說明文字。\n"
@@ -65,7 +66,8 @@ public class ModConfig {
     /**
      * 從 .env 檔案讀取環境變數並覆蓋設定
      * 支援的變數：
-     *   AICHATBOT_API_KEY    → apiKey
+     *   AICHATBOT_API_TOKEN   → apiToken (Ollama FastAPI)
+     *   AICHATBOT_API_KEY    → apiKey (OpenRouter/OpenAI)
      *   AICHATBOT_API_URL    → apiUrl
      *   AICHATBOT_MODEL      → model
      *   AICHATBOT_PREFIX     → prefix
@@ -83,6 +85,10 @@ public class ModConfig {
         Map<String, String> env = parseEnvFile(envFile);
         boolean changed = false;
 
+        if (env.containsKey("AICHATBOT_API_TOKEN")) {
+            this.apiToken = env.get("AICHATBOT_API_TOKEN");
+            changed = true;
+        }
         if (env.containsKey("AICHATBOT_API_KEY")) {
             this.apiKey = env.get("AICHATBOT_API_KEY");
             changed = true;
@@ -151,17 +157,20 @@ public class ModConfig {
     private void createEnvTemplate(Path envFile) {
         try (Writer writer = Files.newBufferedWriter(envFile)) {
             writer.write("# AI ChatBot 環境變數設定\n");
-            writer.write("# 在這裡設定敏感資訊（如 API Key），避免直接寫在 aichatbot.json\n");
+            writer.write("# 在這裡設定敏感資訊，避免直接寫在 aichatbot.json\n");
             writer.write("# .env 的值會覆蓋 aichatbot.json 的對應設定\n");
             writer.write("\n");
-            writer.write("# API Key（必填）\n");
-            writer.write("AICHATBOT_API_KEY=YOUR_API_KEY\n");
+            writer.write("# Ollama FastAPI Token（必填）\n");
+            writer.write("AICHATBOT_API_TOKEN=YOUR_API_TOKEN\n");
             writer.write("\n");
-            writer.write("# API 端點 URL（選填）\n");
-            writer.write("# AICHATBOT_API_URL=https://openrouter.ai/api/v1/chat/completions\n");
+            writer.write("# API 端點 URL（選填，預設 http://localhost:4567/chat）\n");
+            writer.write("# AICHATBOT_API_URL=http://localhost:4567/chat\n");
             writer.write("\n");
-            writer.write("# 模型名稱（選填）\n");
-            writer.write("# AICHATBOT_MODEL=arcee-ai/trinity-large-preview:free\n");
+            writer.write("# OpenRouter/OpenAI API Key（如使用 OpenAI 才需要）\n");
+            writer.write("# AICHATBOT_API_KEY=\n");
+            writer.write("\n");
+            writer.write("# 模型名稱（如使用 OpenAI 才需要）\n");
+            writer.write("# AICHATBOT_MODEL=\n");
             writer.write("\n");
             writer.write("# 聊天觸發前綴（選填）\n");
             writer.write("# AICHATBOT_PREFIX=!ai\n");
