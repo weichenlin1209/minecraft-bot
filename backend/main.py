@@ -130,7 +130,8 @@ async def chat_endpoint(
     try:
         # 設定 50 秒超時
         print(f"Received request with prompt: {request.prompt}")
-        answer = await asyncio.wait_for(get_ollama_response(request.prompt), timeout=50)
+        for i in range(3):
+            answer = await asyncio.wait_for(get_ollama_response(request.prompt), timeout=50)
         return {"answer": answer}
     except asyncio.TimeoutError:
         raise HTTPException(status_code=504, detail="Response timeout from Ollama")
